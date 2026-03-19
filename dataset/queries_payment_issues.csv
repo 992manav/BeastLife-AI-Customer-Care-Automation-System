@@ -1,0 +1,101 @@
+Query_ID,Query_Text,Category,Sentiment,Platform,Confidence,Expected_Automation_Rate,Expected_Resolution_Path,Expected_Response_Time_ms,Customer_Satisfaction_Score
+PA-001,I was charged twice for this order,payment_issues,Critical,WhatsApp,0.71,55%,Path C - Escalation,600,2.0
+PA-002,"My payment failed, what should I do (query 1)?",payment_issues,Negative,WhatsApp,0.91,55%,Path C - Escalation,600,2.5
+PA-003,I see an unauthorized charge on my account,payment_issues,Negative,Instagram,0.71,55%,Path C - Escalation,600,2.5
+PA-004,Can you apply my discount code (query 3)?,payment_issues,Negative,Email,0.91,55%,Path C - Escalation,600,2.5
+PA-005,"My credit card was declined, can I pay by other means (query 4)?",payment_issues,Critical,Email,0.93,55%,Path C - Escalation,600,2.0
+PA-006,I notice you charged me 3 times. This looks like fraud!,payment_issues,Positive,Twitter,0.94,55%,Path C - Escalation,600,3.5
+PA-007,What payment methods do you accept (query 6)?,payment_issues,Negative,Chat,0.76,55%,Path C - Escalation,600,2.5
+PA-008,I was charged twice for this order,payment_issues,Neutral,Instagram,0.93,55%,Path C - Escalation,600,3.0
+PA-009,"My payment failed, what should I do (query 8)?",payment_issues,Neutral,WhatsApp,0.93,55%,Path C - Escalation,600,3.0
+PA-010,I see an unauthorized charge on my account,payment_issues,Neutral,Email,0.93,55%,Path C - Escalation,600,3.0
+PA-011,Can you apply my discount code (query 10)?,payment_issues,Negative,Instagram,0.7,55%,Path C - Escalation,600,2.5
+PA-012,"My credit card was declined, can I pay by other means (query 11)?",payment_issues,Positive,Chat,0.9,55%,Path C - Escalation,600,3.5
+PA-013,I notice you charged me 3 times. This looks like fraud!,payment_issues,Negative,Twitter,0.67,55%,Path C - Escalation,600,2.5
+PA-014,What payment methods do you accept (query 13)?,payment_issues,Neutral,Instagram,0.94,55%,Path C - Escalation,600,3.0
+PA-015,I was charged twice for this order,payment_issues,Critical,Twitter,0.85,55%,Path C - Escalation,600,2.0
+PA-016,"My payment failed, what should I do (query 15)?",payment_issues,Positive,WhatsApp,0.75,55%,Path C - Escalation,600,3.5
+PA-017,I see an unauthorized charge on my account,payment_issues,Neutral,WhatsApp,0.92,55%,Path C - Escalation,600,3.0
+PA-018,Can you apply my discount code (query 17)?,payment_issues,Neutral,Email,0.9,55%,Path C - Escalation,600,3.0
+PA-019,"My credit card was declined, can I pay by other means (query 18)?",payment_issues,Negative,Email,0.97,55%,Path C - Escalation,600,2.5
+PA-020,I notice you charged me 3 times. This looks like fraud!,payment_issues,Negative,Twitter,0.76,55%,Path C - Escalation,600,2.5
+PA-021,What payment methods do you accept (query 20)?,payment_issues,Neutral,Twitter,0.77,55%,Path C - Escalation,600,3.0
+PA-022,I was charged twice for this order,payment_issues,Neutral,Instagram,0.88,55%,Path C - Escalation,600,3.0
+PA-023,"My payment failed, what should I do (query 22)?",payment_issues,Negative,Instagram,0.84,55%,Path C - Escalation,600,2.5
+PA-024,I see an unauthorized charge on my account,payment_issues,Critical,Twitter,0.83,55%,Path C - Escalation,600,2.0
+PA-025,Can you apply my discount code (query 24)?,payment_issues,Negative,Email,0.93,55%,Path C - Escalation,600,2.5
+PA-026,"My credit card was declined, can I pay by other means (query 25)?",payment_issues,Neutral,Chat,0.72,55%,Path C - Escalation,600,3.0
+PA-027,I notice you charged me 3 times. This looks like fraud!,payment_issues,Positive,Twitter,0.95,55%,Path C - Escalation,600,3.5
+PA-028,What payment methods do you accept (query 27)?,payment_issues,Negative,Email,0.95,55%,Path C - Escalation,600,2.5
+PA-029,I was charged twice for this order,payment_issues,Critical,Email,0.82,55%,Path C - Escalation,600,2.0
+PA-030,"My payment failed, what should I do (query 29)?",payment_issues,Positive,Instagram,0.73,55%,Path C - Escalation,600,3.5
+PA-031,I see an unauthorized charge on my account,payment_issues,Neutral,WhatsApp,0.79,55%,Path C - Escalation,600,3.0
+PA-032,Can you apply my discount code (query 31)?,payment_issues,Positive,Twitter,0.93,55%,Path C - Escalation,600,3.5
+PA-033,"My credit card was declined, can I pay by other means (query 32)?",payment_issues,Neutral,Instagram,0.76,55%,Path C - Escalation,600,3.0
+PA-034,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Instagram,0.93,55%,Path C - Escalation,600,3.0
+PA-035,What payment methods do you accept (query 34)?,payment_issues,Neutral,WhatsApp,0.7,55%,Path C - Escalation,600,3.0
+PA-036,I was charged twice for this order,payment_issues,Positive,Chat,0.97,55%,Path C - Escalation,600,3.5
+PA-037,"My payment failed, what should I do (query 36)?",payment_issues,Neutral,Email,0.94,55%,Path C - Escalation,600,3.0
+PA-038,I see an unauthorized charge on my account,payment_issues,Neutral,Chat,0.81,55%,Path C - Escalation,600,3.0
+PA-039,Can you apply my discount code (query 38)?,payment_issues,Neutral,Chat,0.89,55%,Path C - Escalation,600,3.0
+PA-040,"My credit card was declined, can I pay by other means (query 39)?",payment_issues,Neutral,Instagram,0.91,55%,Path C - Escalation,600,3.0
+PA-041,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,WhatsApp,0.95,55%,Path C - Escalation,600,3.0
+PA-042,What payment methods do you accept (query 41)?,payment_issues,Neutral,Chat,0.85,55%,Path C - Escalation,600,3.0
+PA-043,I was charged twice for this order,payment_issues,Neutral,Instagram,0.74,55%,Path C - Escalation,600,3.0
+PA-044,"My payment failed, what should I do (query 43)?",payment_issues,Neutral,Twitter,0.93,55%,Path C - Escalation,600,3.0
+PA-045,I see an unauthorized charge on my account,payment_issues,Negative,Instagram,0.77,55%,Path C - Escalation,600,2.5
+PA-046,Can you apply my discount code (query 45)?,payment_issues,Neutral,Email,0.78,55%,Path C - Escalation,600,3.0
+PA-047,"My credit card was declined, can I pay by other means (query 46)?",payment_issues,Neutral,WhatsApp,0.71,55%,Path C - Escalation,600,3.0
+PA-048,I notice you charged me 3 times. This looks like fraud!,payment_issues,Negative,Twitter,0.75,55%,Path C - Escalation,600,2.5
+PA-049,What payment methods do you accept (query 48)?,payment_issues,Neutral,WhatsApp,0.93,55%,Path C - Escalation,600,3.0
+PA-050,I was charged twice for this order,payment_issues,Neutral,Chat,0.89,55%,Path C - Escalation,600,3.0
+PA-051,"My payment failed, what should I do (query 50)?",payment_issues,Neutral,Twitter,0.73,55%,Path C - Escalation,600,3.0
+PA-052,I see an unauthorized charge on my account,payment_issues,Critical,Instagram,0.86,55%,Path C - Escalation,600,2.0
+PA-053,Can you apply my discount code (query 52)?,payment_issues,Negative,Instagram,0.74,55%,Path C - Escalation,600,2.5
+PA-054,"My credit card was declined, can I pay by other means (query 53)?",payment_issues,Critical,Twitter,0.75,55%,Path C - Escalation,600,2.0
+PA-055,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Chat,0.91,55%,Path C - Escalation,600,3.0
+PA-056,What payment methods do you accept (query 55)?,payment_issues,Negative,Instagram,0.71,55%,Path C - Escalation,600,2.5
+PA-057,I was charged twice for this order,payment_issues,Neutral,Chat,0.89,55%,Path C - Escalation,600,3.0
+PA-058,"My payment failed, what should I do (query 57)?",payment_issues,Negative,Chat,0.86,55%,Path C - Escalation,600,2.5
+PA-059,I see an unauthorized charge on my account,payment_issues,Neutral,WhatsApp,0.74,55%,Path C - Escalation,600,3.0
+PA-060,Can you apply my discount code (query 59)?,payment_issues,Neutral,WhatsApp,0.95,55%,Path C - Escalation,600,3.0
+PA-061,"My credit card was declined, can I pay by other means (query 60)?",payment_issues,Neutral,WhatsApp,0.75,55%,Path C - Escalation,600,3.0
+PA-062,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Chat,0.83,55%,Path C - Escalation,600,3.0
+PA-063,What payment methods do you accept (query 62)?,payment_issues,Critical,WhatsApp,0.7,55%,Path C - Escalation,600,2.0
+PA-064,I was charged twice for this order,payment_issues,Neutral,WhatsApp,0.86,55%,Path C - Escalation,600,3.0
+PA-065,"My payment failed, what should I do (query 64)?",payment_issues,Positive,Twitter,0.94,55%,Path C - Escalation,600,3.5
+PA-066,I see an unauthorized charge on my account,payment_issues,Positive,Email,0.83,55%,Path C - Escalation,600,3.5
+PA-067,Can you apply my discount code (query 66)?,payment_issues,Positive,WhatsApp,0.79,55%,Path C - Escalation,600,3.5
+PA-068,"My credit card was declined, can I pay by other means (query 67)?",payment_issues,Neutral,Email,0.72,55%,Path C - Escalation,600,3.0
+PA-069,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Twitter,0.71,55%,Path C - Escalation,600,3.0
+PA-070,What payment methods do you accept (query 69)?,payment_issues,Neutral,Chat,0.81,55%,Path C - Escalation,600,3.0
+PA-071,I was charged twice for this order,payment_issues,Negative,Twitter,0.72,55%,Path C - Escalation,600,2.5
+PA-072,"My payment failed, what should I do (query 71)?",payment_issues,Neutral,Instagram,0.94,55%,Path C - Escalation,600,3.0
+PA-073,I see an unauthorized charge on my account,payment_issues,Critical,WhatsApp,0.86,55%,Path C - Escalation,600,2.0
+PA-074,Can you apply my discount code (query 73)?,payment_issues,Critical,Email,0.97,55%,Path C - Escalation,600,2.0
+PA-075,"My credit card was declined, can I pay by other means (query 74)?",payment_issues,Neutral,WhatsApp,0.78,55%,Path C - Escalation,600,3.0
+PA-076,I notice you charged me 3 times. This looks like fraud!,payment_issues,Positive,Email,0.83,55%,Path C - Escalation,600,3.5
+PA-077,What payment methods do you accept (query 76)?,payment_issues,Positive,Email,0.75,55%,Path C - Escalation,600,3.5
+PA-078,I was charged twice for this order,payment_issues,Negative,Twitter,0.72,55%,Path C - Escalation,600,2.5
+PA-079,"My payment failed, what should I do (query 78)?",payment_issues,Neutral,Instagram,0.97,55%,Path C - Escalation,600,3.0
+PA-080,I see an unauthorized charge on my account,payment_issues,Neutral,WhatsApp,0.84,55%,Path C - Escalation,600,3.0
+PA-081,Can you apply my discount code (query 80)?,payment_issues,Neutral,Email,0.84,55%,Path C - Escalation,600,3.0
+PA-082,"My credit card was declined, can I pay by other means (query 81)?",payment_issues,Negative,Instagram,0.89,55%,Path C - Escalation,600,2.5
+PA-083,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Instagram,0.92,55%,Path C - Escalation,600,3.0
+PA-084,What payment methods do you accept (query 83)?,payment_issues,Neutral,Chat,0.9,55%,Path C - Escalation,600,3.0
+PA-085,I was charged twice for this order,payment_issues,Neutral,Instagram,0.86,55%,Path C - Escalation,600,3.0
+PA-086,"My payment failed, what should I do (query 85)?",payment_issues,Neutral,Chat,0.93,55%,Path C - Escalation,600,3.0
+PA-087,I see an unauthorized charge on my account,payment_issues,Negative,Twitter,0.7,55%,Path C - Escalation,600,2.5
+PA-088,Can you apply my discount code (query 87)?,payment_issues,Negative,Instagram,0.7,55%,Path C - Escalation,600,2.5
+PA-089,"My credit card was declined, can I pay by other means (query 88)?",payment_issues,Neutral,Instagram,0.74,55%,Path C - Escalation,600,3.0
+PA-090,I notice you charged me 3 times. This looks like fraud!,payment_issues,Negative,WhatsApp,0.95,55%,Path C - Escalation,600,2.5
+PA-091,What payment methods do you accept (query 90)?,payment_issues,Negative,Email,0.89,55%,Path C - Escalation,600,2.5
+PA-092,I was charged twice for this order,payment_issues,Critical,Chat,0.72,55%,Path C - Escalation,600,2.0
+PA-093,"My payment failed, what should I do (query 92)?",payment_issues,Neutral,Instagram,0.87,55%,Path C - Escalation,600,3.0
+PA-094,I see an unauthorized charge on my account,payment_issues,Positive,WhatsApp,0.78,55%,Path C - Escalation,600,3.5
+PA-095,Can you apply my discount code (query 94)?,payment_issues,Critical,Instagram,0.7,55%,Path C - Escalation,600,2.0
+PA-096,"My credit card was declined, can I pay by other means (query 95)?",payment_issues,Negative,Twitter,0.77,55%,Path C - Escalation,600,2.5
+PA-097,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Email,0.88,55%,Path C - Escalation,600,3.0
+PA-098,What payment methods do you accept (query 97)?,payment_issues,Negative,Chat,0.89,55%,Path C - Escalation,600,2.5
+PA-099,I was charged twice for this order,payment_issues,Critical,Instagram,0.74,55%,Path C - Escalation,600,2.0
+PA-100,"My payment failed, what should I do (query 99)?",payment_issues,Neutral,WhatsApp,0.75,55%,Path C - Escalation,600,3.0

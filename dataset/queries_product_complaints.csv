@@ -1,0 +1,101 @@
+Query_ID,Query_Text,Category,Sentiment,Platform,Confidence,Expected_Automation_Rate,Expected_Resolution_Path,Expected_Response_Time_ms,Customer_Satisfaction_Score
+PR-001,This product is terrible quality,product_complaints,Negative,WhatsApp,0.81,45%,Path C - Escalation,600,2.8
+PR-002,The item I received is not as described,product_complaints,Positive,Twitter,0.87,45%,Path C - Escalation,600,3.8
+PR-003,Your product broke after one week,product_complaints,Negative,Instagram,0.92,45%,Path C - Escalation,600,2.8
+PR-004,The packaging was damaged on arrival,product_complaints,Neutral,Email,0.97,45%,Path C - Escalation,600,3.3
+PR-005,This is not what I ordered,product_complaints,Neutral,Instagram,0.76,45%,Path C - Escalation,600,3.3
+PR-006,The product smells bad,product_complaints,Positive,Email,0.74,45%,Path C - Escalation,600,3.8
+PR-007,The fitness equipment is defective,product_complaints,Neutral,Twitter,0.91,45%,Path C - Escalation,600,3.3
+PR-008,Will you match a competitor's pricing on this item (query 7)?,product_complaints,Neutral,Twitter,0.79,45%,Path C - Escalation,600,3.3
+PR-009,This product is terrible quality,product_complaints,Critical,Twitter,0.68,45%,Path C - Escalation,600,2.3
+PR-010,The item I received is not as described,product_complaints,Positive,Twitter,0.72,45%,Path C - Escalation,600,3.8
+PR-011,Your product broke after one week,product_complaints,Negative,Email,0.95,45%,Path C - Escalation,600,2.8
+PR-012,The packaging was damaged on arrival,product_complaints,Negative,Chat,0.83,45%,Path C - Escalation,600,2.8
+PR-013,This is not what I ordered,product_complaints,Critical,Chat,0.84,45%,Path C - Escalation,600,2.3
+PR-014,The product smells bad,product_complaints,Neutral,Chat,0.93,45%,Path C - Escalation,600,3.3
+PR-015,The fitness equipment is defective,product_complaints,Negative,Email,0.78,45%,Path C - Escalation,600,2.8
+PR-016,Will you match a competitor's pricing on this item (query 15)?,product_complaints,Negative,Twitter,0.82,45%,Path C - Escalation,600,2.8
+PR-017,This product is terrible quality,product_complaints,Critical,Chat,0.9,45%,Path C - Escalation,600,2.3
+PR-018,The item I received is not as described,product_complaints,Positive,Chat,0.83,45%,Path C - Escalation,600,3.8
+PR-019,Your product broke after one week,product_complaints,Positive,WhatsApp,0.74,45%,Path C - Escalation,600,3.8
+PR-020,The packaging was damaged on arrival,product_complaints,Neutral,Chat,0.81,45%,Path C - Escalation,600,3.3
+PR-021,This is not what I ordered,product_complaints,Negative,Chat,0.67,45%,Path C - Escalation,600,2.8
+PR-022,The product smells bad,product_complaints,Neutral,Twitter,0.73,45%,Path C - Escalation,600,3.3
+PR-023,The fitness equipment is defective,product_complaints,Negative,WhatsApp,0.72,45%,Path C - Escalation,600,2.8
+PR-024,Will you match a competitor's pricing on this item (query 23)?,product_complaints,Neutral,Twitter,0.79,45%,Path C - Escalation,600,3.3
+PR-025,This product is terrible quality,product_complaints,Neutral,Chat,0.84,45%,Path C - Escalation,600,3.3
+PR-026,The item I received is not as described,product_complaints,Positive,Chat,0.7,45%,Path C - Escalation,600,3.8
+PR-027,Your product broke after one week,product_complaints,Neutral,Twitter,0.74,45%,Path C - Escalation,600,3.3
+PR-028,The packaging was damaged on arrival,product_complaints,Neutral,WhatsApp,0.73,45%,Path C - Escalation,600,3.3
+PR-029,This is not what I ordered,product_complaints,Negative,Twitter,0.68,45%,Path C - Escalation,600,2.8
+PR-030,The product smells bad,product_complaints,Critical,WhatsApp,0.66,45%,Path C - Escalation,600,2.3
+PR-031,The fitness equipment is defective,product_complaints,Positive,WhatsApp,0.73,45%,Path C - Escalation,600,3.8
+PR-032,Will you match a competitor's pricing on this item (query 31)?,product_complaints,Negative,WhatsApp,0.79,45%,Path C - Escalation,600,2.8
+PR-033,This product is terrible quality,product_complaints,Negative,Twitter,0.73,45%,Path C - Escalation,600,2.8
+PR-034,The item I received is not as described,product_complaints,Neutral,Chat,0.9,45%,Path C - Escalation,600,3.3
+PR-035,Your product broke after one week,product_complaints,Negative,Twitter,0.81,45%,Path C - Escalation,600,2.8
+PR-036,The packaging was damaged on arrival,product_complaints,Neutral,Chat,0.91,45%,Path C - Escalation,600,3.3
+PR-037,This is not what I ordered,product_complaints,Positive,Instagram,0.72,45%,Path C - Escalation,600,3.8
+PR-038,The product smells bad,product_complaints,Positive,Chat,0.72,45%,Path C - Escalation,600,3.8
+PR-039,The fitness equipment is defective,product_complaints,Neutral,Instagram,0.8,45%,Path C - Escalation,600,3.3
+PR-040,Will you match a competitor's pricing on this item (query 39)?,product_complaints,Critical,Chat,0.93,45%,Path C - Escalation,600,2.3
+PR-041,This product is terrible quality,product_complaints,Negative,WhatsApp,0.76,45%,Path C - Escalation,600,2.8
+PR-042,The item I received is not as described,product_complaints,Negative,Chat,0.85,45%,Path C - Escalation,600,2.8
+PR-043,Your product broke after one week,product_complaints,Neutral,Chat,0.88,45%,Path C - Escalation,600,3.3
+PR-044,The packaging was damaged on arrival,product_complaints,Positive,Twitter,0.75,45%,Path C - Escalation,600,3.8
+PR-045,This is not what I ordered,product_complaints,Neutral,Chat,0.98,45%,Path C - Escalation,600,3.3
+PR-046,The product smells bad,product_complaints,Critical,Chat,0.95,45%,Path C - Escalation,600,2.3
+PR-047,The fitness equipment is defective,product_complaints,Neutral,Instagram,0.75,45%,Path C - Escalation,600,3.3
+PR-048,Will you match a competitor's pricing on this item (query 47)?,product_complaints,Neutral,Email,0.79,45%,Path C - Escalation,600,3.3
+PR-049,This product is terrible quality,product_complaints,Neutral,Twitter,0.73,45%,Path C - Escalation,600,3.3
+PR-050,The item I received is not as described,product_complaints,Neutral,Instagram,0.83,45%,Path C - Escalation,600,3.3
+PR-051,Your product broke after one week,product_complaints,Neutral,Instagram,0.96,45%,Path C - Escalation,600,3.3
+PR-052,The packaging was damaged on arrival,product_complaints,Negative,Email,0.7,45%,Path C - Escalation,600,2.8
+PR-053,This is not what I ordered,product_complaints,Neutral,Chat,0.81,45%,Path C - Escalation,600,3.3
+PR-054,The product smells bad,product_complaints,Negative,Instagram,0.77,45%,Path C - Escalation,600,2.8
+PR-055,The fitness equipment is defective,product_complaints,Neutral,Email,0.74,45%,Path C - Escalation,600,3.3
+PR-056,Will you match a competitor's pricing on this item (query 55)?,product_complaints,Neutral,Email,0.81,45%,Path C - Escalation,600,3.3
+PR-057,This product is terrible quality,product_complaints,Neutral,WhatsApp,0.88,45%,Path C - Escalation,600,3.3
+PR-058,The item I received is not as described,product_complaints,Positive,WhatsApp,0.8,45%,Path C - Escalation,600,3.8
+PR-059,Your product broke after one week,product_complaints,Neutral,Instagram,0.76,45%,Path C - Escalation,600,3.3
+PR-060,The packaging was damaged on arrival,product_complaints,Neutral,WhatsApp,0.76,45%,Path C - Escalation,600,3.3
+PR-061,This is not what I ordered,product_complaints,Negative,Twitter,0.76,45%,Path C - Escalation,600,2.8
+PR-062,The product smells bad,product_complaints,Negative,Twitter,0.65,45%,Path C - Escalation,600,2.8
+PR-063,The fitness equipment is defective,product_complaints,Positive,Twitter,0.78,45%,Path C - Escalation,600,3.8
+PR-064,Will you match a competitor's pricing on this item (query 63)?,product_complaints,Neutral,Email,0.89,45%,Path C - Escalation,600,3.3
+PR-065,This product is terrible quality,product_complaints,Positive,Email,0.72,45%,Path C - Escalation,600,3.8
+PR-066,The item I received is not as described,product_complaints,Neutral,Twitter,0.8,45%,Path C - Escalation,600,3.3
+PR-067,Your product broke after one week,product_complaints,Neutral,WhatsApp,0.95,45%,Path C - Escalation,600,3.3
+PR-068,The packaging was damaged on arrival,product_complaints,Positive,Chat,0.81,45%,Path C - Escalation,600,3.8
+PR-069,This is not what I ordered,product_complaints,Neutral,Chat,0.87,45%,Path C - Escalation,600,3.3
+PR-070,The product smells bad,product_complaints,Negative,Chat,0.81,45%,Path C - Escalation,600,2.8
+PR-071,The fitness equipment is defective,product_complaints,Negative,Chat,0.98,45%,Path C - Escalation,600,2.8
+PR-072,Will you match a competitor's pricing on this item (query 71)?,product_complaints,Neutral,WhatsApp,0.77,45%,Path C - Escalation,600,3.3
+PR-073,This product is terrible quality,product_complaints,Negative,Instagram,0.81,45%,Path C - Escalation,600,2.8
+PR-074,The item I received is not as described,product_complaints,Negative,Chat,0.66,45%,Path C - Escalation,600,2.8
+PR-075,Your product broke after one week,product_complaints,Neutral,Chat,0.8,45%,Path C - Escalation,600,3.3
+PR-076,The packaging was damaged on arrival,product_complaints,Neutral,Email,0.95,45%,Path C - Escalation,600,3.3
+PR-077,This is not what I ordered,product_complaints,Neutral,WhatsApp,0.71,45%,Path C - Escalation,600,3.3
+PR-078,The product smells bad,product_complaints,Neutral,Twitter,0.79,45%,Path C - Escalation,600,3.3
+PR-079,The fitness equipment is defective,product_complaints,Neutral,Email,0.9,45%,Path C - Escalation,600,3.3
+PR-080,Will you match a competitor's pricing on this item (query 79)?,product_complaints,Neutral,Instagram,0.94,45%,Path C - Escalation,600,3.3
+PR-081,This product is terrible quality,product_complaints,Positive,Chat,0.73,45%,Path C - Escalation,600,3.8
+PR-082,The item I received is not as described,product_complaints,Neutral,Chat,0.78,45%,Path C - Escalation,600,3.3
+PR-083,Your product broke after one week,product_complaints,Neutral,Twitter,0.83,45%,Path C - Escalation,600,3.3
+PR-084,The packaging was damaged on arrival,product_complaints,Neutral,Twitter,0.91,45%,Path C - Escalation,600,3.3
+PR-085,This is not what I ordered,product_complaints,Neutral,Twitter,0.87,45%,Path C - Escalation,600,3.3
+PR-086,The product smells bad,product_complaints,Negative,Chat,0.68,45%,Path C - Escalation,600,2.8
+PR-087,The fitness equipment is defective,product_complaints,Positive,Instagram,0.8,45%,Path C - Escalation,600,3.8
+PR-088,Will you match a competitor's pricing on this item (query 87)?,product_complaints,Critical,WhatsApp,0.73,45%,Path C - Escalation,600,2.3
+PR-089,This product is terrible quality,product_complaints,Neutral,WhatsApp,0.93,45%,Path C - Escalation,600,3.3
+PR-090,The item I received is not as described,product_complaints,Negative,WhatsApp,0.92,45%,Path C - Escalation,600,2.8
+PR-091,Your product broke after one week,product_complaints,Positive,WhatsApp,0.86,45%,Path C - Escalation,600,3.8
+PR-092,The packaging was damaged on arrival,product_complaints,Neutral,Chat,0.86,45%,Path C - Escalation,600,3.3
+PR-093,This is not what I ordered,product_complaints,Negative,Email,0.78,45%,Path C - Escalation,600,2.8
+PR-094,The product smells bad,product_complaints,Negative,Email,0.97,45%,Path C - Escalation,600,2.8
+PR-095,The fitness equipment is defective,product_complaints,Positive,Twitter,0.74,45%,Path C - Escalation,600,3.8
+PR-096,Will you match a competitor's pricing on this item (query 95)?,product_complaints,Neutral,Email,0.86,45%,Path C - Escalation,600,3.3
+PR-097,This product is terrible quality,product_complaints,Critical,Chat,0.79,45%,Path C - Escalation,600,2.3
+PR-098,The item I received is not as described,product_complaints,Negative,WhatsApp,0.79,45%,Path C - Escalation,600,2.8
+PR-099,Your product broke after one week,product_complaints,Neutral,WhatsApp,0.91,45%,Path C - Escalation,600,3.3
+PR-100,The packaging was damaged on arrival,product_complaints,Negative,Chat,0.71,45%,Path C - Escalation,600,2.8

@@ -1,0 +1,101 @@
+Query_ID,Query_Text,Category,Sentiment,Platform,Confidence,Expected_Automation_Rate,Expected_Resolution_Path,Expected_Response_Time_ms,Customer_Satisfaction_Score
+GE-001,What are your business hours?,general_questions,Neutral,Email,0.78,80%,Path B - RAG Response,420,4.3
+GE-002,How do I contact customer support (query 1)?,general_questions,Neutral,WhatsApp,0.9,80%,Path B - RAG Response,420,4.3
+GE-003,Can you provide order history for the past 2 years (query 2)?,general_questions,Critical,Twitter,0.89,80%,Path B - RAG Response,420,3.3
+GE-004,Is there a student discount available (query 3)?,general_questions,Neutral,WhatsApp,0.93,80%,Path B - RAG Response,420,4.3
+GE-005,Do you ship internationally (query 4)?,general_questions,Negative,Twitter,0.67,80%,Path B - RAG Response,420,3.8
+GE-006,What's your return policy (query 5)?,general_questions,Neutral,Email,0.85,80%,Path B - RAG Response,420,4.3
+GE-007,How do I reset my password (query 6)?,general_questions,Neutral,WhatsApp,0.71,80%,Path B - RAG Response,420,4.3
+GE-008,Do you have a physical store location (query 7)?,general_questions,Positive,WhatsApp,0.86,80%,Path B - RAG Response,420,4.8
+GE-009,What are your business hours (query 8)?,general_questions,Positive,Twitter,0.81,80%,Path B - RAG Response,420,4.8
+GE-010,How do I contact customer support (query 9)?,general_questions,Neutral,Chat,0.81,80%,Path B - RAG Response,420,4.3
+GE-011,Can you provide order history for the past 2 years (query 10)?,general_questions,Negative,Instagram,0.76,80%,Path B - RAG Response,420,3.8
+GE-012,Is there a student discount available (query 11)?,general_questions,Neutral,Instagram,0.94,80%,Path B - RAG Response,420,4.3
+GE-013,Do you ship internationally (query 12)?,general_questions,Positive,Twitter,0.79,80%,Path B - RAG Response,420,4.8
+GE-014,What's your return policy (query 13)?,general_questions,Neutral,WhatsApp,0.76,80%,Path B - RAG Response,420,4.3
+GE-015,How do I reset my password (query 14)?,general_questions,Neutral,Twitter,0.93,80%,Path B - RAG Response,420,4.3
+GE-016,Do you have a physical store location (query 15)?,general_questions,Positive,Twitter,0.85,80%,Path B - RAG Response,420,4.8
+GE-017,What are your business hours (query 16)?,general_questions,Neutral,Email,0.87,80%,Path B - RAG Response,420,4.3
+GE-018,How do I contact customer support (query 17)?,general_questions,Positive,Chat,0.89,80%,Path B - RAG Response,420,4.8
+GE-019,Can you provide order history for the past 2 years (query 18)?,general_questions,Negative,WhatsApp,0.81,80%,Path B - RAG Response,420,3.8
+GE-020,Is there a student discount available (query 19)?,general_questions,Critical,Instagram,0.86,80%,Path B - RAG Response,420,3.3
+GE-021,Do you ship internationally (query 20)?,general_questions,Positive,Twitter,0.77,80%,Path B - RAG Response,420,4.8
+GE-022,What's your return policy (query 21)?,general_questions,Neutral,Instagram,0.78,80%,Path B - RAG Response,420,4.3
+GE-023,How do I reset my password (query 22)?,general_questions,Positive,Chat,0.78,80%,Path B - RAG Response,420,4.8
+GE-024,Do you have a physical store location (query 23)?,general_questions,Neutral,Instagram,0.87,80%,Path B - RAG Response,420,4.3
+GE-025,What are your business hours (query 24)?,general_questions,Neutral,Instagram,0.96,80%,Path B - RAG Response,420,4.3
+GE-026,How do I contact customer support (query 25)?,general_questions,Positive,Twitter,0.75,80%,Path B - RAG Response,420,4.8
+GE-027,Can you provide order history for the past 2 years (query 26)?,general_questions,Neutral,Twitter,0.9,80%,Path B - RAG Response,420,4.3
+GE-028,Is there a student discount available (query 27)?,general_questions,Positive,Instagram,0.9,80%,Path B - RAG Response,420,4.8
+GE-029,Do you ship internationally (query 28)?,general_questions,Negative,Twitter,0.95,80%,Path B - RAG Response,420,3.8
+GE-030,What's your return policy (query 29)?,general_questions,Critical,Email,0.71,80%,Path B - RAG Response,420,3.3
+GE-031,How do I reset my password (query 30)?,general_questions,Neutral,Instagram,0.93,80%,Path B - RAG Response,420,4.3
+GE-032,Do you have a physical store location (query 31)?,general_questions,Neutral,Email,0.76,80%,Path B - RAG Response,420,4.3
+GE-033,What are your business hours (query 32)?,general_questions,Negative,Chat,0.79,80%,Path B - RAG Response,420,3.8
+GE-034,How do I contact customer support (query 33)?,general_questions,Negative,Twitter,0.88,80%,Path B - RAG Response,420,3.8
+GE-035,Can you provide order history for the past 2 years (query 34)?,general_questions,Negative,Email,0.66,80%,Path B - RAG Response,420,3.8
+GE-036,Is there a student discount available (query 35)?,general_questions,Critical,Twitter,0.89,80%,Path B - RAG Response,420,3.3
+GE-037,Do you ship internationally (query 36)?,general_questions,Neutral,Twitter,0.76,80%,Path B - RAG Response,420,4.3
+GE-038,What's your return policy (query 37)?,general_questions,Negative,Instagram,0.74,80%,Path B - RAG Response,420,3.8
+GE-039,How do I reset my password (query 38)?,general_questions,Positive,Chat,0.9,80%,Path B - RAG Response,420,4.8
+GE-040,Do you have a physical store location (query 39)?,general_questions,Neutral,Twitter,0.96,80%,Path B - RAG Response,420,4.3
+GE-041,What are your business hours (query 40)?,general_questions,Critical,Chat,0.71,80%,Path B - RAG Response,420,3.3
+GE-042,How do I contact customer support (query 41)?,general_questions,Critical,Twitter,0.76,80%,Path B - RAG Response,420,3.3
+GE-043,Can you provide order history for the past 2 years (query 42)?,general_questions,Neutral,WhatsApp,0.9,80%,Path B - RAG Response,420,4.3
+GE-044,Is there a student discount available (query 43)?,general_questions,Neutral,Instagram,0.86,80%,Path B - RAG Response,420,4.3
+GE-045,Do you ship internationally (query 44)?,general_questions,Negative,Twitter,0.85,80%,Path B - RAG Response,420,3.8
+GE-046,What's your return policy (query 45)?,general_questions,Critical,WhatsApp,0.79,80%,Path B - RAG Response,420,3.3
+GE-047,How do I reset my password (query 46)?,general_questions,Neutral,Instagram,0.75,80%,Path B - RAG Response,420,4.3
+GE-048,Do you have a physical store location (query 47)?,general_questions,Neutral,Twitter,0.98,80%,Path B - RAG Response,420,4.3
+GE-049,What are your business hours (query 48)?,general_questions,Neutral,Email,0.77,80%,Path B - RAG Response,420,4.3
+GE-050,How do I contact customer support (query 49)?,general_questions,Neutral,Email,0.92,80%,Path B - RAG Response,420,4.3
+GE-051,Can you provide order history for the past 2 years (query 50)?,general_questions,Positive,Twitter,0.88,80%,Path B - RAG Response,420,4.8
+GE-052,Is there a student discount available (query 51)?,general_questions,Neutral,Email,0.96,80%,Path B - RAG Response,420,4.3
+GE-053,Do you ship internationally (query 52)?,general_questions,Positive,Twitter,0.97,80%,Path B - RAG Response,420,4.8
+GE-054,What's your return policy (query 53)?,general_questions,Neutral,Instagram,0.96,80%,Path B - RAG Response,420,4.3
+GE-055,How do I reset my password (query 54)?,general_questions,Critical,WhatsApp,0.86,80%,Path B - RAG Response,420,3.3
+GE-056,Do you have a physical store location (query 55)?,general_questions,Negative,Twitter,0.66,80%,Path B - RAG Response,420,3.8
+GE-057,What are your business hours (query 56)?,general_questions,Neutral,Instagram,0.91,80%,Path B - RAG Response,420,4.3
+GE-058,How do I contact customer support (query 57)?,general_questions,Neutral,Email,0.76,80%,Path B - RAG Response,420,4.3
+GE-059,Can you provide order history for the past 2 years (query 58)?,general_questions,Critical,Email,0.93,80%,Path B - RAG Response,420,3.3
+GE-060,Is there a student discount available (query 59)?,general_questions,Negative,Twitter,0.73,80%,Path B - RAG Response,420,3.8
+GE-061,Do you ship internationally (query 60)?,general_questions,Negative,Instagram,0.7,80%,Path B - RAG Response,420,3.8
+GE-062,What's your return policy (query 61)?,general_questions,Negative,Instagram,0.66,80%,Path B - RAG Response,420,3.8
+GE-063,How do I reset my password (query 62)?,general_questions,Negative,Instagram,0.92,80%,Path B - RAG Response,420,3.8
+GE-064,Do you have a physical store location (query 63)?,general_questions,Positive,WhatsApp,0.83,80%,Path B - RAG Response,420,4.8
+GE-065,What are your business hours (query 64)?,general_questions,Critical,Twitter,0.7,80%,Path B - RAG Response,420,3.3
+GE-066,How do I contact customer support (query 65)?,general_questions,Positive,Chat,0.96,80%,Path B - RAG Response,420,4.8
+GE-067,Can you provide order history for the past 2 years (query 66)?,general_questions,Neutral,Chat,0.8,80%,Path B - RAG Response,420,4.3
+GE-068,Is there a student discount available (query 67)?,general_questions,Positive,Email,0.74,80%,Path B - RAG Response,420,4.8
+GE-069,Do you ship internationally (query 68)?,general_questions,Neutral,WhatsApp,0.73,80%,Path B - RAG Response,420,4.3
+GE-070,What's your return policy (query 69)?,general_questions,Critical,Chat,0.79,80%,Path B - RAG Response,420,3.3
+GE-071,How do I reset my password (query 70)?,general_questions,Negative,Twitter,0.83,80%,Path B - RAG Response,420,3.8
+GE-072,Do you have a physical store location (query 71)?,general_questions,Neutral,Instagram,0.94,80%,Path B - RAG Response,420,4.3
+GE-073,What are your business hours (query 72)?,general_questions,Neutral,Instagram,0.81,80%,Path B - RAG Response,420,4.3
+GE-074,How do I contact customer support (query 73)?,general_questions,Neutral,Twitter,0.72,80%,Path B - RAG Response,420,4.3
+GE-075,Can you provide order history for the past 2 years (query 74)?,general_questions,Negative,Chat,0.91,80%,Path B - RAG Response,420,3.8
+GE-076,Is there a student discount available (query 75)?,general_questions,Negative,WhatsApp,0.75,80%,Path B - RAG Response,420,3.8
+GE-077,Do you ship internationally (query 76)?,general_questions,Neutral,WhatsApp,0.73,80%,Path B - RAG Response,420,4.3
+GE-078,What's your return policy (query 77)?,general_questions,Neutral,Instagram,0.93,80%,Path B - RAG Response,420,4.3
+GE-079,How do I reset my password (query 78)?,general_questions,Neutral,Twitter,0.74,80%,Path B - RAG Response,420,4.3
+GE-080,Do you have a physical store location (query 79)?,general_questions,Positive,Email,0.88,80%,Path B - RAG Response,420,4.8
+GE-081,What are your business hours (query 80)?,general_questions,Critical,Email,0.77,80%,Path B - RAG Response,420,3.3
+GE-082,How do I contact customer support (query 81)?,general_questions,Negative,Instagram,0.92,80%,Path B - RAG Response,420,3.8
+GE-083,Can you provide order history for the past 2 years (query 82)?,general_questions,Neutral,Twitter,0.98,80%,Path B - RAG Response,420,4.3
+GE-084,Is there a student discount available (query 83)?,general_questions,Negative,Email,0.77,80%,Path B - RAG Response,420,3.8
+GE-085,Do you ship internationally (query 84)?,general_questions,Neutral,Chat,0.86,80%,Path B - RAG Response,420,4.3
+GE-086,What's your return policy (query 85)?,general_questions,Neutral,WhatsApp,0.81,80%,Path B - RAG Response,420,4.3
+GE-087,How do I reset my password (query 86)?,general_questions,Neutral,WhatsApp,0.87,80%,Path B - RAG Response,420,4.3
+GE-088,Do you have a physical store location (query 87)?,general_questions,Neutral,Twitter,0.94,80%,Path B - RAG Response,420,4.3
+GE-089,What are your business hours (query 88)?,general_questions,Critical,Email,0.76,80%,Path B - RAG Response,420,3.3
+GE-090,How do I contact customer support (query 89)?,general_questions,Neutral,WhatsApp,0.78,80%,Path B - RAG Response,420,4.3
+GE-091,Can you provide order history for the past 2 years (query 90)?,general_questions,Neutral,Instagram,0.91,80%,Path B - RAG Response,420,4.3
+GE-092,Is there a student discount available (query 91)?,general_questions,Negative,Email,0.65,80%,Path B - RAG Response,420,3.8
+GE-093,Do you ship internationally (query 92)?,general_questions,Negative,Twitter,0.93,80%,Path B - RAG Response,420,3.8
+GE-094,What's your return policy (query 93)?,general_questions,Negative,Instagram,0.79,80%,Path B - RAG Response,420,3.8
+GE-095,How do I reset my password (query 94)?,general_questions,Neutral,Twitter,0.96,80%,Path B - RAG Response,420,4.3
+GE-096,Do you have a physical store location (query 95)?,general_questions,Neutral,Email,0.9,80%,Path B - RAG Response,420,4.3
+GE-097,What are your business hours (query 96)?,general_questions,Negative,Twitter,0.9,80%,Path B - RAG Response,420,3.8
+GE-098,How do I contact customer support (query 97)?,general_questions,Neutral,Instagram,0.76,80%,Path B - RAG Response,420,4.3
+GE-099,Can you provide order history for the past 2 years (query 98)?,general_questions,Neutral,Email,0.7,80%,Path B - RAG Response,420,4.3
+GE-100,Is there a student discount available (query 99)?,general_questions,Critical,WhatsApp,0.66,80%,Path B - RAG Response,420,3.3

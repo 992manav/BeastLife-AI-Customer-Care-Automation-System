@@ -1,0 +1,101 @@
+Query_ID,Query_Text,Category,Sentiment,Platform,Confidence,Expected_Automation_Rate,Expected_Resolution_Path,Expected_Response_Time_ms,Customer_Satisfaction_Score
+SU-001,My subscription renewed without my permission,subscription_issues,Negative,Instagram,0.67,60%,Path C - Escalation,600,3.0
+SU-002,How do I cancel my subscription (query 1)?,subscription_issues,Critical,Instagram,0.84,60%,Path C - Escalation,600,2.5
+SU-003,I was charged for a subscription I didn't authorize,subscription_issues,Neutral,Instagram,0.82,60%,Path C - Escalation,600,3.5
+SU-004,Can I pause my subscription (query 3)?,subscription_issues,Neutral,Chat,0.81,60%,Path C - Escalation,600,3.5
+SU-005,How do I change my subscription plan (query 4)?,subscription_issues,Negative,Twitter,0.73,60%,Path C - Escalation,600,3.0
+SU-006,"My subscription auto-renewed, is this legal (query 5)?",subscription_issues,Negative,Email,0.86,60%,Path C - Escalation,600,3.0
+SU-007,"I don't want a subscription, how do I downgrade (query 6)?",subscription_issues,Negative,WhatsApp,0.81,60%,Path C - Escalation,600,3.0
+SU-008,My subscription renewed without my permission,subscription_issues,Neutral,Instagram,0.85,60%,Path C - Escalation,600,3.5
+SU-009,How do I cancel my subscription (query 8)?,subscription_issues,Neutral,Twitter,0.91,60%,Path C - Escalation,600,3.5
+SU-010,I was charged for a subscription I didn't authorize,subscription_issues,Positive,Twitter,0.77,60%,Path C - Escalation,600,4.0
+SU-011,Can I pause my subscription (query 10)?,subscription_issues,Positive,Twitter,0.91,60%,Path C - Escalation,600,4.0
+SU-012,How do I change my subscription plan (query 11)?,subscription_issues,Neutral,Email,0.86,60%,Path C - Escalation,600,3.5
+SU-013,"My subscription auto-renewed, is this legal (query 12)?",subscription_issues,Negative,Twitter,0.78,60%,Path C - Escalation,600,3.0
+SU-014,"I don't want a subscription, how do I downgrade (query 13)?",subscription_issues,Positive,Twitter,0.91,60%,Path C - Escalation,600,4.0
+SU-015,My subscription renewed without my permission,subscription_issues,Negative,Email,0.78,60%,Path C - Escalation,600,3.0
+SU-016,How do I cancel my subscription (query 15)?,subscription_issues,Negative,Instagram,0.89,60%,Path C - Escalation,600,3.0
+SU-017,I was charged for a subscription I didn't authorize,subscription_issues,Positive,Instagram,0.82,60%,Path C - Escalation,600,4.0
+SU-018,Can I pause my subscription (query 17)?,subscription_issues,Neutral,WhatsApp,0.97,60%,Path C - Escalation,600,3.5
+SU-019,How do I change my subscription plan (query 18)?,subscription_issues,Negative,Instagram,0.81,60%,Path C - Escalation,600,3.0
+SU-020,"My subscription auto-renewed, is this legal (query 19)?",subscription_issues,Positive,Twitter,0.91,60%,Path C - Escalation,600,4.0
+SU-021,"I don't want a subscription, how do I downgrade (query 20)?",subscription_issues,Neutral,WhatsApp,0.92,60%,Path C - Escalation,600,3.5
+SU-022,My subscription renewed without my permission,subscription_issues,Positive,WhatsApp,0.82,60%,Path C - Escalation,600,4.0
+SU-023,How do I cancel my subscription (query 22)?,subscription_issues,Negative,WhatsApp,0.96,60%,Path C - Escalation,600,3.0
+SU-024,I was charged for a subscription I didn't authorize,subscription_issues,Negative,Email,0.8,60%,Path C - Escalation,600,3.0
+SU-025,Can I pause my subscription (query 24)?,subscription_issues,Neutral,Chat,0.71,60%,Path C - Escalation,600,3.5
+SU-026,How do I change my subscription plan (query 25)?,subscription_issues,Positive,Email,0.73,60%,Path C - Escalation,600,4.0
+SU-027,"My subscription auto-renewed, is this legal (query 26)?",subscription_issues,Negative,Email,0.72,60%,Path C - Escalation,600,3.0
+SU-028,"I don't want a subscription, how do I downgrade (query 27)?",subscription_issues,Positive,Twitter,0.88,60%,Path C - Escalation,600,4.0
+SU-029,My subscription renewed without my permission,subscription_issues,Negative,Email,0.83,60%,Path C - Escalation,600,3.0
+SU-030,How do I cancel my subscription (query 29)?,subscription_issues,Neutral,WhatsApp,0.72,60%,Path C - Escalation,600,3.5
+SU-031,I was charged for a subscription I didn't authorize,subscription_issues,Neutral,Twitter,0.92,60%,Path C - Escalation,600,3.5
+SU-032,Can I pause my subscription (query 31)?,subscription_issues,Negative,Chat,0.68,60%,Path C - Escalation,600,3.0
+SU-033,How do I change my subscription plan (query 32)?,subscription_issues,Positive,Chat,0.73,60%,Path C - Escalation,600,4.0
+SU-034,"My subscription auto-renewed, is this legal (query 33)?",subscription_issues,Neutral,Twitter,0.88,60%,Path C - Escalation,600,3.5
+SU-035,"I don't want a subscription, how do I downgrade (query 34)?",subscription_issues,Neutral,WhatsApp,0.87,60%,Path C - Escalation,600,3.5
+SU-036,My subscription renewed without my permission,subscription_issues,Neutral,WhatsApp,0.83,60%,Path C - Escalation,600,3.5
+SU-037,How do I cancel my subscription (query 36)?,subscription_issues,Positive,Instagram,0.9,60%,Path C - Escalation,600,4.0
+SU-038,I was charged for a subscription I didn't authorize,subscription_issues,Negative,Email,0.83,60%,Path C - Escalation,600,3.0
+SU-039,Can I pause my subscription (query 38)?,subscription_issues,Neutral,Twitter,0.91,60%,Path C - Escalation,600,3.5
+SU-040,How do I change my subscription plan (query 39)?,subscription_issues,Critical,Chat,0.88,60%,Path C - Escalation,600,2.5
+SU-041,"My subscription auto-renewed, is this legal (query 40)?",subscription_issues,Negative,WhatsApp,0.78,60%,Path C - Escalation,600,3.0
+SU-042,"I don't want a subscription, how do I downgrade (query 41)?",subscription_issues,Negative,Instagram,0.84,60%,Path C - Escalation,600,3.0
+SU-043,My subscription renewed without my permission,subscription_issues,Critical,Chat,0.82,60%,Path C - Escalation,600,2.5
+SU-044,How do I cancel my subscription (query 43)?,subscription_issues,Critical,Chat,0.75,60%,Path C - Escalation,600,2.5
+SU-045,I was charged for a subscription I didn't authorize,subscription_issues,Neutral,WhatsApp,0.87,60%,Path C - Escalation,600,3.5
+SU-046,Can I pause my subscription (query 45)?,subscription_issues,Critical,WhatsApp,0.97,60%,Path C - Escalation,600,2.5
+SU-047,How do I change my subscription plan (query 46)?,subscription_issues,Neutral,Twitter,0.85,60%,Path C - Escalation,600,3.5
+SU-048,"My subscription auto-renewed, is this legal (query 47)?",subscription_issues,Critical,Email,0.79,60%,Path C - Escalation,600,2.5
+SU-049,"I don't want a subscription, how do I downgrade (query 48)?",subscription_issues,Negative,Instagram,0.76,60%,Path C - Escalation,600,3.0
+SU-050,My subscription renewed without my permission,subscription_issues,Negative,WhatsApp,0.9,60%,Path C - Escalation,600,3.0
+SU-051,How do I cancel my subscription (query 50)?,subscription_issues,Positive,Chat,0.95,60%,Path C - Escalation,600,4.0
+SU-052,I was charged for a subscription I didn't authorize,subscription_issues,Positive,Chat,0.72,60%,Path C - Escalation,600,4.0
+SU-053,Can I pause my subscription (query 52)?,subscription_issues,Positive,Chat,0.72,60%,Path C - Escalation,600,4.0
+SU-054,How do I change my subscription plan (query 53)?,subscription_issues,Critical,Email,0.87,60%,Path C - Escalation,600,2.5
+SU-055,"My subscription auto-renewed, is this legal (query 54)?",subscription_issues,Negative,Instagram,0.68,60%,Path C - Escalation,600,3.0
+SU-056,"I don't want a subscription, how do I downgrade (query 55)?",subscription_issues,Neutral,Twitter,0.75,60%,Path C - Escalation,600,3.5
+SU-057,My subscription renewed without my permission,subscription_issues,Neutral,Email,0.83,60%,Path C - Escalation,600,3.5
+SU-058,How do I cancel my subscription (query 57)?,subscription_issues,Critical,Chat,0.81,60%,Path C - Escalation,600,2.5
+SU-059,I was charged for a subscription I didn't authorize,subscription_issues,Negative,Twitter,0.94,60%,Path C - Escalation,600,3.0
+SU-060,Can I pause my subscription (query 59)?,subscription_issues,Negative,WhatsApp,0.78,60%,Path C - Escalation,600,3.0
+SU-061,How do I change my subscription plan (query 60)?,subscription_issues,Critical,Instagram,0.84,60%,Path C - Escalation,600,2.5
+SU-062,"My subscription auto-renewed, is this legal (query 61)?",subscription_issues,Critical,Twitter,0.97,60%,Path C - Escalation,600,2.5
+SU-063,"I don't want a subscription, how do I downgrade (query 62)?",subscription_issues,Neutral,WhatsApp,0.98,60%,Path C - Escalation,600,3.5
+SU-064,My subscription renewed without my permission,subscription_issues,Negative,Instagram,0.74,60%,Path C - Escalation,600,3.0
+SU-065,How do I cancel my subscription (query 64)?,subscription_issues,Neutral,Email,0.7,60%,Path C - Escalation,600,3.5
+SU-066,I was charged for a subscription I didn't authorize,subscription_issues,Neutral,Instagram,0.71,60%,Path C - Escalation,600,3.5
+SU-067,Can I pause my subscription (query 66)?,subscription_issues,Neutral,WhatsApp,0.84,60%,Path C - Escalation,600,3.5
+SU-068,How do I change my subscription plan (query 67)?,subscription_issues,Negative,Chat,0.97,60%,Path C - Escalation,600,3.0
+SU-069,"My subscription auto-renewed, is this legal (query 68)?",subscription_issues,Neutral,Chat,0.95,60%,Path C - Escalation,600,3.5
+SU-070,"I don't want a subscription, how do I downgrade (query 69)?",subscription_issues,Critical,Twitter,0.74,60%,Path C - Escalation,600,2.5
+SU-071,My subscription renewed without my permission,subscription_issues,Neutral,Chat,0.76,60%,Path C - Escalation,600,3.5
+SU-072,How do I cancel my subscription (query 71)?,subscription_issues,Neutral,Chat,0.82,60%,Path C - Escalation,600,3.5
+SU-073,I was charged for a subscription I didn't authorize,subscription_issues,Neutral,Instagram,0.84,60%,Path C - Escalation,600,3.5
+SU-074,Can I pause my subscription (query 73)?,subscription_issues,Neutral,Chat,0.91,60%,Path C - Escalation,600,3.5
+SU-075,How do I change my subscription plan (query 74)?,subscription_issues,Neutral,WhatsApp,0.75,60%,Path C - Escalation,600,3.5
+SU-076,"My subscription auto-renewed, is this legal (query 75)?",subscription_issues,Critical,Twitter,0.8,60%,Path C - Escalation,600,2.5
+SU-077,"I don't want a subscription, how do I downgrade (query 76)?",subscription_issues,Neutral,WhatsApp,0.93,60%,Path C - Escalation,600,3.5
+SU-078,My subscription renewed without my permission,subscription_issues,Negative,WhatsApp,0.67,60%,Path C - Escalation,600,3.0
+SU-079,How do I cancel my subscription (query 78)?,subscription_issues,Neutral,Email,0.74,60%,Path C - Escalation,600,3.5
+SU-080,I was charged for a subscription I didn't authorize,subscription_issues,Critical,Chat,0.81,60%,Path C - Escalation,600,2.5
+SU-081,Can I pause my subscription (query 80)?,subscription_issues,Negative,WhatsApp,0.92,60%,Path C - Escalation,600,3.0
+SU-082,How do I change my subscription plan (query 81)?,subscription_issues,Negative,Instagram,0.95,60%,Path C - Escalation,600,3.0
+SU-083,"My subscription auto-renewed, is this legal (query 82)?",subscription_issues,Negative,Instagram,0.88,60%,Path C - Escalation,600,3.0
+SU-084,"I don't want a subscription, how do I downgrade (query 83)?",subscription_issues,Negative,Twitter,0.87,60%,Path C - Escalation,600,3.0
+SU-085,My subscription renewed without my permission,subscription_issues,Positive,Chat,0.85,60%,Path C - Escalation,600,4.0
+SU-086,How do I cancel my subscription (query 85)?,subscription_issues,Neutral,Twitter,0.81,60%,Path C - Escalation,600,3.5
+SU-087,I was charged for a subscription I didn't authorize,subscription_issues,Negative,Email,0.77,60%,Path C - Escalation,600,3.0
+SU-088,Can I pause my subscription (query 87)?,subscription_issues,Negative,Instagram,0.69,60%,Path C - Escalation,600,3.0
+SU-089,How do I change my subscription plan (query 88)?,subscription_issues,Positive,Instagram,0.84,60%,Path C - Escalation,600,4.0
+SU-090,"My subscription auto-renewed, is this legal (query 89)?",subscription_issues,Neutral,Twitter,0.75,60%,Path C - Escalation,600,3.5
+SU-091,"I don't want a subscription, how do I downgrade (query 90)?",subscription_issues,Neutral,Instagram,0.87,60%,Path C - Escalation,600,3.5
+SU-092,My subscription renewed without my permission,subscription_issues,Neutral,Chat,0.79,60%,Path C - Escalation,600,3.5
+SU-093,How do I cancel my subscription (query 92)?,subscription_issues,Negative,Chat,0.95,60%,Path C - Escalation,600,3.0
+SU-094,I was charged for a subscription I didn't authorize,subscription_issues,Critical,WhatsApp,0.8,60%,Path C - Escalation,600,2.5
+SU-095,Can I pause my subscription (query 94)?,subscription_issues,Neutral,Chat,0.98,60%,Path C - Escalation,600,3.5
+SU-096,How do I change my subscription plan (query 95)?,subscription_issues,Neutral,Email,0.8,60%,Path C - Escalation,600,3.5
+SU-097,"My subscription auto-renewed, is this legal (query 96)?",subscription_issues,Neutral,WhatsApp,0.86,60%,Path C - Escalation,600,3.5
+SU-098,"I don't want a subscription, how do I downgrade (query 97)?",subscription_issues,Positive,Instagram,0.85,60%,Path C - Escalation,600,4.0
+SU-099,My subscription renewed without my permission,subscription_issues,Neutral,WhatsApp,0.75,60%,Path C - Escalation,600,3.5
+SU-100,How do I cancel my subscription (query 99)?,subscription_issues,Positive,Instagram,0.95,60%,Path C - Escalation,600,4.0

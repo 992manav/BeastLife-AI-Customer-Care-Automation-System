@@ -1,0 +1,101 @@
+Query_ID,Query_Text,Category,Sentiment,Platform,Confidence,Expected_Automation_Rate,Expected_Resolution_Path,Expected_Response_Time_ms,Customer_Satisfaction_Score
+DE-001,My order was supposed to arrive yesterday,delivery_delays,Neutral,Email,0.82,50%,Path C - Escalation,420,3.0
+DE-002,Expected delivery today but no sign of package,delivery_delays,Neutral,Chat,0.83,50%,Path C - Escalation,420,3.0
+DE-003,When will my delayed order arrive (query 2)?,delivery_delays,Negative,Instagram,0.8,50%,Path C - Escalation,420,2.5
+DE-004,Package says 2 days late now,delivery_delays,Neutral,WhatsApp,0.73,50%,Path C - Escalation,420,3.0
+DE-005,My delivery is running behind schedule,delivery_delays,Negative,Twitter,0.89,50%,Path C - Escalation,420,2.5
+DE-006,It's been a week and my order hasn't arrived!!,delivery_delays,Negative,Chat,0.66,50%,Path C - Escalation,420,2.5
+DE-007,This is taking forever! Where's my delivery (query 6)?,delivery_delays,Positive,Chat,0.71,50%,Path C - Escalation,420,3.5
+DE-008,Expected delivery 5 days ago - still nothing!,delivery_delays,Critical,Instagram,0.82,50%,Path C - Escalation,420,2.0
+DE-009,I'm very disappointed. Order still hasn't arrived,delivery_delays,Critical,Twitter,0.91,50%,Path C - Escalation,420,2.0
+DE-010,This delivery delay is unacceptable!,delivery_delays,Positive,Email,0.84,50%,Path C - Escalation,420,3.5
+DE-011,My order was supposed to arrive yesterday,delivery_delays,Critical,Email,0.96,50%,Path C - Escalation,420,2.0
+DE-012,Expected delivery today but no sign of package,delivery_delays,Positive,WhatsApp,0.79,50%,Path C - Escalation,420,3.5
+DE-013,When will my delayed order arrive (query 12)?,delivery_delays,Critical,Instagram,0.97,50%,Path C - Escalation,420,2.0
+DE-014,Package says 2 days late now,delivery_delays,Negative,WhatsApp,0.97,50%,Path C - Escalation,420,2.5
+DE-015,My delivery is running behind schedule,delivery_delays,Positive,Chat,0.98,50%,Path C - Escalation,420,3.5
+DE-016,It's been a week and my order hasn't arrived!!,delivery_delays,Neutral,Email,0.93,50%,Path C - Escalation,420,3.0
+DE-017,This is taking forever! Where's my delivery (query 16)?,delivery_delays,Negative,Chat,0.83,50%,Path C - Escalation,420,2.5
+DE-018,Expected delivery 5 days ago - still nothing!,delivery_delays,Critical,Instagram,0.79,50%,Path C - Escalation,420,2.0
+DE-019,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Email,0.85,50%,Path C - Escalation,420,3.0
+DE-020,This delivery delay is unacceptable!,delivery_delays,Neutral,Email,0.91,50%,Path C - Escalation,420,3.0
+DE-021,My order was supposed to arrive yesterday,delivery_delays,Critical,Email,0.81,50%,Path C - Escalation,420,2.0
+DE-022,Expected delivery today but no sign of package,delivery_delays,Neutral,Instagram,0.79,50%,Path C - Escalation,420,3.0
+DE-023,When will my delayed order arrive (query 22)?,delivery_delays,Neutral,Chat,0.81,50%,Path C - Escalation,420,3.0
+DE-024,Package says 2 days late now,delivery_delays,Neutral,Email,0.85,50%,Path C - Escalation,420,3.0
+DE-025,My delivery is running behind schedule,delivery_delays,Neutral,Instagram,0.78,50%,Path C - Escalation,420,3.0
+DE-026,It's been a week and my order hasn't arrived!!,delivery_delays,Negative,Chat,0.81,50%,Path C - Escalation,420,2.5
+DE-027,This is taking forever! Where's my delivery (query 26)?,delivery_delays,Critical,Email,0.84,50%,Path C - Escalation,420,2.0
+DE-028,Expected delivery 5 days ago - still nothing!,delivery_delays,Positive,Email,0.74,50%,Path C - Escalation,420,3.5
+DE-029,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Instagram,0.87,50%,Path C - Escalation,420,3.0
+DE-030,This delivery delay is unacceptable!,delivery_delays,Negative,Email,0.88,50%,Path C - Escalation,420,2.5
+DE-031,My order was supposed to arrive yesterday,delivery_delays,Positive,Chat,0.8,50%,Path C - Escalation,420,3.5
+DE-032,Expected delivery today but no sign of package,delivery_delays,Positive,WhatsApp,0.91,50%,Path C - Escalation,420,3.5
+DE-033,When will my delayed order arrive (query 32)?,delivery_delays,Neutral,WhatsApp,0.95,50%,Path C - Escalation,420,3.0
+DE-034,Package says 2 days late now,delivery_delays,Neutral,Twitter,0.83,50%,Path C - Escalation,420,3.0
+DE-035,My delivery is running behind schedule,delivery_delays,Negative,WhatsApp,0.85,50%,Path C - Escalation,420,2.5
+DE-036,It's been a week and my order hasn't arrived!!,delivery_delays,Critical,Chat,0.9,50%,Path C - Escalation,420,2.0
+DE-037,This is taking forever! Where's my delivery (query 36)?,delivery_delays,Negative,Twitter,0.97,50%,Path C - Escalation,420,2.5
+DE-038,Expected delivery 5 days ago - still nothing!,delivery_delays,Negative,Instagram,0.92,50%,Path C - Escalation,420,2.5
+DE-039,I'm very disappointed. Order still hasn't arrived,delivery_delays,Critical,WhatsApp,0.7,50%,Path C - Escalation,420,2.0
+DE-040,This delivery delay is unacceptable!,delivery_delays,Critical,WhatsApp,0.87,50%,Path C - Escalation,420,2.0
+DE-041,My order was supposed to arrive yesterday,delivery_delays,Neutral,Email,0.86,50%,Path C - Escalation,420,3.0
+DE-042,Expected delivery today but no sign of package,delivery_delays,Positive,WhatsApp,0.8,50%,Path C - Escalation,420,3.5
+DE-043,When will my delayed order arrive (query 42)?,delivery_delays,Neutral,Email,0.98,50%,Path C - Escalation,420,3.0
+DE-044,Package says 2 days late now,delivery_delays,Positive,Instagram,0.9,50%,Path C - Escalation,420,3.5
+DE-045,My delivery is running behind schedule,delivery_delays,Positive,WhatsApp,0.96,50%,Path C - Escalation,420,3.5
+DE-046,It's been a week and my order hasn't arrived!!,delivery_delays,Negative,Chat,0.87,50%,Path C - Escalation,420,2.5
+DE-047,This is taking forever! Where's my delivery (query 46)?,delivery_delays,Negative,WhatsApp,0.95,50%,Path C - Escalation,420,2.5
+DE-048,Expected delivery 5 days ago - still nothing!,delivery_delays,Neutral,Twitter,0.91,50%,Path C - Escalation,420,3.0
+DE-049,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Twitter,0.79,50%,Path C - Escalation,420,3.0
+DE-050,This delivery delay is unacceptable!,delivery_delays,Neutral,Twitter,0.94,50%,Path C - Escalation,420,3.0
+DE-051,My order was supposed to arrive yesterday,delivery_delays,Neutral,Twitter,0.82,50%,Path C - Escalation,420,3.0
+DE-052,Expected delivery today but no sign of package,delivery_delays,Neutral,Chat,0.92,50%,Path C - Escalation,420,3.0
+DE-053,When will my delayed order arrive (query 52)?,delivery_delays,Positive,WhatsApp,0.92,50%,Path C - Escalation,420,3.5
+DE-054,Package says 2 days late now,delivery_delays,Neutral,WhatsApp,0.77,50%,Path C - Escalation,420,3.0
+DE-055,My delivery is running behind schedule,delivery_delays,Neutral,Twitter,0.77,50%,Path C - Escalation,420,3.0
+DE-056,It's been a week and my order hasn't arrived!!,delivery_delays,Positive,Instagram,0.98,50%,Path C - Escalation,420,3.5
+DE-057,This is taking forever! Where's my delivery (query 56)?,delivery_delays,Critical,WhatsApp,0.88,50%,Path C - Escalation,420,2.0
+DE-058,Expected delivery 5 days ago - still nothing!,delivery_delays,Positive,Instagram,0.8,50%,Path C - Escalation,420,3.5
+DE-059,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Instagram,0.95,50%,Path C - Escalation,420,3.0
+DE-060,This delivery delay is unacceptable!,delivery_delays,Neutral,Chat,0.74,50%,Path C - Escalation,420,3.0
+DE-061,My order was supposed to arrive yesterday,delivery_delays,Positive,Chat,0.84,50%,Path C - Escalation,420,3.5
+DE-062,Expected delivery today but no sign of package,delivery_delays,Positive,Instagram,0.77,50%,Path C - Escalation,420,3.5
+DE-063,When will my delayed order arrive (query 62)?,delivery_delays,Critical,Email,0.98,50%,Path C - Escalation,420,2.0
+DE-064,Package says 2 days late now,delivery_delays,Critical,Instagram,0.95,50%,Path C - Escalation,420,2.0
+DE-065,My delivery is running behind schedule,delivery_delays,Critical,Twitter,0.8,50%,Path C - Escalation,420,2.0
+DE-066,It's been a week and my order hasn't arrived!!,delivery_delays,Neutral,Chat,0.83,50%,Path C - Escalation,420,3.0
+DE-067,This is taking forever! Where's my delivery (query 66)?,delivery_delays,Negative,Twitter,0.78,50%,Path C - Escalation,420,2.5
+DE-068,Expected delivery 5 days ago - still nothing!,delivery_delays,Neutral,Chat,0.94,50%,Path C - Escalation,420,3.0
+DE-069,I'm very disappointed. Order still hasn't arrived,delivery_delays,Negative,Instagram,0.81,50%,Path C - Escalation,420,2.5
+DE-070,This delivery delay is unacceptable!,delivery_delays,Positive,WhatsApp,0.88,50%,Path C - Escalation,420,3.5
+DE-071,My order was supposed to arrive yesterday,delivery_delays,Neutral,WhatsApp,0.87,50%,Path C - Escalation,420,3.0
+DE-072,Expected delivery today but no sign of package,delivery_delays,Neutral,Twitter,0.82,50%,Path C - Escalation,420,3.0
+DE-073,When will my delayed order arrive (query 72)?,delivery_delays,Neutral,Chat,0.86,50%,Path C - Escalation,420,3.0
+DE-074,Package says 2 days late now,delivery_delays,Neutral,Chat,0.98,50%,Path C - Escalation,420,3.0
+DE-075,My delivery is running behind schedule,delivery_delays,Negative,Email,0.94,50%,Path C - Escalation,420,2.5
+DE-076,It's been a week and my order hasn't arrived!!,delivery_delays,Critical,Twitter,0.94,50%,Path C - Escalation,420,2.0
+DE-077,This is taking forever! Where's my delivery (query 76)?,delivery_delays,Critical,Twitter,0.67,50%,Path C - Escalation,420,2.0
+DE-078,Expected delivery 5 days ago - still nothing!,delivery_delays,Positive,WhatsApp,0.71,50%,Path C - Escalation,420,3.5
+DE-079,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Chat,0.92,50%,Path C - Escalation,420,3.0
+DE-080,This delivery delay is unacceptable!,delivery_delays,Neutral,Twitter,0.74,50%,Path C - Escalation,420,3.0
+DE-081,My order was supposed to arrive yesterday,delivery_delays,Neutral,Chat,0.97,50%,Path C - Escalation,420,3.0
+DE-082,Expected delivery today but no sign of package,delivery_delays,Negative,WhatsApp,0.8,50%,Path C - Escalation,420,2.5
+DE-083,When will my delayed order arrive (query 82)?,delivery_delays,Negative,Twitter,0.94,50%,Path C - Escalation,420,2.5
+DE-084,Package says 2 days late now,delivery_delays,Neutral,Email,0.81,50%,Path C - Escalation,420,3.0
+DE-085,My delivery is running behind schedule,delivery_delays,Neutral,WhatsApp,0.7,50%,Path C - Escalation,420,3.0
+DE-086,It's been a week and my order hasn't arrived!!,delivery_delays,Negative,Twitter,0.85,50%,Path C - Escalation,420,2.5
+DE-087,This is taking forever! Where's my delivery (query 86)?,delivery_delays,Neutral,Email,0.75,50%,Path C - Escalation,420,3.0
+DE-088,Expected delivery 5 days ago - still nothing!,delivery_delays,Critical,Twitter,0.96,50%,Path C - Escalation,420,2.0
+DE-089,I'm very disappointed. Order still hasn't arrived,delivery_delays,Negative,Chat,0.67,50%,Path C - Escalation,420,2.5
+DE-090,This delivery delay is unacceptable!,delivery_delays,Neutral,Instagram,0.94,50%,Path C - Escalation,420,3.0
+DE-091,My order was supposed to arrive yesterday,delivery_delays,Neutral,WhatsApp,0.73,50%,Path C - Escalation,420,3.0
+DE-092,Expected delivery today but no sign of package,delivery_delays,Negative,Instagram,0.8,50%,Path C - Escalation,420,2.5
+DE-093,When will my delayed order arrive (query 92)?,delivery_delays,Neutral,WhatsApp,0.88,50%,Path C - Escalation,420,3.0
+DE-094,Package says 2 days late now,delivery_delays,Negative,Instagram,0.86,50%,Path C - Escalation,420,2.5
+DE-095,My delivery is running behind schedule,delivery_delays,Critical,Instagram,0.87,50%,Path C - Escalation,420,2.0
+DE-096,It's been a week and my order hasn't arrived!!,delivery_delays,Neutral,Instagram,0.74,50%,Path C - Escalation,420,3.0
+DE-097,This is taking forever! Where's my delivery (query 96)?,delivery_delays,Critical,Email,0.89,50%,Path C - Escalation,420,2.0
+DE-098,Expected delivery 5 days ago - still nothing!,delivery_delays,Neutral,Instagram,0.91,50%,Path C - Escalation,420,3.0
+DE-099,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Email,0.72,50%,Path C - Escalation,420,3.0
+DE-100,This delivery delay is unacceptable!,delivery_delays,Neutral,WhatsApp,0.74,50%,Path C - Escalation,420,3.0

@@ -1,0 +1,701 @@
+Query_ID,Query_Text,Category,Sentiment,Platform,Confidence,Expected_Automation_Rate,Expected_Resolution_Path,Expected_Response_Time_ms,Customer_Satisfaction_Score
+OR-001,Can you track my order #ORD-98765?,order_tracking,Negative,Email,0.78,95%,Path A - API Resolution,210,4.0
+OR-002,Where's my package (query 1)? Order ORD-45321,order_tracking,Critical,Twitter,0.73,95%,Path A - API Resolution,210,3.5
+OR-003,How do I check my order status (query 2)?,order_tracking,Neutral,WhatsApp,0.92,95%,Path A - API Resolution,210,4.5
+OR-004,What's the status of order #ORD-56789 (query 3)?,order_tracking,Positive,Twitter,0.78,95%,Path A - API Resolution,210,5.0
+OR-005,When will my fitness equipment arrive (query 4)?,order_tracking,Positive,Twitter,0.98,95%,Path A - API Resolution,210,5.0
+OR-006,Is my order ORD-99111 still on schedule (query 5)?,order_tracking,Negative,WhatsApp,0.77,95%,Path A - API Resolution,210,4.0
+OR-007,Can you rush my order delivery (query 6)?,order_tracking,Neutral,Email,0.89,95%,Path A - API Resolution,210,4.5
+OR-008,I need to know my order status ASAP!,order_tracking,Neutral,Twitter,0.98,95%,Path A - API Resolution,210,4.5
+OR-009,Can you track my order #ORD-98765 (query 8)?,order_tracking,Neutral,Twitter,0.97,95%,Path A - API Resolution,210,4.5
+OR-010,Where's my package (query 9)? Order ORD-45321,order_tracking,Critical,Email,0.92,95%,Path A - API Resolution,210,3.5
+OR-011,How do I check my order status (query 10)?,order_tracking,Negative,Instagram,0.68,95%,Path A - API Resolution,210,4.0
+OR-012,What's the status of order #ORD-56789 (query 11)?,order_tracking,Positive,Twitter,0.92,95%,Path A - API Resolution,210,5.0
+OR-013,When will my fitness equipment arrive (query 12)?,order_tracking,Critical,WhatsApp,0.89,95%,Path A - API Resolution,210,3.5
+OR-014,Is my order ORD-99111 still on schedule (query 13)?,order_tracking,Neutral,Twitter,0.84,95%,Path A - API Resolution,210,4.5
+OR-015,Can you rush my order delivery (query 14)?,order_tracking,Neutral,Instagram,0.92,95%,Path A - API Resolution,210,4.5
+OR-016,I need to know my order status ASAP!,order_tracking,Neutral,Instagram,0.92,95%,Path A - API Resolution,210,4.5
+OR-017,Can you track my order #ORD-98765 (query 16)?,order_tracking,Neutral,Twitter,0.75,95%,Path A - API Resolution,210,4.5
+OR-018,Where's my package (query 17)? Order ORD-45321,order_tracking,Neutral,Chat,0.86,95%,Path A - API Resolution,210,4.5
+OR-019,How do I check my order status (query 18)?,order_tracking,Negative,Twitter,0.85,95%,Path A - API Resolution,210,4.0
+OR-020,What's the status of order #ORD-56789 (query 19)?,order_tracking,Negative,Instagram,0.77,95%,Path A - API Resolution,210,4.0
+OR-021,When will my fitness equipment arrive (query 20)?,order_tracking,Negative,Twitter,0.66,95%,Path A - API Resolution,210,4.0
+OR-022,Is my order ORD-99111 still on schedule (query 21)?,order_tracking,Neutral,Email,0.95,95%,Path A - API Resolution,210,4.5
+OR-023,Can you rush my order delivery (query 22)?,order_tracking,Positive,Email,0.95,95%,Path A - API Resolution,210,5.0
+OR-024,I need to know my order status ASAP!,order_tracking,Negative,Chat,0.96,95%,Path A - API Resolution,210,4.0
+OR-025,Can you track my order #ORD-98765 (query 24)?,order_tracking,Neutral,Email,0.71,95%,Path A - API Resolution,210,4.5
+OR-026,Where's my package (query 25)? Order ORD-45321,order_tracking,Neutral,Chat,0.88,95%,Path A - API Resolution,210,4.5
+OR-027,How do I check my order status (query 26)?,order_tracking,Neutral,Instagram,0.92,95%,Path A - API Resolution,210,4.5
+OR-028,What's the status of order #ORD-56789 (query 27)?,order_tracking,Positive,Email,0.87,95%,Path A - API Resolution,210,5.0
+OR-029,When will my fitness equipment arrive (query 28)?,order_tracking,Neutral,WhatsApp,0.97,95%,Path A - API Resolution,210,4.5
+OR-030,Is my order ORD-99111 still on schedule (query 29)?,order_tracking,Neutral,Twitter,0.83,95%,Path A - API Resolution,210,4.5
+OR-031,Can you rush my order delivery (query 30)?,order_tracking,Neutral,Twitter,0.79,95%,Path A - API Resolution,210,4.5
+OR-032,I need to know my order status ASAP!,order_tracking,Positive,Chat,0.73,95%,Path A - API Resolution,210,5.0
+OR-033,Can you track my order #ORD-98765 (query 32)?,order_tracking,Neutral,Twitter,0.84,95%,Path A - API Resolution,210,4.5
+OR-034,Where's my package (query 33)? Order ORD-45321,order_tracking,Neutral,Chat,0.82,95%,Path A - API Resolution,210,4.5
+OR-035,How do I check my order status (query 34)?,order_tracking,Neutral,Email,0.74,95%,Path A - API Resolution,210,4.5
+OR-036,What's the status of order #ORD-56789 (query 35)?,order_tracking,Positive,WhatsApp,0.83,95%,Path A - API Resolution,210,5.0
+OR-037,When will my fitness equipment arrive (query 36)?,order_tracking,Neutral,Twitter,0.9,95%,Path A - API Resolution,210,4.5
+OR-038,Is my order ORD-99111 still on schedule (query 37)?,order_tracking,Negative,Email,0.97,95%,Path A - API Resolution,210,4.0
+OR-039,Can you rush my order delivery (query 38)?,order_tracking,Neutral,Email,0.87,95%,Path A - API Resolution,210,4.5
+OR-040,I need to know my order status ASAP!,order_tracking,Critical,Email,0.94,95%,Path A - API Resolution,210,3.5
+OR-041,Can you track my order #ORD-98765 (query 40)?,order_tracking,Positive,Chat,0.93,95%,Path A - API Resolution,210,5.0
+OR-042,Where's my package (query 41)? Order ORD-45321,order_tracking,Critical,WhatsApp,0.81,95%,Path A - API Resolution,210,3.5
+OR-043,How do I check my order status (query 42)?,order_tracking,Negative,Instagram,0.65,95%,Path A - API Resolution,210,4.0
+OR-044,What's the status of order #ORD-56789 (query 43)?,order_tracking,Negative,Email,0.74,95%,Path A - API Resolution,210,4.0
+OR-045,When will my fitness equipment arrive (query 44)?,order_tracking,Neutral,Instagram,0.95,95%,Path A - API Resolution,210,4.5
+OR-046,Is my order ORD-99111 still on schedule (query 45)?,order_tracking,Positive,Email,0.89,95%,Path A - API Resolution,210,5.0
+OR-047,Can you rush my order delivery (query 46)?,order_tracking,Neutral,Twitter,0.86,95%,Path A - API Resolution,210,4.5
+OR-048,I need to know my order status ASAP!,order_tracking,Negative,Chat,0.91,95%,Path A - API Resolution,210,4.0
+OR-049,Can you track my order #ORD-98765 (query 48)?,order_tracking,Neutral,Chat,0.81,95%,Path A - API Resolution,210,4.5
+OR-050,Where's my package (query 49)? Order ORD-45321,order_tracking,Positive,Email,0.95,95%,Path A - API Resolution,210,5.0
+OR-051,How do I check my order status (query 50)?,order_tracking,Critical,Email,0.79,95%,Path A - API Resolution,210,3.5
+OR-052,What's the status of order #ORD-56789 (query 51)?,order_tracking,Neutral,Instagram,0.94,95%,Path A - API Resolution,210,4.5
+OR-053,When will my fitness equipment arrive (query 52)?,order_tracking,Neutral,WhatsApp,0.75,95%,Path A - API Resolution,210,4.5
+OR-054,Is my order ORD-99111 still on schedule (query 53)?,order_tracking,Positive,Email,0.82,95%,Path A - API Resolution,210,5.0
+OR-055,Can you rush my order delivery (query 54)?,order_tracking,Critical,Twitter,0.81,95%,Path A - API Resolution,210,3.5
+OR-056,I need to know my order status ASAP!,order_tracking,Neutral,Twitter,0.73,95%,Path A - API Resolution,210,4.5
+OR-057,Can you track my order #ORD-98765 (query 56)?,order_tracking,Neutral,Instagram,0.89,95%,Path A - API Resolution,210,4.5
+OR-058,Where's my package (query 57)? Order ORD-45321,order_tracking,Negative,Instagram,0.89,95%,Path A - API Resolution,210,4.0
+OR-059,How do I check my order status (query 58)?,order_tracking,Neutral,Chat,0.97,95%,Path A - API Resolution,210,4.5
+OR-060,What's the status of order #ORD-56789 (query 59)?,order_tracking,Critical,Email,0.77,95%,Path A - API Resolution,210,3.5
+OR-061,When will my fitness equipment arrive (query 60)?,order_tracking,Neutral,Twitter,0.81,95%,Path A - API Resolution,210,4.5
+OR-062,Is my order ORD-99111 still on schedule (query 61)?,order_tracking,Neutral,Chat,0.8,95%,Path A - API Resolution,210,4.5
+OR-063,Can you rush my order delivery (query 62)?,order_tracking,Neutral,Email,0.89,95%,Path A - API Resolution,210,4.5
+OR-064,I need to know my order status ASAP!,order_tracking,Neutral,Instagram,0.94,95%,Path A - API Resolution,210,4.5
+OR-065,Can you track my order #ORD-98765 (query 64)?,order_tracking,Neutral,WhatsApp,0.95,95%,Path A - API Resolution,210,4.5
+OR-066,Where's my package (query 65)? Order ORD-45321,order_tracking,Negative,Chat,0.84,95%,Path A - API Resolution,210,4.0
+OR-067,How do I check my order status (query 66)?,order_tracking,Critical,Chat,0.79,95%,Path A - API Resolution,210,3.5
+OR-068,What's the status of order #ORD-56789 (query 67)?,order_tracking,Neutral,Email,0.81,95%,Path A - API Resolution,210,4.5
+OR-069,When will my fitness equipment arrive (query 68)?,order_tracking,Neutral,Twitter,0.95,95%,Path A - API Resolution,210,4.5
+OR-070,Is my order ORD-99111 still on schedule (query 69)?,order_tracking,Negative,Chat,0.73,95%,Path A - API Resolution,210,4.0
+OR-071,Can you rush my order delivery (query 70)?,order_tracking,Neutral,WhatsApp,0.82,95%,Path A - API Resolution,210,4.5
+OR-072,I need to know my order status ASAP!,order_tracking,Neutral,Twitter,0.78,95%,Path A - API Resolution,210,4.5
+OR-073,Can you track my order #ORD-98765 (query 72)?,order_tracking,Negative,Chat,0.96,95%,Path A - API Resolution,210,4.0
+OR-074,Where's my package (query 73)? Order ORD-45321,order_tracking,Neutral,WhatsApp,0.82,95%,Path A - API Resolution,210,4.5
+OR-075,How do I check my order status (query 74)?,order_tracking,Neutral,WhatsApp,0.81,95%,Path A - API Resolution,210,4.5
+OR-076,What's the status of order #ORD-56789 (query 75)?,order_tracking,Critical,Email,0.8,95%,Path A - API Resolution,210,3.5
+OR-077,When will my fitness equipment arrive (query 76)?,order_tracking,Neutral,Twitter,0.9,95%,Path A - API Resolution,210,4.5
+OR-078,Is my order ORD-99111 still on schedule (query 77)?,order_tracking,Positive,Twitter,0.86,95%,Path A - API Resolution,210,5.0
+OR-079,Can you rush my order delivery (query 78)?,order_tracking,Neutral,WhatsApp,0.8,95%,Path A - API Resolution,210,4.5
+OR-080,I need to know my order status ASAP!,order_tracking,Negative,WhatsApp,0.96,95%,Path A - API Resolution,210,4.0
+OR-081,Can you track my order #ORD-98765 (query 80)?,order_tracking,Negative,Email,0.7,95%,Path A - API Resolution,210,4.0
+OR-082,Where's my package (query 81)? Order ORD-45321,order_tracking,Neutral,WhatsApp,0.72,95%,Path A - API Resolution,210,4.5
+OR-083,How do I check my order status (query 82)?,order_tracking,Negative,Chat,0.75,95%,Path A - API Resolution,210,4.0
+OR-084,What's the status of order #ORD-56789 (query 83)?,order_tracking,Neutral,Twitter,0.89,95%,Path A - API Resolution,210,4.5
+OR-085,When will my fitness equipment arrive (query 84)?,order_tracking,Neutral,Instagram,0.7,95%,Path A - API Resolution,210,4.5
+OR-086,Is my order ORD-99111 still on schedule (query 85)?,order_tracking,Neutral,Instagram,0.83,95%,Path A - API Resolution,210,4.5
+OR-087,Can you rush my order delivery (query 86)?,order_tracking,Neutral,Twitter,0.76,95%,Path A - API Resolution,210,4.5
+OR-088,I need to know my order status ASAP!,order_tracking,Negative,WhatsApp,0.69,95%,Path A - API Resolution,210,4.0
+OR-089,Can you track my order #ORD-98765 (query 88)?,order_tracking,Neutral,Chat,0.96,95%,Path A - API Resolution,210,4.5
+OR-090,Where's my package (query 89)? Order ORD-45321,order_tracking,Negative,Instagram,0.72,95%,Path A - API Resolution,210,4.0
+OR-091,How do I check my order status (query 90)?,order_tracking,Negative,Chat,0.71,95%,Path A - API Resolution,210,4.0
+OR-092,What's the status of order #ORD-56789 (query 91)?,order_tracking,Neutral,WhatsApp,0.96,95%,Path A - API Resolution,210,4.5
+OR-093,When will my fitness equipment arrive (query 92)?,order_tracking,Negative,Instagram,0.72,95%,Path A - API Resolution,210,4.0
+OR-094,Is my order ORD-99111 still on schedule (query 93)?,order_tracking,Negative,Email,0.78,95%,Path A - API Resolution,210,4.0
+OR-095,Can you rush my order delivery (query 94)?,order_tracking,Neutral,WhatsApp,0.83,95%,Path A - API Resolution,210,4.5
+OR-096,I need to know my order status ASAP!,order_tracking,Negative,Email,0.74,95%,Path A - API Resolution,210,4.0
+OR-097,Can you track my order #ORD-98765 (query 96)?,order_tracking,Positive,WhatsApp,0.85,95%,Path A - API Resolution,210,5.0
+OR-098,Where's my package (query 97)? Order ORD-45321,order_tracking,Neutral,Chat,0.97,95%,Path A - API Resolution,210,4.5
+OR-099,How do I check my order status (query 98)?,order_tracking,Critical,Chat,0.96,95%,Path A - API Resolution,210,3.5
+OR-100,What's the status of order #ORD-56789 (query 99)?,order_tracking,Neutral,Chat,0.94,95%,Path A - API Resolution,210,4.5
+DE-001,My order was supposed to arrive yesterday,delivery_delays,Neutral,Email,0.82,50%,Path C - Escalation,420,3.0
+DE-002,Expected delivery today but no sign of package,delivery_delays,Neutral,Chat,0.83,50%,Path C - Escalation,420,3.0
+DE-003,When will my delayed order arrive (query 2)?,delivery_delays,Negative,Instagram,0.8,50%,Path C - Escalation,420,2.5
+DE-004,Package says 2 days late now,delivery_delays,Neutral,WhatsApp,0.73,50%,Path C - Escalation,420,3.0
+DE-005,My delivery is running behind schedule,delivery_delays,Negative,Twitter,0.89,50%,Path C - Escalation,420,2.5
+DE-006,It's been a week and my order hasn't arrived!!,delivery_delays,Negative,Chat,0.66,50%,Path C - Escalation,420,2.5
+DE-007,This is taking forever! Where's my delivery (query 6)?,delivery_delays,Positive,Chat,0.71,50%,Path C - Escalation,420,3.5
+DE-008,Expected delivery 5 days ago - still nothing!,delivery_delays,Critical,Instagram,0.82,50%,Path C - Escalation,420,2.0
+DE-009,I'm very disappointed. Order still hasn't arrived,delivery_delays,Critical,Twitter,0.91,50%,Path C - Escalation,420,2.0
+DE-010,This delivery delay is unacceptable!,delivery_delays,Positive,Email,0.84,50%,Path C - Escalation,420,3.5
+DE-011,My order was supposed to arrive yesterday,delivery_delays,Critical,Email,0.96,50%,Path C - Escalation,420,2.0
+DE-012,Expected delivery today but no sign of package,delivery_delays,Positive,WhatsApp,0.79,50%,Path C - Escalation,420,3.5
+DE-013,When will my delayed order arrive (query 12)?,delivery_delays,Critical,Instagram,0.97,50%,Path C - Escalation,420,2.0
+DE-014,Package says 2 days late now,delivery_delays,Negative,WhatsApp,0.97,50%,Path C - Escalation,420,2.5
+DE-015,My delivery is running behind schedule,delivery_delays,Positive,Chat,0.98,50%,Path C - Escalation,420,3.5
+DE-016,It's been a week and my order hasn't arrived!!,delivery_delays,Neutral,Email,0.93,50%,Path C - Escalation,420,3.0
+DE-017,This is taking forever! Where's my delivery (query 16)?,delivery_delays,Negative,Chat,0.83,50%,Path C - Escalation,420,2.5
+DE-018,Expected delivery 5 days ago - still nothing!,delivery_delays,Critical,Instagram,0.79,50%,Path C - Escalation,420,2.0
+DE-019,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Email,0.85,50%,Path C - Escalation,420,3.0
+DE-020,This delivery delay is unacceptable!,delivery_delays,Neutral,Email,0.91,50%,Path C - Escalation,420,3.0
+DE-021,My order was supposed to arrive yesterday,delivery_delays,Critical,Email,0.81,50%,Path C - Escalation,420,2.0
+DE-022,Expected delivery today but no sign of package,delivery_delays,Neutral,Instagram,0.79,50%,Path C - Escalation,420,3.0
+DE-023,When will my delayed order arrive (query 22)?,delivery_delays,Neutral,Chat,0.81,50%,Path C - Escalation,420,3.0
+DE-024,Package says 2 days late now,delivery_delays,Neutral,Email,0.85,50%,Path C - Escalation,420,3.0
+DE-025,My delivery is running behind schedule,delivery_delays,Neutral,Instagram,0.78,50%,Path C - Escalation,420,3.0
+DE-026,It's been a week and my order hasn't arrived!!,delivery_delays,Negative,Chat,0.81,50%,Path C - Escalation,420,2.5
+DE-027,This is taking forever! Where's my delivery (query 26)?,delivery_delays,Critical,Email,0.84,50%,Path C - Escalation,420,2.0
+DE-028,Expected delivery 5 days ago - still nothing!,delivery_delays,Positive,Email,0.74,50%,Path C - Escalation,420,3.5
+DE-029,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Instagram,0.87,50%,Path C - Escalation,420,3.0
+DE-030,This delivery delay is unacceptable!,delivery_delays,Negative,Email,0.88,50%,Path C - Escalation,420,2.5
+DE-031,My order was supposed to arrive yesterday,delivery_delays,Positive,Chat,0.8,50%,Path C - Escalation,420,3.5
+DE-032,Expected delivery today but no sign of package,delivery_delays,Positive,WhatsApp,0.91,50%,Path C - Escalation,420,3.5
+DE-033,When will my delayed order arrive (query 32)?,delivery_delays,Neutral,WhatsApp,0.95,50%,Path C - Escalation,420,3.0
+DE-034,Package says 2 days late now,delivery_delays,Neutral,Twitter,0.83,50%,Path C - Escalation,420,3.0
+DE-035,My delivery is running behind schedule,delivery_delays,Negative,WhatsApp,0.85,50%,Path C - Escalation,420,2.5
+DE-036,It's been a week and my order hasn't arrived!!,delivery_delays,Critical,Chat,0.9,50%,Path C - Escalation,420,2.0
+DE-037,This is taking forever! Where's my delivery (query 36)?,delivery_delays,Negative,Twitter,0.97,50%,Path C - Escalation,420,2.5
+DE-038,Expected delivery 5 days ago - still nothing!,delivery_delays,Negative,Instagram,0.92,50%,Path C - Escalation,420,2.5
+DE-039,I'm very disappointed. Order still hasn't arrived,delivery_delays,Critical,WhatsApp,0.7,50%,Path C - Escalation,420,2.0
+DE-040,This delivery delay is unacceptable!,delivery_delays,Critical,WhatsApp,0.87,50%,Path C - Escalation,420,2.0
+DE-041,My order was supposed to arrive yesterday,delivery_delays,Neutral,Email,0.86,50%,Path C - Escalation,420,3.0
+DE-042,Expected delivery today but no sign of package,delivery_delays,Positive,WhatsApp,0.8,50%,Path C - Escalation,420,3.5
+DE-043,When will my delayed order arrive (query 42)?,delivery_delays,Neutral,Email,0.98,50%,Path C - Escalation,420,3.0
+DE-044,Package says 2 days late now,delivery_delays,Positive,Instagram,0.9,50%,Path C - Escalation,420,3.5
+DE-045,My delivery is running behind schedule,delivery_delays,Positive,WhatsApp,0.96,50%,Path C - Escalation,420,3.5
+DE-046,It's been a week and my order hasn't arrived!!,delivery_delays,Negative,Chat,0.87,50%,Path C - Escalation,420,2.5
+DE-047,This is taking forever! Where's my delivery (query 46)?,delivery_delays,Negative,WhatsApp,0.95,50%,Path C - Escalation,420,2.5
+DE-048,Expected delivery 5 days ago - still nothing!,delivery_delays,Neutral,Twitter,0.91,50%,Path C - Escalation,420,3.0
+DE-049,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Twitter,0.79,50%,Path C - Escalation,420,3.0
+DE-050,This delivery delay is unacceptable!,delivery_delays,Neutral,Twitter,0.94,50%,Path C - Escalation,420,3.0
+DE-051,My order was supposed to arrive yesterday,delivery_delays,Neutral,Twitter,0.82,50%,Path C - Escalation,420,3.0
+DE-052,Expected delivery today but no sign of package,delivery_delays,Neutral,Chat,0.92,50%,Path C - Escalation,420,3.0
+DE-053,When will my delayed order arrive (query 52)?,delivery_delays,Positive,WhatsApp,0.92,50%,Path C - Escalation,420,3.5
+DE-054,Package says 2 days late now,delivery_delays,Neutral,WhatsApp,0.77,50%,Path C - Escalation,420,3.0
+DE-055,My delivery is running behind schedule,delivery_delays,Neutral,Twitter,0.77,50%,Path C - Escalation,420,3.0
+DE-056,It's been a week and my order hasn't arrived!!,delivery_delays,Positive,Instagram,0.98,50%,Path C - Escalation,420,3.5
+DE-057,This is taking forever! Where's my delivery (query 56)?,delivery_delays,Critical,WhatsApp,0.88,50%,Path C - Escalation,420,2.0
+DE-058,Expected delivery 5 days ago - still nothing!,delivery_delays,Positive,Instagram,0.8,50%,Path C - Escalation,420,3.5
+DE-059,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Instagram,0.95,50%,Path C - Escalation,420,3.0
+DE-060,This delivery delay is unacceptable!,delivery_delays,Neutral,Chat,0.74,50%,Path C - Escalation,420,3.0
+DE-061,My order was supposed to arrive yesterday,delivery_delays,Positive,Chat,0.84,50%,Path C - Escalation,420,3.5
+DE-062,Expected delivery today but no sign of package,delivery_delays,Positive,Instagram,0.77,50%,Path C - Escalation,420,3.5
+DE-063,When will my delayed order arrive (query 62)?,delivery_delays,Critical,Email,0.98,50%,Path C - Escalation,420,2.0
+DE-064,Package says 2 days late now,delivery_delays,Critical,Instagram,0.95,50%,Path C - Escalation,420,2.0
+DE-065,My delivery is running behind schedule,delivery_delays,Critical,Twitter,0.8,50%,Path C - Escalation,420,2.0
+DE-066,It's been a week and my order hasn't arrived!!,delivery_delays,Neutral,Chat,0.83,50%,Path C - Escalation,420,3.0
+DE-067,This is taking forever! Where's my delivery (query 66)?,delivery_delays,Negative,Twitter,0.78,50%,Path C - Escalation,420,2.5
+DE-068,Expected delivery 5 days ago - still nothing!,delivery_delays,Neutral,Chat,0.94,50%,Path C - Escalation,420,3.0
+DE-069,I'm very disappointed. Order still hasn't arrived,delivery_delays,Negative,Instagram,0.81,50%,Path C - Escalation,420,2.5
+DE-070,This delivery delay is unacceptable!,delivery_delays,Positive,WhatsApp,0.88,50%,Path C - Escalation,420,3.5
+DE-071,My order was supposed to arrive yesterday,delivery_delays,Neutral,WhatsApp,0.87,50%,Path C - Escalation,420,3.0
+DE-072,Expected delivery today but no sign of package,delivery_delays,Neutral,Twitter,0.82,50%,Path C - Escalation,420,3.0
+DE-073,When will my delayed order arrive (query 72)?,delivery_delays,Neutral,Chat,0.86,50%,Path C - Escalation,420,3.0
+DE-074,Package says 2 days late now,delivery_delays,Neutral,Chat,0.98,50%,Path C - Escalation,420,3.0
+DE-075,My delivery is running behind schedule,delivery_delays,Negative,Email,0.94,50%,Path C - Escalation,420,2.5
+DE-076,It's been a week and my order hasn't arrived!!,delivery_delays,Critical,Twitter,0.94,50%,Path C - Escalation,420,2.0
+DE-077,This is taking forever! Where's my delivery (query 76)?,delivery_delays,Critical,Twitter,0.67,50%,Path C - Escalation,420,2.0
+DE-078,Expected delivery 5 days ago - still nothing!,delivery_delays,Positive,WhatsApp,0.71,50%,Path C - Escalation,420,3.5
+DE-079,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Chat,0.92,50%,Path C - Escalation,420,3.0
+DE-080,This delivery delay is unacceptable!,delivery_delays,Neutral,Twitter,0.74,50%,Path C - Escalation,420,3.0
+DE-081,My order was supposed to arrive yesterday,delivery_delays,Neutral,Chat,0.97,50%,Path C - Escalation,420,3.0
+DE-082,Expected delivery today but no sign of package,delivery_delays,Negative,WhatsApp,0.8,50%,Path C - Escalation,420,2.5
+DE-083,When will my delayed order arrive (query 82)?,delivery_delays,Negative,Twitter,0.94,50%,Path C - Escalation,420,2.5
+DE-084,Package says 2 days late now,delivery_delays,Neutral,Email,0.81,50%,Path C - Escalation,420,3.0
+DE-085,My delivery is running behind schedule,delivery_delays,Neutral,WhatsApp,0.7,50%,Path C - Escalation,420,3.0
+DE-086,It's been a week and my order hasn't arrived!!,delivery_delays,Negative,Twitter,0.85,50%,Path C - Escalation,420,2.5
+DE-087,This is taking forever! Where's my delivery (query 86)?,delivery_delays,Neutral,Email,0.75,50%,Path C - Escalation,420,3.0
+DE-088,Expected delivery 5 days ago - still nothing!,delivery_delays,Critical,Twitter,0.96,50%,Path C - Escalation,420,2.0
+DE-089,I'm very disappointed. Order still hasn't arrived,delivery_delays,Negative,Chat,0.67,50%,Path C - Escalation,420,2.5
+DE-090,This delivery delay is unacceptable!,delivery_delays,Neutral,Instagram,0.94,50%,Path C - Escalation,420,3.0
+DE-091,My order was supposed to arrive yesterday,delivery_delays,Neutral,WhatsApp,0.73,50%,Path C - Escalation,420,3.0
+DE-092,Expected delivery today but no sign of package,delivery_delays,Negative,Instagram,0.8,50%,Path C - Escalation,420,2.5
+DE-093,When will my delayed order arrive (query 92)?,delivery_delays,Neutral,WhatsApp,0.88,50%,Path C - Escalation,420,3.0
+DE-094,Package says 2 days late now,delivery_delays,Negative,Instagram,0.86,50%,Path C - Escalation,420,2.5
+DE-095,My delivery is running behind schedule,delivery_delays,Critical,Instagram,0.87,50%,Path C - Escalation,420,2.0
+DE-096,It's been a week and my order hasn't arrived!!,delivery_delays,Neutral,Instagram,0.74,50%,Path C - Escalation,420,3.0
+DE-097,This is taking forever! Where's my delivery (query 96)?,delivery_delays,Critical,Email,0.89,50%,Path C - Escalation,420,2.0
+DE-098,Expected delivery 5 days ago - still nothing!,delivery_delays,Neutral,Instagram,0.91,50%,Path C - Escalation,420,3.0
+DE-099,I'm very disappointed. Order still hasn't arrived,delivery_delays,Neutral,Email,0.72,50%,Path C - Escalation,420,3.0
+DE-100,This delivery delay is unacceptable!,delivery_delays,Neutral,WhatsApp,0.74,50%,Path C - Escalation,420,3.0
+RE-001,I want a refund for my order,refund_requests,Neutral,Instagram,0.95,40%,Path C - Escalation,600,3.2
+RE-002,Can I return and get my money back (query 1)?,refund_requests,Critical,Chat,0.71,40%,Path C - Escalation,600,2.2
+RE-003,"This product is defective, I need a refund",refund_requests,Neutral,Instagram,0.83,40%,Path C - Escalation,600,3.2
+RE-004,"The item arrived damaged, please refund",refund_requests,Neutral,Twitter,0.78,40%,Path C - Escalation,600,3.2
+RE-005,"I changed my mind, can I get a refund (query 4)?",refund_requests,Neutral,Instagram,0.94,40%,Path C - Escalation,600,3.2
+RE-006,How do I process a return for a refund (query 5)?,refund_requests,Critical,Instagram,0.87,40%,Path C - Escalation,600,2.2
+RE-007,"I was charged twice, please refund one",refund_requests,Neutral,Chat,0.86,40%,Path C - Escalation,600,3.2
+RE-008,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Negative,Chat,0.88,40%,Path C - Escalation,600,2.7
+RE-009,I want a refund for my order,refund_requests,Neutral,Chat,0.8,40%,Path C - Escalation,600,3.2
+RE-010,Can I return and get my money back (query 9)?,refund_requests,Neutral,Instagram,0.89,40%,Path C - Escalation,600,3.2
+RE-011,"This product is defective, I need a refund",refund_requests,Negative,WhatsApp,0.82,40%,Path C - Escalation,600,2.7
+RE-012,"The item arrived damaged, please refund",refund_requests,Neutral,Instagram,0.86,40%,Path C - Escalation,600,3.2
+RE-013,"I changed my mind, can I get a refund (query 12)?",refund_requests,Neutral,Email,0.73,40%,Path C - Escalation,600,3.2
+RE-014,How do I process a return for a refund (query 13)?,refund_requests,Neutral,Chat,0.97,40%,Path C - Escalation,600,3.2
+RE-015,"I was charged twice, please refund one",refund_requests,Neutral,Chat,0.71,40%,Path C - Escalation,600,3.2
+RE-016,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Positive,WhatsApp,0.93,40%,Path C - Escalation,600,3.7
+RE-017,I want a refund for my order,refund_requests,Neutral,Twitter,0.87,40%,Path C - Escalation,600,3.2
+RE-018,Can I return and get my money back (query 17)?,refund_requests,Positive,Email,0.95,40%,Path C - Escalation,600,3.7
+RE-019,"This product is defective, I need a refund",refund_requests,Neutral,Email,0.81,40%,Path C - Escalation,600,3.2
+RE-020,"The item arrived damaged, please refund",refund_requests,Positive,Twitter,0.96,40%,Path C - Escalation,600,3.7
+RE-021,"I changed my mind, can I get a refund (query 20)?",refund_requests,Neutral,WhatsApp,0.74,40%,Path C - Escalation,600,3.2
+RE-022,How do I process a return for a refund (query 21)?,refund_requests,Neutral,Chat,0.84,40%,Path C - Escalation,600,3.2
+RE-023,"I was charged twice, please refund one",refund_requests,Negative,Chat,0.88,40%,Path C - Escalation,600,2.7
+RE-024,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Positive,Instagram,0.98,40%,Path C - Escalation,600,3.7
+RE-025,I want a refund for my order,refund_requests,Neutral,WhatsApp,0.86,40%,Path C - Escalation,600,3.2
+RE-026,Can I return and get my money back (query 25)?,refund_requests,Negative,Instagram,0.77,40%,Path C - Escalation,600,2.7
+RE-027,"This product is defective, I need a refund",refund_requests,Neutral,Twitter,0.82,40%,Path C - Escalation,600,3.2
+RE-028,"The item arrived damaged, please refund",refund_requests,Negative,WhatsApp,0.87,40%,Path C - Escalation,600,2.7
+RE-029,"I changed my mind, can I get a refund (query 28)?",refund_requests,Positive,Instagram,0.83,40%,Path C - Escalation,600,3.7
+RE-030,How do I process a return for a refund (query 29)?,refund_requests,Positive,Email,0.7,40%,Path C - Escalation,600,3.7
+RE-031,"I was charged twice, please refund one",refund_requests,Neutral,Instagram,0.94,40%,Path C - Escalation,600,3.2
+RE-032,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Negative,Twitter,0.69,40%,Path C - Escalation,600,2.7
+RE-033,I want a refund for my order,refund_requests,Negative,Email,0.74,40%,Path C - Escalation,600,2.7
+RE-034,Can I return and get my money back (query 33)?,refund_requests,Neutral,WhatsApp,0.87,40%,Path C - Escalation,600,3.2
+RE-035,"This product is defective, I need a refund",refund_requests,Neutral,Twitter,0.86,40%,Path C - Escalation,600,3.2
+RE-036,"The item arrived damaged, please refund",refund_requests,Negative,Chat,0.78,40%,Path C - Escalation,600,2.7
+RE-037,"I changed my mind, can I get a refund (query 36)?",refund_requests,Negative,Twitter,0.79,40%,Path C - Escalation,600,2.7
+RE-038,How do I process a return for a refund (query 37)?,refund_requests,Neutral,Chat,0.88,40%,Path C - Escalation,600,3.2
+RE-039,"I was charged twice, please refund one",refund_requests,Neutral,Instagram,0.75,40%,Path C - Escalation,600,3.2
+RE-040,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Critical,Twitter,0.86,40%,Path C - Escalation,600,2.2
+RE-041,I want a refund for my order,refund_requests,Neutral,WhatsApp,0.89,40%,Path C - Escalation,600,3.2
+RE-042,Can I return and get my money back (query 41)?,refund_requests,Neutral,Chat,0.76,40%,Path C - Escalation,600,3.2
+RE-043,"This product is defective, I need a refund",refund_requests,Neutral,Chat,0.86,40%,Path C - Escalation,600,3.2
+RE-044,"The item arrived damaged, please refund",refund_requests,Neutral,Chat,0.92,40%,Path C - Escalation,600,3.2
+RE-045,"I changed my mind, can I get a refund (query 44)?",refund_requests,Neutral,Email,0.95,40%,Path C - Escalation,600,3.2
+RE-046,How do I process a return for a refund (query 45)?,refund_requests,Neutral,Twitter,0.82,40%,Path C - Escalation,600,3.2
+RE-047,"I was charged twice, please refund one",refund_requests,Negative,WhatsApp,0.66,40%,Path C - Escalation,600,2.7
+RE-048,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Negative,Instagram,0.85,40%,Path C - Escalation,600,2.7
+RE-049,I want a refund for my order,refund_requests,Neutral,Chat,0.74,40%,Path C - Escalation,600,3.2
+RE-050,Can I return and get my money back (query 49)?,refund_requests,Negative,Instagram,0.92,40%,Path C - Escalation,600,2.7
+RE-051,"This product is defective, I need a refund",refund_requests,Positive,Instagram,0.77,40%,Path C - Escalation,600,3.7
+RE-052,"The item arrived damaged, please refund",refund_requests,Positive,Email,0.8,40%,Path C - Escalation,600,3.7
+RE-053,"I changed my mind, can I get a refund (query 52)?",refund_requests,Positive,Twitter,0.73,40%,Path C - Escalation,600,3.7
+RE-054,How do I process a return for a refund (query 53)?,refund_requests,Neutral,Twitter,0.93,40%,Path C - Escalation,600,3.2
+RE-055,"I was charged twice, please refund one",refund_requests,Positive,Chat,0.8,40%,Path C - Escalation,600,3.7
+RE-056,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Positive,WhatsApp,0.77,40%,Path C - Escalation,600,3.7
+RE-057,I want a refund for my order,refund_requests,Neutral,WhatsApp,0.93,40%,Path C - Escalation,600,3.2
+RE-058,Can I return and get my money back (query 57)?,refund_requests,Neutral,WhatsApp,0.79,40%,Path C - Escalation,600,3.2
+RE-059,"This product is defective, I need a refund",refund_requests,Negative,Chat,0.69,40%,Path C - Escalation,600,2.7
+RE-060,"The item arrived damaged, please refund",refund_requests,Neutral,Email,0.85,40%,Path C - Escalation,600,3.2
+RE-061,"I changed my mind, can I get a refund (query 60)?",refund_requests,Neutral,Instagram,0.75,40%,Path C - Escalation,600,3.2
+RE-062,How do I process a return for a refund (query 61)?,refund_requests,Negative,Instagram,0.73,40%,Path C - Escalation,600,2.7
+RE-063,"I was charged twice, please refund one",refund_requests,Neutral,Chat,0.77,40%,Path C - Escalation,600,3.2
+RE-064,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Neutral,WhatsApp,0.77,40%,Path C - Escalation,600,3.2
+RE-065,I want a refund for my order,refund_requests,Neutral,Instagram,0.87,40%,Path C - Escalation,600,3.2
+RE-066,Can I return and get my money back (query 65)?,refund_requests,Neutral,Email,0.8,40%,Path C - Escalation,600,3.2
+RE-067,"This product is defective, I need a refund",refund_requests,Neutral,Chat,0.81,40%,Path C - Escalation,600,3.2
+RE-068,"The item arrived damaged, please refund",refund_requests,Neutral,Chat,0.85,40%,Path C - Escalation,600,3.2
+RE-069,"I changed my mind, can I get a refund (query 68)?",refund_requests,Neutral,WhatsApp,0.74,40%,Path C - Escalation,600,3.2
+RE-070,How do I process a return for a refund (query 69)?,refund_requests,Neutral,Instagram,0.86,40%,Path C - Escalation,600,3.2
+RE-071,"I was charged twice, please refund one",refund_requests,Neutral,Email,0.86,40%,Path C - Escalation,600,3.2
+RE-072,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Neutral,WhatsApp,0.82,40%,Path C - Escalation,600,3.2
+RE-073,I want a refund for my order,refund_requests,Critical,WhatsApp,0.89,40%,Path C - Escalation,600,2.2
+RE-074,Can I return and get my money back (query 73)?,refund_requests,Neutral,WhatsApp,0.91,40%,Path C - Escalation,600,3.2
+RE-075,"This product is defective, I need a refund",refund_requests,Neutral,WhatsApp,0.86,40%,Path C - Escalation,600,3.2
+RE-076,"The item arrived damaged, please refund",refund_requests,Neutral,Twitter,0.96,40%,Path C - Escalation,600,3.2
+RE-077,"I changed my mind, can I get a refund (query 76)?",refund_requests,Positive,Email,0.85,40%,Path C - Escalation,600,3.7
+RE-078,How do I process a return for a refund (query 77)?,refund_requests,Critical,Email,0.74,40%,Path C - Escalation,600,2.2
+RE-079,"I was charged twice, please refund one",refund_requests,Negative,Email,0.87,40%,Path C - Escalation,600,2.7
+RE-080,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Positive,Instagram,0.78,40%,Path C - Escalation,600,3.7
+RE-081,I want a refund for my order,refund_requests,Neutral,Instagram,0.75,40%,Path C - Escalation,600,3.2
+RE-082,Can I return and get my money back (query 81)?,refund_requests,Neutral,WhatsApp,0.75,40%,Path C - Escalation,600,3.2
+RE-083,"This product is defective, I need a refund",refund_requests,Negative,WhatsApp,0.82,40%,Path C - Escalation,600,2.7
+RE-084,"The item arrived damaged, please refund",refund_requests,Critical,Instagram,0.87,40%,Path C - Escalation,600,2.2
+RE-085,"I changed my mind, can I get a refund (query 84)?",refund_requests,Positive,Email,0.81,40%,Path C - Escalation,600,3.7
+RE-086,How do I process a return for a refund (query 85)?,refund_requests,Neutral,Chat,0.94,40%,Path C - Escalation,600,3.2
+RE-087,"I was charged twice, please refund one",refund_requests,Negative,Chat,0.74,40%,Path C - Escalation,600,2.7
+RE-088,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Critical,WhatsApp,0.98,40%,Path C - Escalation,600,2.2
+RE-089,I want a refund for my order,refund_requests,Positive,Chat,0.77,40%,Path C - Escalation,600,3.7
+RE-090,Can I return and get my money back (query 89)?,refund_requests,Negative,WhatsApp,0.79,40%,Path C - Escalation,600,2.7
+RE-091,"This product is defective, I need a refund",refund_requests,Neutral,Chat,0.8,40%,Path C - Escalation,600,3.2
+RE-092,"The item arrived damaged, please refund",refund_requests,Positive,WhatsApp,0.79,40%,Path C - Escalation,600,3.7
+RE-093,"I changed my mind, can I get a refund (query 92)?",refund_requests,Neutral,Twitter,0.71,40%,Path C - Escalation,600,3.2
+RE-094,How do I process a return for a refund (query 93)?,refund_requests,Neutral,Chat,0.7,40%,Path C - Escalation,600,3.2
+RE-095,"I was charged twice, please refund one",refund_requests,Neutral,Instagram,0.74,40%,Path C - Escalation,600,3.2
+RE-096,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Neutral,Chat,0.81,40%,Path C - Escalation,600,3.2
+RE-097,I want a refund for my order,refund_requests,Positive,WhatsApp,0.79,40%,Path C - Escalation,600,3.7
+RE-098,Can I return and get my money back (query 97)?,refund_requests,Negative,Twitter,0.76,40%,Path C - Escalation,600,2.7
+RE-099,"This product is defective, I need a refund",refund_requests,Negative,Email,0.82,40%,Path C - Escalation,600,2.7
+RE-100,"The item arrived damaged, please refund",refund_requests,Critical,Email,0.77,40%,Path C - Escalation,600,2.2
+PR-001,This product is terrible quality,product_complaints,Negative,WhatsApp,0.81,45%,Path C - Escalation,600,2.8
+PR-002,The item I received is not as described,product_complaints,Positive,Twitter,0.87,45%,Path C - Escalation,600,3.8
+PR-003,Your product broke after one week,product_complaints,Negative,Instagram,0.92,45%,Path C - Escalation,600,2.8
+PR-004,The packaging was damaged on arrival,product_complaints,Neutral,Email,0.97,45%,Path C - Escalation,600,3.3
+PR-005,This is not what I ordered,product_complaints,Neutral,Instagram,0.76,45%,Path C - Escalation,600,3.3
+PR-006,The product smells bad,product_complaints,Positive,Email,0.74,45%,Path C - Escalation,600,3.8
+PR-007,The fitness equipment is defective,product_complaints,Neutral,Twitter,0.91,45%,Path C - Escalation,600,3.3
+PR-008,Will you match a competitor's pricing on this item (query 7)?,product_complaints,Neutral,Twitter,0.79,45%,Path C - Escalation,600,3.3
+PR-009,This product is terrible quality,product_complaints,Critical,Twitter,0.68,45%,Path C - Escalation,600,2.3
+PR-010,The item I received is not as described,product_complaints,Positive,Twitter,0.72,45%,Path C - Escalation,600,3.8
+PR-011,Your product broke after one week,product_complaints,Negative,Email,0.95,45%,Path C - Escalation,600,2.8
+PR-012,The packaging was damaged on arrival,product_complaints,Negative,Chat,0.83,45%,Path C - Escalation,600,2.8
+PR-013,This is not what I ordered,product_complaints,Critical,Chat,0.84,45%,Path C - Escalation,600,2.3
+PR-014,The product smells bad,product_complaints,Neutral,Chat,0.93,45%,Path C - Escalation,600,3.3
+PR-015,The fitness equipment is defective,product_complaints,Negative,Email,0.78,45%,Path C - Escalation,600,2.8
+PR-016,Will you match a competitor's pricing on this item (query 15)?,product_complaints,Negative,Twitter,0.82,45%,Path C - Escalation,600,2.8
+PR-017,This product is terrible quality,product_complaints,Critical,Chat,0.9,45%,Path C - Escalation,600,2.3
+PR-018,The item I received is not as described,product_complaints,Positive,Chat,0.83,45%,Path C - Escalation,600,3.8
+PR-019,Your product broke after one week,product_complaints,Positive,WhatsApp,0.74,45%,Path C - Escalation,600,3.8
+PR-020,The packaging was damaged on arrival,product_complaints,Neutral,Chat,0.81,45%,Path C - Escalation,600,3.3
+PR-021,This is not what I ordered,product_complaints,Negative,Chat,0.67,45%,Path C - Escalation,600,2.8
+PR-022,The product smells bad,product_complaints,Neutral,Twitter,0.73,45%,Path C - Escalation,600,3.3
+PR-023,The fitness equipment is defective,product_complaints,Negative,WhatsApp,0.72,45%,Path C - Escalation,600,2.8
+PR-024,Will you match a competitor's pricing on this item (query 23)?,product_complaints,Neutral,Twitter,0.79,45%,Path C - Escalation,600,3.3
+PR-025,This product is terrible quality,product_complaints,Neutral,Chat,0.84,45%,Path C - Escalation,600,3.3
+PR-026,The item I received is not as described,product_complaints,Positive,Chat,0.7,45%,Path C - Escalation,600,3.8
+PR-027,Your product broke after one week,product_complaints,Neutral,Twitter,0.74,45%,Path C - Escalation,600,3.3
+PR-028,The packaging was damaged on arrival,product_complaints,Neutral,WhatsApp,0.73,45%,Path C - Escalation,600,3.3
+PR-029,This is not what I ordered,product_complaints,Negative,Twitter,0.68,45%,Path C - Escalation,600,2.8
+PR-030,The product smells bad,product_complaints,Critical,WhatsApp,0.66,45%,Path C - Escalation,600,2.3
+PR-031,The fitness equipment is defective,product_complaints,Positive,WhatsApp,0.73,45%,Path C - Escalation,600,3.8
+PR-032,Will you match a competitor's pricing on this item (query 31)?,product_complaints,Negative,WhatsApp,0.79,45%,Path C - Escalation,600,2.8
+PR-033,This product is terrible quality,product_complaints,Negative,Twitter,0.73,45%,Path C - Escalation,600,2.8
+PR-034,The item I received is not as described,product_complaints,Neutral,Chat,0.9,45%,Path C - Escalation,600,3.3
+PR-035,Your product broke after one week,product_complaints,Negative,Twitter,0.81,45%,Path C - Escalation,600,2.8
+PR-036,The packaging was damaged on arrival,product_complaints,Neutral,Chat,0.91,45%,Path C - Escalation,600,3.3
+PR-037,This is not what I ordered,product_complaints,Positive,Instagram,0.72,45%,Path C - Escalation,600,3.8
+PR-038,The product smells bad,product_complaints,Positive,Chat,0.72,45%,Path C - Escalation,600,3.8
+PR-039,The fitness equipment is defective,product_complaints,Neutral,Instagram,0.8,45%,Path C - Escalation,600,3.3
+PR-040,Will you match a competitor's pricing on this item (query 39)?,product_complaints,Critical,Chat,0.93,45%,Path C - Escalation,600,2.3
+PR-041,This product is terrible quality,product_complaints,Negative,WhatsApp,0.76,45%,Path C - Escalation,600,2.8
+PR-042,The item I received is not as described,product_complaints,Negative,Chat,0.85,45%,Path C - Escalation,600,2.8
+PR-043,Your product broke after one week,product_complaints,Neutral,Chat,0.88,45%,Path C - Escalation,600,3.3
+PR-044,The packaging was damaged on arrival,product_complaints,Positive,Twitter,0.75,45%,Path C - Escalation,600,3.8
+PR-045,This is not what I ordered,product_complaints,Neutral,Chat,0.98,45%,Path C - Escalation,600,3.3
+PR-046,The product smells bad,product_complaints,Critical,Chat,0.95,45%,Path C - Escalation,600,2.3
+PR-047,The fitness equipment is defective,product_complaints,Neutral,Instagram,0.75,45%,Path C - Escalation,600,3.3
+PR-048,Will you match a competitor's pricing on this item (query 47)?,product_complaints,Neutral,Email,0.79,45%,Path C - Escalation,600,3.3
+PR-049,This product is terrible quality,product_complaints,Neutral,Twitter,0.73,45%,Path C - Escalation,600,3.3
+PR-050,The item I received is not as described,product_complaints,Neutral,Instagram,0.83,45%,Path C - Escalation,600,3.3
+PR-051,Your product broke after one week,product_complaints,Neutral,Instagram,0.96,45%,Path C - Escalation,600,3.3
+PR-052,The packaging was damaged on arrival,product_complaints,Negative,Email,0.7,45%,Path C - Escalation,600,2.8
+PR-053,This is not what I ordered,product_complaints,Neutral,Chat,0.81,45%,Path C - Escalation,600,3.3
+PR-054,The product smells bad,product_complaints,Negative,Instagram,0.77,45%,Path C - Escalation,600,2.8
+PR-055,The fitness equipment is defective,product_complaints,Neutral,Email,0.74,45%,Path C - Escalation,600,3.3
+PR-056,Will you match a competitor's pricing on this item (query 55)?,product_complaints,Neutral,Email,0.81,45%,Path C - Escalation,600,3.3
+PR-057,This product is terrible quality,product_complaints,Neutral,WhatsApp,0.88,45%,Path C - Escalation,600,3.3
+PR-058,The item I received is not as described,product_complaints,Positive,WhatsApp,0.8,45%,Path C - Escalation,600,3.8
+PR-059,Your product broke after one week,product_complaints,Neutral,Instagram,0.76,45%,Path C - Escalation,600,3.3
+PR-060,The packaging was damaged on arrival,product_complaints,Neutral,WhatsApp,0.76,45%,Path C - Escalation,600,3.3
+PR-061,This is not what I ordered,product_complaints,Negative,Twitter,0.76,45%,Path C - Escalation,600,2.8
+PR-062,The product smells bad,product_complaints,Negative,Twitter,0.65,45%,Path C - Escalation,600,2.8
+PR-063,The fitness equipment is defective,product_complaints,Positive,Twitter,0.78,45%,Path C - Escalation,600,3.8
+PR-064,Will you match a competitor's pricing on this item (query 63)?,product_complaints,Neutral,Email,0.89,45%,Path C - Escalation,600,3.3
+PR-065,This product is terrible quality,product_complaints,Positive,Email,0.72,45%,Path C - Escalation,600,3.8
+PR-066,The item I received is not as described,product_complaints,Neutral,Twitter,0.8,45%,Path C - Escalation,600,3.3
+PR-067,Your product broke after one week,product_complaints,Neutral,WhatsApp,0.95,45%,Path C - Escalation,600,3.3
+PR-068,The packaging was damaged on arrival,product_complaints,Positive,Chat,0.81,45%,Path C - Escalation,600,3.8
+PR-069,This is not what I ordered,product_complaints,Neutral,Chat,0.87,45%,Path C - Escalation,600,3.3
+PR-070,The product smells bad,product_complaints,Negative,Chat,0.81,45%,Path C - Escalation,600,2.8
+PR-071,The fitness equipment is defective,product_complaints,Negative,Chat,0.98,45%,Path C - Escalation,600,2.8
+PR-072,Will you match a competitor's pricing on this item (query 71)?,product_complaints,Neutral,WhatsApp,0.77,45%,Path C - Escalation,600,3.3
+PR-073,This product is terrible quality,product_complaints,Negative,Instagram,0.81,45%,Path C - Escalation,600,2.8
+PR-074,The item I received is not as described,product_complaints,Negative,Chat,0.66,45%,Path C - Escalation,600,2.8
+PR-075,Your product broke after one week,product_complaints,Neutral,Chat,0.8,45%,Path C - Escalation,600,3.3
+PR-076,The packaging was damaged on arrival,product_complaints,Neutral,Email,0.95,45%,Path C - Escalation,600,3.3
+PR-077,This is not what I ordered,product_complaints,Neutral,WhatsApp,0.71,45%,Path C - Escalation,600,3.3
+PR-078,The product smells bad,product_complaints,Neutral,Twitter,0.79,45%,Path C - Escalation,600,3.3
+PR-079,The fitness equipment is defective,product_complaints,Neutral,Email,0.9,45%,Path C - Escalation,600,3.3
+PR-080,Will you match a competitor's pricing on this item (query 79)?,product_complaints,Neutral,Instagram,0.94,45%,Path C - Escalation,600,3.3
+PR-081,This product is terrible quality,product_complaints,Positive,Chat,0.73,45%,Path C - Escalation,600,3.8
+PR-082,The item I received is not as described,product_complaints,Neutral,Chat,0.78,45%,Path C - Escalation,600,3.3
+PR-083,Your product broke after one week,product_complaints,Neutral,Twitter,0.83,45%,Path C - Escalation,600,3.3
+PR-084,The packaging was damaged on arrival,product_complaints,Neutral,Twitter,0.91,45%,Path C - Escalation,600,3.3
+PR-085,This is not what I ordered,product_complaints,Neutral,Twitter,0.87,45%,Path C - Escalation,600,3.3
+PR-086,The product smells bad,product_complaints,Negative,Chat,0.68,45%,Path C - Escalation,600,2.8
+PR-087,The fitness equipment is defective,product_complaints,Positive,Instagram,0.8,45%,Path C - Escalation,600,3.8
+PR-088,Will you match a competitor's pricing on this item (query 87)?,product_complaints,Critical,WhatsApp,0.73,45%,Path C - Escalation,600,2.3
+PR-089,This product is terrible quality,product_complaints,Neutral,WhatsApp,0.93,45%,Path C - Escalation,600,3.3
+PR-090,The item I received is not as described,product_complaints,Negative,WhatsApp,0.92,45%,Path C - Escalation,600,2.8
+PR-091,Your product broke after one week,product_complaints,Positive,WhatsApp,0.86,45%,Path C - Escalation,600,3.8
+PR-092,The packaging was damaged on arrival,product_complaints,Neutral,Chat,0.86,45%,Path C - Escalation,600,3.3
+PR-093,This is not what I ordered,product_complaints,Negative,Email,0.78,45%,Path C - Escalation,600,2.8
+PR-094,The product smells bad,product_complaints,Negative,Email,0.97,45%,Path C - Escalation,600,2.8
+PR-095,The fitness equipment is defective,product_complaints,Positive,Twitter,0.74,45%,Path C - Escalation,600,3.8
+PR-096,Will you match a competitor's pricing on this item (query 95)?,product_complaints,Neutral,Email,0.86,45%,Path C - Escalation,600,3.3
+PR-097,This product is terrible quality,product_complaints,Critical,Chat,0.79,45%,Path C - Escalation,600,2.3
+PR-098,The item I received is not as described,product_complaints,Negative,WhatsApp,0.79,45%,Path C - Escalation,600,2.8
+PR-099,Your product broke after one week,product_complaints,Neutral,WhatsApp,0.91,45%,Path C - Escalation,600,3.3
+PR-100,The packaging was damaged on arrival,product_complaints,Negative,Chat,0.71,45%,Path C - Escalation,600,2.8
+SU-001,My subscription renewed without my permission,subscription_issues,Negative,Instagram,0.67,60%,Path C - Escalation,600,3.0
+SU-002,How do I cancel my subscription (query 1)?,subscription_issues,Critical,Instagram,0.84,60%,Path C - Escalation,600,2.5
+SU-003,I was charged for a subscription I didn't authorize,subscription_issues,Neutral,Instagram,0.82,60%,Path C - Escalation,600,3.5
+SU-004,Can I pause my subscription (query 3)?,subscription_issues,Neutral,Chat,0.81,60%,Path C - Escalation,600,3.5
+SU-005,How do I change my subscription plan (query 4)?,subscription_issues,Negative,Twitter,0.73,60%,Path C - Escalation,600,3.0
+SU-006,"My subscription auto-renewed, is this legal (query 5)?",subscription_issues,Negative,Email,0.86,60%,Path C - Escalation,600,3.0
+SU-007,"I don't want a subscription, how do I downgrade (query 6)?",subscription_issues,Negative,WhatsApp,0.81,60%,Path C - Escalation,600,3.0
+SU-008,My subscription renewed without my permission,subscription_issues,Neutral,Instagram,0.85,60%,Path C - Escalation,600,3.5
+SU-009,How do I cancel my subscription (query 8)?,subscription_issues,Neutral,Twitter,0.91,60%,Path C - Escalation,600,3.5
+SU-010,I was charged for a subscription I didn't authorize,subscription_issues,Positive,Twitter,0.77,60%,Path C - Escalation,600,4.0
+SU-011,Can I pause my subscription (query 10)?,subscription_issues,Positive,Twitter,0.91,60%,Path C - Escalation,600,4.0
+SU-012,How do I change my subscription plan (query 11)?,subscription_issues,Neutral,Email,0.86,60%,Path C - Escalation,600,3.5
+SU-013,"My subscription auto-renewed, is this legal (query 12)?",subscription_issues,Negative,Twitter,0.78,60%,Path C - Escalation,600,3.0
+SU-014,"I don't want a subscription, how do I downgrade (query 13)?",subscription_issues,Positive,Twitter,0.91,60%,Path C - Escalation,600,4.0
+SU-015,My subscription renewed without my permission,subscription_issues,Negative,Email,0.78,60%,Path C - Escalation,600,3.0
+SU-016,How do I cancel my subscription (query 15)?,subscription_issues,Negative,Instagram,0.89,60%,Path C - Escalation,600,3.0
+SU-017,I was charged for a subscription I didn't authorize,subscription_issues,Positive,Instagram,0.82,60%,Path C - Escalation,600,4.0
+SU-018,Can I pause my subscription (query 17)?,subscription_issues,Neutral,WhatsApp,0.97,60%,Path C - Escalation,600,3.5
+SU-019,How do I change my subscription plan (query 18)?,subscription_issues,Negative,Instagram,0.81,60%,Path C - Escalation,600,3.0
+SU-020,"My subscription auto-renewed, is this legal (query 19)?",subscription_issues,Positive,Twitter,0.91,60%,Path C - Escalation,600,4.0
+SU-021,"I don't want a subscription, how do I downgrade (query 20)?",subscription_issues,Neutral,WhatsApp,0.92,60%,Path C - Escalation,600,3.5
+SU-022,My subscription renewed without my permission,subscription_issues,Positive,WhatsApp,0.82,60%,Path C - Escalation,600,4.0
+SU-023,How do I cancel my subscription (query 22)?,subscription_issues,Negative,WhatsApp,0.96,60%,Path C - Escalation,600,3.0
+SU-024,I was charged for a subscription I didn't authorize,subscription_issues,Negative,Email,0.8,60%,Path C - Escalation,600,3.0
+SU-025,Can I pause my subscription (query 24)?,subscription_issues,Neutral,Chat,0.71,60%,Path C - Escalation,600,3.5
+SU-026,How do I change my subscription plan (query 25)?,subscription_issues,Positive,Email,0.73,60%,Path C - Escalation,600,4.0
+SU-027,"My subscription auto-renewed, is this legal (query 26)?",subscription_issues,Negative,Email,0.72,60%,Path C - Escalation,600,3.0
+SU-028,"I don't want a subscription, how do I downgrade (query 27)?",subscription_issues,Positive,Twitter,0.88,60%,Path C - Escalation,600,4.0
+SU-029,My subscription renewed without my permission,subscription_issues,Negative,Email,0.83,60%,Path C - Escalation,600,3.0
+SU-030,How do I cancel my subscription (query 29)?,subscription_issues,Neutral,WhatsApp,0.72,60%,Path C - Escalation,600,3.5
+SU-031,I was charged for a subscription I didn't authorize,subscription_issues,Neutral,Twitter,0.92,60%,Path C - Escalation,600,3.5
+SU-032,Can I pause my subscription (query 31)?,subscription_issues,Negative,Chat,0.68,60%,Path C - Escalation,600,3.0
+SU-033,How do I change my subscription plan (query 32)?,subscription_issues,Positive,Chat,0.73,60%,Path C - Escalation,600,4.0
+SU-034,"My subscription auto-renewed, is this legal (query 33)?",subscription_issues,Neutral,Twitter,0.88,60%,Path C - Escalation,600,3.5
+SU-035,"I don't want a subscription, how do I downgrade (query 34)?",subscription_issues,Neutral,WhatsApp,0.87,60%,Path C - Escalation,600,3.5
+SU-036,My subscription renewed without my permission,subscription_issues,Neutral,WhatsApp,0.83,60%,Path C - Escalation,600,3.5
+SU-037,How do I cancel my subscription (query 36)?,subscription_issues,Positive,Instagram,0.9,60%,Path C - Escalation,600,4.0
+SU-038,I was charged for a subscription I didn't authorize,subscription_issues,Negative,Email,0.83,60%,Path C - Escalation,600,3.0
+SU-039,Can I pause my subscription (query 38)?,subscription_issues,Neutral,Twitter,0.91,60%,Path C - Escalation,600,3.5
+SU-040,How do I change my subscription plan (query 39)?,subscription_issues,Critical,Chat,0.88,60%,Path C - Escalation,600,2.5
+SU-041,"My subscription auto-renewed, is this legal (query 40)?",subscription_issues,Negative,WhatsApp,0.78,60%,Path C - Escalation,600,3.0
+SU-042,"I don't want a subscription, how do I downgrade (query 41)?",subscription_issues,Negative,Instagram,0.84,60%,Path C - Escalation,600,3.0
+SU-043,My subscription renewed without my permission,subscription_issues,Critical,Chat,0.82,60%,Path C - Escalation,600,2.5
+SU-044,How do I cancel my subscription (query 43)?,subscription_issues,Critical,Chat,0.75,60%,Path C - Escalation,600,2.5
+SU-045,I was charged for a subscription I didn't authorize,subscription_issues,Neutral,WhatsApp,0.87,60%,Path C - Escalation,600,3.5
+SU-046,Can I pause my subscription (query 45)?,subscription_issues,Critical,WhatsApp,0.97,60%,Path C - Escalation,600,2.5
+SU-047,How do I change my subscription plan (query 46)?,subscription_issues,Neutral,Twitter,0.85,60%,Path C - Escalation,600,3.5
+SU-048,"My subscription auto-renewed, is this legal (query 47)?",subscription_issues,Critical,Email,0.79,60%,Path C - Escalation,600,2.5
+SU-049,"I don't want a subscription, how do I downgrade (query 48)?",subscription_issues,Negative,Instagram,0.76,60%,Path C - Escalation,600,3.0
+SU-050,My subscription renewed without my permission,subscription_issues,Negative,WhatsApp,0.9,60%,Path C - Escalation,600,3.0
+SU-051,How do I cancel my subscription (query 50)?,subscription_issues,Positive,Chat,0.95,60%,Path C - Escalation,600,4.0
+SU-052,I was charged for a subscription I didn't authorize,subscription_issues,Positive,Chat,0.72,60%,Path C - Escalation,600,4.0
+SU-053,Can I pause my subscription (query 52)?,subscription_issues,Positive,Chat,0.72,60%,Path C - Escalation,600,4.0
+SU-054,How do I change my subscription plan (query 53)?,subscription_issues,Critical,Email,0.87,60%,Path C - Escalation,600,2.5
+SU-055,"My subscription auto-renewed, is this legal (query 54)?",subscription_issues,Negative,Instagram,0.68,60%,Path C - Escalation,600,3.0
+SU-056,"I don't want a subscription, how do I downgrade (query 55)?",subscription_issues,Neutral,Twitter,0.75,60%,Path C - Escalation,600,3.5
+SU-057,My subscription renewed without my permission,subscription_issues,Neutral,Email,0.83,60%,Path C - Escalation,600,3.5
+SU-058,How do I cancel my subscription (query 57)?,subscription_issues,Critical,Chat,0.81,60%,Path C - Escalation,600,2.5
+SU-059,I was charged for a subscription I didn't authorize,subscription_issues,Negative,Twitter,0.94,60%,Path C - Escalation,600,3.0
+SU-060,Can I pause my subscription (query 59)?,subscription_issues,Negative,WhatsApp,0.78,60%,Path C - Escalation,600,3.0
+SU-061,How do I change my subscription plan (query 60)?,subscription_issues,Critical,Instagram,0.84,60%,Path C - Escalation,600,2.5
+SU-062,"My subscription auto-renewed, is this legal (query 61)?",subscription_issues,Critical,Twitter,0.97,60%,Path C - Escalation,600,2.5
+SU-063,"I don't want a subscription, how do I downgrade (query 62)?",subscription_issues,Neutral,WhatsApp,0.98,60%,Path C - Escalation,600,3.5
+SU-064,My subscription renewed without my permission,subscription_issues,Negative,Instagram,0.74,60%,Path C - Escalation,600,3.0
+SU-065,How do I cancel my subscription (query 64)?,subscription_issues,Neutral,Email,0.7,60%,Path C - Escalation,600,3.5
+SU-066,I was charged for a subscription I didn't authorize,subscription_issues,Neutral,Instagram,0.71,60%,Path C - Escalation,600,3.5
+SU-067,Can I pause my subscription (query 66)?,subscription_issues,Neutral,WhatsApp,0.84,60%,Path C - Escalation,600,3.5
+SU-068,How do I change my subscription plan (query 67)?,subscription_issues,Negative,Chat,0.97,60%,Path C - Escalation,600,3.0
+SU-069,"My subscription auto-renewed, is this legal (query 68)?",subscription_issues,Neutral,Chat,0.95,60%,Path C - Escalation,600,3.5
+SU-070,"I don't want a subscription, how do I downgrade (query 69)?",subscription_issues,Critical,Twitter,0.74,60%,Path C - Escalation,600,2.5
+SU-071,My subscription renewed without my permission,subscription_issues,Neutral,Chat,0.76,60%,Path C - Escalation,600,3.5
+SU-072,How do I cancel my subscription (query 71)?,subscription_issues,Neutral,Chat,0.82,60%,Path C - Escalation,600,3.5
+SU-073,I was charged for a subscription I didn't authorize,subscription_issues,Neutral,Instagram,0.84,60%,Path C - Escalation,600,3.5
+SU-074,Can I pause my subscription (query 73)?,subscription_issues,Neutral,Chat,0.91,60%,Path C - Escalation,600,3.5
+SU-075,How do I change my subscription plan (query 74)?,subscription_issues,Neutral,WhatsApp,0.75,60%,Path C - Escalation,600,3.5
+SU-076,"My subscription auto-renewed, is this legal (query 75)?",subscription_issues,Critical,Twitter,0.8,60%,Path C - Escalation,600,2.5
+SU-077,"I don't want a subscription, how do I downgrade (query 76)?",subscription_issues,Neutral,WhatsApp,0.93,60%,Path C - Escalation,600,3.5
+SU-078,My subscription renewed without my permission,subscription_issues,Negative,WhatsApp,0.67,60%,Path C - Escalation,600,3.0
+SU-079,How do I cancel my subscription (query 78)?,subscription_issues,Neutral,Email,0.74,60%,Path C - Escalation,600,3.5
+SU-080,I was charged for a subscription I didn't authorize,subscription_issues,Critical,Chat,0.81,60%,Path C - Escalation,600,2.5
+SU-081,Can I pause my subscription (query 80)?,subscription_issues,Negative,WhatsApp,0.92,60%,Path C - Escalation,600,3.0
+SU-082,How do I change my subscription plan (query 81)?,subscription_issues,Negative,Instagram,0.95,60%,Path C - Escalation,600,3.0
+SU-083,"My subscription auto-renewed, is this legal (query 82)?",subscription_issues,Negative,Instagram,0.88,60%,Path C - Escalation,600,3.0
+SU-084,"I don't want a subscription, how do I downgrade (query 83)?",subscription_issues,Negative,Twitter,0.87,60%,Path C - Escalation,600,3.0
+SU-085,My subscription renewed without my permission,subscription_issues,Positive,Chat,0.85,60%,Path C - Escalation,600,4.0
+SU-086,How do I cancel my subscription (query 85)?,subscription_issues,Neutral,Twitter,0.81,60%,Path C - Escalation,600,3.5
+SU-087,I was charged for a subscription I didn't authorize,subscription_issues,Negative,Email,0.77,60%,Path C - Escalation,600,3.0
+SU-088,Can I pause my subscription (query 87)?,subscription_issues,Negative,Instagram,0.69,60%,Path C - Escalation,600,3.0
+SU-089,How do I change my subscription plan (query 88)?,subscription_issues,Positive,Instagram,0.84,60%,Path C - Escalation,600,4.0
+SU-090,"My subscription auto-renewed, is this legal (query 89)?",subscription_issues,Neutral,Twitter,0.75,60%,Path C - Escalation,600,3.5
+SU-091,"I don't want a subscription, how do I downgrade (query 90)?",subscription_issues,Neutral,Instagram,0.87,60%,Path C - Escalation,600,3.5
+SU-092,My subscription renewed without my permission,subscription_issues,Neutral,Chat,0.79,60%,Path C - Escalation,600,3.5
+SU-093,How do I cancel my subscription (query 92)?,subscription_issues,Negative,Chat,0.95,60%,Path C - Escalation,600,3.0
+SU-094,I was charged for a subscription I didn't authorize,subscription_issues,Critical,WhatsApp,0.8,60%,Path C - Escalation,600,2.5
+SU-095,Can I pause my subscription (query 94)?,subscription_issues,Neutral,Chat,0.98,60%,Path C - Escalation,600,3.5
+SU-096,How do I change my subscription plan (query 95)?,subscription_issues,Neutral,Email,0.8,60%,Path C - Escalation,600,3.5
+SU-097,"My subscription auto-renewed, is this legal (query 96)?",subscription_issues,Neutral,WhatsApp,0.86,60%,Path C - Escalation,600,3.5
+SU-098,"I don't want a subscription, how do I downgrade (query 97)?",subscription_issues,Positive,Instagram,0.85,60%,Path C - Escalation,600,4.0
+SU-099,My subscription renewed without my permission,subscription_issues,Neutral,WhatsApp,0.75,60%,Path C - Escalation,600,3.5
+SU-100,How do I cancel my subscription (query 99)?,subscription_issues,Positive,Instagram,0.95,60%,Path C - Escalation,600,4.0
+PA-001,I was charged twice for this order,payment_issues,Critical,WhatsApp,0.71,55%,Path C - Escalation,600,2.0
+PA-002,"My payment failed, what should I do (query 1)?",payment_issues,Negative,WhatsApp,0.91,55%,Path C - Escalation,600,2.5
+PA-003,I see an unauthorized charge on my account,payment_issues,Negative,Instagram,0.71,55%,Path C - Escalation,600,2.5
+PA-004,Can you apply my discount code (query 3)?,payment_issues,Negative,Email,0.91,55%,Path C - Escalation,600,2.5
+PA-005,"My credit card was declined, can I pay by other means (query 4)?",payment_issues,Critical,Email,0.93,55%,Path C - Escalation,600,2.0
+PA-006,I notice you charged me 3 times. This looks like fraud!,payment_issues,Positive,Twitter,0.94,55%,Path C - Escalation,600,3.5
+PA-007,What payment methods do you accept (query 6)?,payment_issues,Negative,Chat,0.76,55%,Path C - Escalation,600,2.5
+PA-008,I was charged twice for this order,payment_issues,Neutral,Instagram,0.93,55%,Path C - Escalation,600,3.0
+PA-009,"My payment failed, what should I do (query 8)?",payment_issues,Neutral,WhatsApp,0.93,55%,Path C - Escalation,600,3.0
+PA-010,I see an unauthorized charge on my account,payment_issues,Neutral,Email,0.93,55%,Path C - Escalation,600,3.0
+PA-011,Can you apply my discount code (query 10)?,payment_issues,Negative,Instagram,0.7,55%,Path C - Escalation,600,2.5
+PA-012,"My credit card was declined, can I pay by other means (query 11)?",payment_issues,Positive,Chat,0.9,55%,Path C - Escalation,600,3.5
+PA-013,I notice you charged me 3 times. This looks like fraud!,payment_issues,Negative,Twitter,0.67,55%,Path C - Escalation,600,2.5
+PA-014,What payment methods do you accept (query 13)?,payment_issues,Neutral,Instagram,0.94,55%,Path C - Escalation,600,3.0
+PA-015,I was charged twice for this order,payment_issues,Critical,Twitter,0.85,55%,Path C - Escalation,600,2.0
+PA-016,"My payment failed, what should I do (query 15)?",payment_issues,Positive,WhatsApp,0.75,55%,Path C - Escalation,600,3.5
+PA-017,I see an unauthorized charge on my account,payment_issues,Neutral,WhatsApp,0.92,55%,Path C - Escalation,600,3.0
+PA-018,Can you apply my discount code (query 17)?,payment_issues,Neutral,Email,0.9,55%,Path C - Escalation,600,3.0
+PA-019,"My credit card was declined, can I pay by other means (query 18)?",payment_issues,Negative,Email,0.97,55%,Path C - Escalation,600,2.5
+PA-020,I notice you charged me 3 times. This looks like fraud!,payment_issues,Negative,Twitter,0.76,55%,Path C - Escalation,600,2.5
+PA-021,What payment methods do you accept (query 20)?,payment_issues,Neutral,Twitter,0.77,55%,Path C - Escalation,600,3.0
+PA-022,I was charged twice for this order,payment_issues,Neutral,Instagram,0.88,55%,Path C - Escalation,600,3.0
+PA-023,"My payment failed, what should I do (query 22)?",payment_issues,Negative,Instagram,0.84,55%,Path C - Escalation,600,2.5
+PA-024,I see an unauthorized charge on my account,payment_issues,Critical,Twitter,0.83,55%,Path C - Escalation,600,2.0
+PA-025,Can you apply my discount code (query 24)?,payment_issues,Negative,Email,0.93,55%,Path C - Escalation,600,2.5
+PA-026,"My credit card was declined, can I pay by other means (query 25)?",payment_issues,Neutral,Chat,0.72,55%,Path C - Escalation,600,3.0
+PA-027,I notice you charged me 3 times. This looks like fraud!,payment_issues,Positive,Twitter,0.95,55%,Path C - Escalation,600,3.5
+PA-028,What payment methods do you accept (query 27)?,payment_issues,Negative,Email,0.95,55%,Path C - Escalation,600,2.5
+PA-029,I was charged twice for this order,payment_issues,Critical,Email,0.82,55%,Path C - Escalation,600,2.0
+PA-030,"My payment failed, what should I do (query 29)?",payment_issues,Positive,Instagram,0.73,55%,Path C - Escalation,600,3.5
+PA-031,I see an unauthorized charge on my account,payment_issues,Neutral,WhatsApp,0.79,55%,Path C - Escalation,600,3.0
+PA-032,Can you apply my discount code (query 31)?,payment_issues,Positive,Twitter,0.93,55%,Path C - Escalation,600,3.5
+PA-033,"My credit card was declined, can I pay by other means (query 32)?",payment_issues,Neutral,Instagram,0.76,55%,Path C - Escalation,600,3.0
+PA-034,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Instagram,0.93,55%,Path C - Escalation,600,3.0
+PA-035,What payment methods do you accept (query 34)?,payment_issues,Neutral,WhatsApp,0.7,55%,Path C - Escalation,600,3.0
+PA-036,I was charged twice for this order,payment_issues,Positive,Chat,0.97,55%,Path C - Escalation,600,3.5
+PA-037,"My payment failed, what should I do (query 36)?",payment_issues,Neutral,Email,0.94,55%,Path C - Escalation,600,3.0
+PA-038,I see an unauthorized charge on my account,payment_issues,Neutral,Chat,0.81,55%,Path C - Escalation,600,3.0
+PA-039,Can you apply my discount code (query 38)?,payment_issues,Neutral,Chat,0.89,55%,Path C - Escalation,600,3.0
+PA-040,"My credit card was declined, can I pay by other means (query 39)?",payment_issues,Neutral,Instagram,0.91,55%,Path C - Escalation,600,3.0
+PA-041,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,WhatsApp,0.95,55%,Path C - Escalation,600,3.0
+PA-042,What payment methods do you accept (query 41)?,payment_issues,Neutral,Chat,0.85,55%,Path C - Escalation,600,3.0
+PA-043,I was charged twice for this order,payment_issues,Neutral,Instagram,0.74,55%,Path C - Escalation,600,3.0
+PA-044,"My payment failed, what should I do (query 43)?",payment_issues,Neutral,Twitter,0.93,55%,Path C - Escalation,600,3.0
+PA-045,I see an unauthorized charge on my account,payment_issues,Negative,Instagram,0.77,55%,Path C - Escalation,600,2.5
+PA-046,Can you apply my discount code (query 45)?,payment_issues,Neutral,Email,0.78,55%,Path C - Escalation,600,3.0
+PA-047,"My credit card was declined, can I pay by other means (query 46)?",payment_issues,Neutral,WhatsApp,0.71,55%,Path C - Escalation,600,3.0
+PA-048,I notice you charged me 3 times. This looks like fraud!,payment_issues,Negative,Twitter,0.75,55%,Path C - Escalation,600,2.5
+PA-049,What payment methods do you accept (query 48)?,payment_issues,Neutral,WhatsApp,0.93,55%,Path C - Escalation,600,3.0
+PA-050,I was charged twice for this order,payment_issues,Neutral,Chat,0.89,55%,Path C - Escalation,600,3.0
+PA-051,"My payment failed, what should I do (query 50)?",payment_issues,Neutral,Twitter,0.73,55%,Path C - Escalation,600,3.0
+PA-052,I see an unauthorized charge on my account,payment_issues,Critical,Instagram,0.86,55%,Path C - Escalation,600,2.0
+PA-053,Can you apply my discount code (query 52)?,payment_issues,Negative,Instagram,0.74,55%,Path C - Escalation,600,2.5
+PA-054,"My credit card was declined, can I pay by other means (query 53)?",payment_issues,Critical,Twitter,0.75,55%,Path C - Escalation,600,2.0
+PA-055,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Chat,0.91,55%,Path C - Escalation,600,3.0
+PA-056,What payment methods do you accept (query 55)?,payment_issues,Negative,Instagram,0.71,55%,Path C - Escalation,600,2.5
+PA-057,I was charged twice for this order,payment_issues,Neutral,Chat,0.89,55%,Path C - Escalation,600,3.0
+PA-058,"My payment failed, what should I do (query 57)?",payment_issues,Negative,Chat,0.86,55%,Path C - Escalation,600,2.5
+PA-059,I see an unauthorized charge on my account,payment_issues,Neutral,WhatsApp,0.74,55%,Path C - Escalation,600,3.0
+PA-060,Can you apply my discount code (query 59)?,payment_issues,Neutral,WhatsApp,0.95,55%,Path C - Escalation,600,3.0
+PA-061,"My credit card was declined, can I pay by other means (query 60)?",payment_issues,Neutral,WhatsApp,0.75,55%,Path C - Escalation,600,3.0
+PA-062,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Chat,0.83,55%,Path C - Escalation,600,3.0
+PA-063,What payment methods do you accept (query 62)?,payment_issues,Critical,WhatsApp,0.7,55%,Path C - Escalation,600,2.0
+PA-064,I was charged twice for this order,payment_issues,Neutral,WhatsApp,0.86,55%,Path C - Escalation,600,3.0
+PA-065,"My payment failed, what should I do (query 64)?",payment_issues,Positive,Twitter,0.94,55%,Path C - Escalation,600,3.5
+PA-066,I see an unauthorized charge on my account,payment_issues,Positive,Email,0.83,55%,Path C - Escalation,600,3.5
+PA-067,Can you apply my discount code (query 66)?,payment_issues,Positive,WhatsApp,0.79,55%,Path C - Escalation,600,3.5
+PA-068,"My credit card was declined, can I pay by other means (query 67)?",payment_issues,Neutral,Email,0.72,55%,Path C - Escalation,600,3.0
+PA-069,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Twitter,0.71,55%,Path C - Escalation,600,3.0
+PA-070,What payment methods do you accept (query 69)?,payment_issues,Neutral,Chat,0.81,55%,Path C - Escalation,600,3.0
+PA-071,I was charged twice for this order,payment_issues,Negative,Twitter,0.72,55%,Path C - Escalation,600,2.5
+PA-072,"My payment failed, what should I do (query 71)?",payment_issues,Neutral,Instagram,0.94,55%,Path C - Escalation,600,3.0
+PA-073,I see an unauthorized charge on my account,payment_issues,Critical,WhatsApp,0.86,55%,Path C - Escalation,600,2.0
+PA-074,Can you apply my discount code (query 73)?,payment_issues,Critical,Email,0.97,55%,Path C - Escalation,600,2.0
+PA-075,"My credit card was declined, can I pay by other means (query 74)?",payment_issues,Neutral,WhatsApp,0.78,55%,Path C - Escalation,600,3.0
+PA-076,I notice you charged me 3 times. This looks like fraud!,payment_issues,Positive,Email,0.83,55%,Path C - Escalation,600,3.5
+PA-077,What payment methods do you accept (query 76)?,payment_issues,Positive,Email,0.75,55%,Path C - Escalation,600,3.5
+PA-078,I was charged twice for this order,payment_issues,Negative,Twitter,0.72,55%,Path C - Escalation,600,2.5
+PA-079,"My payment failed, what should I do (query 78)?",payment_issues,Neutral,Instagram,0.97,55%,Path C - Escalation,600,3.0
+PA-080,I see an unauthorized charge on my account,payment_issues,Neutral,WhatsApp,0.84,55%,Path C - Escalation,600,3.0
+PA-081,Can you apply my discount code (query 80)?,payment_issues,Neutral,Email,0.84,55%,Path C - Escalation,600,3.0
+PA-082,"My credit card was declined, can I pay by other means (query 81)?",payment_issues,Negative,Instagram,0.89,55%,Path C - Escalation,600,2.5
+PA-083,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Instagram,0.92,55%,Path C - Escalation,600,3.0
+PA-084,What payment methods do you accept (query 83)?,payment_issues,Neutral,Chat,0.9,55%,Path C - Escalation,600,3.0
+PA-085,I was charged twice for this order,payment_issues,Neutral,Instagram,0.86,55%,Path C - Escalation,600,3.0
+PA-086,"My payment failed, what should I do (query 85)?",payment_issues,Neutral,Chat,0.93,55%,Path C - Escalation,600,3.0
+PA-087,I see an unauthorized charge on my account,payment_issues,Negative,Twitter,0.7,55%,Path C - Escalation,600,2.5
+PA-088,Can you apply my discount code (query 87)?,payment_issues,Negative,Instagram,0.7,55%,Path C - Escalation,600,2.5
+PA-089,"My credit card was declined, can I pay by other means (query 88)?",payment_issues,Neutral,Instagram,0.74,55%,Path C - Escalation,600,3.0
+PA-090,I notice you charged me 3 times. This looks like fraud!,payment_issues,Negative,WhatsApp,0.95,55%,Path C - Escalation,600,2.5
+PA-091,What payment methods do you accept (query 90)?,payment_issues,Negative,Email,0.89,55%,Path C - Escalation,600,2.5
+PA-092,I was charged twice for this order,payment_issues,Critical,Chat,0.72,55%,Path C - Escalation,600,2.0
+PA-093,"My payment failed, what should I do (query 92)?",payment_issues,Neutral,Instagram,0.87,55%,Path C - Escalation,600,3.0
+PA-094,I see an unauthorized charge on my account,payment_issues,Positive,WhatsApp,0.78,55%,Path C - Escalation,600,3.5
+PA-095,Can you apply my discount code (query 94)?,payment_issues,Critical,Instagram,0.7,55%,Path C - Escalation,600,2.0
+PA-096,"My credit card was declined, can I pay by other means (query 95)?",payment_issues,Negative,Twitter,0.77,55%,Path C - Escalation,600,2.5
+PA-097,I notice you charged me 3 times. This looks like fraud!,payment_issues,Neutral,Email,0.88,55%,Path C - Escalation,600,3.0
+PA-098,What payment methods do you accept (query 97)?,payment_issues,Negative,Chat,0.89,55%,Path C - Escalation,600,2.5
+PA-099,I was charged twice for this order,payment_issues,Critical,Instagram,0.74,55%,Path C - Escalation,600,2.0
+PA-100,"My payment failed, what should I do (query 99)?",payment_issues,Neutral,WhatsApp,0.75,55%,Path C - Escalation,600,3.0
+GE-001,What are your business hours?,general_questions,Neutral,Email,0.78,80%,Path B - RAG Response,420,4.3
+GE-002,How do I contact customer support (query 1)?,general_questions,Neutral,WhatsApp,0.9,80%,Path B - RAG Response,420,4.3
+GE-003,Can you provide order history for the past 2 years (query 2)?,general_questions,Critical,Twitter,0.89,80%,Path B - RAG Response,420,3.3
+GE-004,Is there a student discount available (query 3)?,general_questions,Neutral,WhatsApp,0.93,80%,Path B - RAG Response,420,4.3
+GE-005,Do you ship internationally (query 4)?,general_questions,Negative,Twitter,0.67,80%,Path B - RAG Response,420,3.8
+GE-006,What's your return policy (query 5)?,general_questions,Neutral,Email,0.85,80%,Path B - RAG Response,420,4.3
+GE-007,How do I reset my password (query 6)?,general_questions,Neutral,WhatsApp,0.71,80%,Path B - RAG Response,420,4.3
+GE-008,Do you have a physical store location (query 7)?,general_questions,Positive,WhatsApp,0.86,80%,Path B - RAG Response,420,4.8
+GE-009,What are your business hours (query 8)?,general_questions,Positive,Twitter,0.81,80%,Path B - RAG Response,420,4.8
+GE-010,How do I contact customer support (query 9)?,general_questions,Neutral,Chat,0.81,80%,Path B - RAG Response,420,4.3
+GE-011,Can you provide order history for the past 2 years (query 10)?,general_questions,Negative,Instagram,0.76,80%,Path B - RAG Response,420,3.8
+GE-012,Is there a student discount available (query 11)?,general_questions,Neutral,Instagram,0.94,80%,Path B - RAG Response,420,4.3
+GE-013,Do you ship internationally (query 12)?,general_questions,Positive,Twitter,0.79,80%,Path B - RAG Response,420,4.8
+GE-014,What's your return policy (query 13)?,general_questions,Neutral,WhatsApp,0.76,80%,Path B - RAG Response,420,4.3
+GE-015,How do I reset my password (query 14)?,general_questions,Neutral,Twitter,0.93,80%,Path B - RAG Response,420,4.3
+GE-016,Do you have a physical store location (query 15)?,general_questions,Positive,Twitter,0.85,80%,Path B - RAG Response,420,4.8
+GE-017,What are your business hours (query 16)?,general_questions,Neutral,Email,0.87,80%,Path B - RAG Response,420,4.3
+GE-018,How do I contact customer support (query 17)?,general_questions,Positive,Chat,0.89,80%,Path B - RAG Response,420,4.8
+GE-019,Can you provide order history for the past 2 years (query 18)?,general_questions,Negative,WhatsApp,0.81,80%,Path B - RAG Response,420,3.8
+GE-020,Is there a student discount available (query 19)?,general_questions,Critical,Instagram,0.86,80%,Path B - RAG Response,420,3.3
+GE-021,Do you ship internationally (query 20)?,general_questions,Positive,Twitter,0.77,80%,Path B - RAG Response,420,4.8
+GE-022,What's your return policy (query 21)?,general_questions,Neutral,Instagram,0.78,80%,Path B - RAG Response,420,4.3
+GE-023,How do I reset my password (query 22)?,general_questions,Positive,Chat,0.78,80%,Path B - RAG Response,420,4.8
+GE-024,Do you have a physical store location (query 23)?,general_questions,Neutral,Instagram,0.87,80%,Path B - RAG Response,420,4.3
+GE-025,What are your business hours (query 24)?,general_questions,Neutral,Instagram,0.96,80%,Path B - RAG Response,420,4.3
+GE-026,How do I contact customer support (query 25)?,general_questions,Positive,Twitter,0.75,80%,Path B - RAG Response,420,4.8
+GE-027,Can you provide order history for the past 2 years (query 26)?,general_questions,Neutral,Twitter,0.9,80%,Path B - RAG Response,420,4.3
+GE-028,Is there a student discount available (query 27)?,general_questions,Positive,Instagram,0.9,80%,Path B - RAG Response,420,4.8
+GE-029,Do you ship internationally (query 28)?,general_questions,Negative,Twitter,0.95,80%,Path B - RAG Response,420,3.8
+GE-030,What's your return policy (query 29)?,general_questions,Critical,Email,0.71,80%,Path B - RAG Response,420,3.3
+GE-031,How do I reset my password (query 30)?,general_questions,Neutral,Instagram,0.93,80%,Path B - RAG Response,420,4.3
+GE-032,Do you have a physical store location (query 31)?,general_questions,Neutral,Email,0.76,80%,Path B - RAG Response,420,4.3
+GE-033,What are your business hours (query 32)?,general_questions,Negative,Chat,0.79,80%,Path B - RAG Response,420,3.8
+GE-034,How do I contact customer support (query 33)?,general_questions,Negative,Twitter,0.88,80%,Path B - RAG Response,420,3.8
+GE-035,Can you provide order history for the past 2 years (query 34)?,general_questions,Negative,Email,0.66,80%,Path B - RAG Response,420,3.8
+GE-036,Is there a student discount available (query 35)?,general_questions,Critical,Twitter,0.89,80%,Path B - RAG Response,420,3.3
+GE-037,Do you ship internationally (query 36)?,general_questions,Neutral,Twitter,0.76,80%,Path B - RAG Response,420,4.3
+GE-038,What's your return policy (query 37)?,general_questions,Negative,Instagram,0.74,80%,Path B - RAG Response,420,3.8
+GE-039,How do I reset my password (query 38)?,general_questions,Positive,Chat,0.9,80%,Path B - RAG Response,420,4.8
+GE-040,Do you have a physical store location (query 39)?,general_questions,Neutral,Twitter,0.96,80%,Path B - RAG Response,420,4.3
+GE-041,What are your business hours (query 40)?,general_questions,Critical,Chat,0.71,80%,Path B - RAG Response,420,3.3
+GE-042,How do I contact customer support (query 41)?,general_questions,Critical,Twitter,0.76,80%,Path B - RAG Response,420,3.3
+GE-043,Can you provide order history for the past 2 years (query 42)?,general_questions,Neutral,WhatsApp,0.9,80%,Path B - RAG Response,420,4.3
+GE-044,Is there a student discount available (query 43)?,general_questions,Neutral,Instagram,0.86,80%,Path B - RAG Response,420,4.3
+GE-045,Do you ship internationally (query 44)?,general_questions,Negative,Twitter,0.85,80%,Path B - RAG Response,420,3.8
+GE-046,What's your return policy (query 45)?,general_questions,Critical,WhatsApp,0.79,80%,Path B - RAG Response,420,3.3
+GE-047,How do I reset my password (query 46)?,general_questions,Neutral,Instagram,0.75,80%,Path B - RAG Response,420,4.3
+GE-048,Do you have a physical store location (query 47)?,general_questions,Neutral,Twitter,0.98,80%,Path B - RAG Response,420,4.3
+GE-049,What are your business hours (query 48)?,general_questions,Neutral,Email,0.77,80%,Path B - RAG Response,420,4.3
+GE-050,How do I contact customer support (query 49)?,general_questions,Neutral,Email,0.92,80%,Path B - RAG Response,420,4.3
+GE-051,Can you provide order history for the past 2 years (query 50)?,general_questions,Positive,Twitter,0.88,80%,Path B - RAG Response,420,4.8
+GE-052,Is there a student discount available (query 51)?,general_questions,Neutral,Email,0.96,80%,Path B - RAG Response,420,4.3
+GE-053,Do you ship internationally (query 52)?,general_questions,Positive,Twitter,0.97,80%,Path B - RAG Response,420,4.8
+GE-054,What's your return policy (query 53)?,general_questions,Neutral,Instagram,0.96,80%,Path B - RAG Response,420,4.3
+GE-055,How do I reset my password (query 54)?,general_questions,Critical,WhatsApp,0.86,80%,Path B - RAG Response,420,3.3
+GE-056,Do you have a physical store location (query 55)?,general_questions,Negative,Twitter,0.66,80%,Path B - RAG Response,420,3.8
+GE-057,What are your business hours (query 56)?,general_questions,Neutral,Instagram,0.91,80%,Path B - RAG Response,420,4.3
+GE-058,How do I contact customer support (query 57)?,general_questions,Neutral,Email,0.76,80%,Path B - RAG Response,420,4.3
+GE-059,Can you provide order history for the past 2 years (query 58)?,general_questions,Critical,Email,0.93,80%,Path B - RAG Response,420,3.3
+GE-060,Is there a student discount available (query 59)?,general_questions,Negative,Twitter,0.73,80%,Path B - RAG Response,420,3.8
+GE-061,Do you ship internationally (query 60)?,general_questions,Negative,Instagram,0.7,80%,Path B - RAG Response,420,3.8
+GE-062,What's your return policy (query 61)?,general_questions,Negative,Instagram,0.66,80%,Path B - RAG Response,420,3.8
+GE-063,How do I reset my password (query 62)?,general_questions,Negative,Instagram,0.92,80%,Path B - RAG Response,420,3.8
+GE-064,Do you have a physical store location (query 63)?,general_questions,Positive,WhatsApp,0.83,80%,Path B - RAG Response,420,4.8
+GE-065,What are your business hours (query 64)?,general_questions,Critical,Twitter,0.7,80%,Path B - RAG Response,420,3.3
+GE-066,How do I contact customer support (query 65)?,general_questions,Positive,Chat,0.96,80%,Path B - RAG Response,420,4.8
+GE-067,Can you provide order history for the past 2 years (query 66)?,general_questions,Neutral,Chat,0.8,80%,Path B - RAG Response,420,4.3
+GE-068,Is there a student discount available (query 67)?,general_questions,Positive,Email,0.74,80%,Path B - RAG Response,420,4.8
+GE-069,Do you ship internationally (query 68)?,general_questions,Neutral,WhatsApp,0.73,80%,Path B - RAG Response,420,4.3
+GE-070,What's your return policy (query 69)?,general_questions,Critical,Chat,0.79,80%,Path B - RAG Response,420,3.3
+GE-071,How do I reset my password (query 70)?,general_questions,Negative,Twitter,0.83,80%,Path B - RAG Response,420,3.8
+GE-072,Do you have a physical store location (query 71)?,general_questions,Neutral,Instagram,0.94,80%,Path B - RAG Response,420,4.3
+GE-073,What are your business hours (query 72)?,general_questions,Neutral,Instagram,0.81,80%,Path B - RAG Response,420,4.3
+GE-074,How do I contact customer support (query 73)?,general_questions,Neutral,Twitter,0.72,80%,Path B - RAG Response,420,4.3
+GE-075,Can you provide order history for the past 2 years (query 74)?,general_questions,Negative,Chat,0.91,80%,Path B - RAG Response,420,3.8
+GE-076,Is there a student discount available (query 75)?,general_questions,Negative,WhatsApp,0.75,80%,Path B - RAG Response,420,3.8
+GE-077,Do you ship internationally (query 76)?,general_questions,Neutral,WhatsApp,0.73,80%,Path B - RAG Response,420,4.3
+GE-078,What's your return policy (query 77)?,general_questions,Neutral,Instagram,0.93,80%,Path B - RAG Response,420,4.3
+GE-079,How do I reset my password (query 78)?,general_questions,Neutral,Twitter,0.74,80%,Path B - RAG Response,420,4.3
+GE-080,Do you have a physical store location (query 79)?,general_questions,Positive,Email,0.88,80%,Path B - RAG Response,420,4.8
+GE-081,What are your business hours (query 80)?,general_questions,Critical,Email,0.77,80%,Path B - RAG Response,420,3.3
+GE-082,How do I contact customer support (query 81)?,general_questions,Negative,Instagram,0.92,80%,Path B - RAG Response,420,3.8
+GE-083,Can you provide order history for the past 2 years (query 82)?,general_questions,Neutral,Twitter,0.98,80%,Path B - RAG Response,420,4.3
+GE-084,Is there a student discount available (query 83)?,general_questions,Negative,Email,0.77,80%,Path B - RAG Response,420,3.8
+GE-085,Do you ship internationally (query 84)?,general_questions,Neutral,Chat,0.86,80%,Path B - RAG Response,420,4.3
+GE-086,What's your return policy (query 85)?,general_questions,Neutral,WhatsApp,0.81,80%,Path B - RAG Response,420,4.3
+GE-087,How do I reset my password (query 86)?,general_questions,Neutral,WhatsApp,0.87,80%,Path B - RAG Response,420,4.3
+GE-088,Do you have a physical store location (query 87)?,general_questions,Neutral,Twitter,0.94,80%,Path B - RAG Response,420,4.3
+GE-089,What are your business hours (query 88)?,general_questions,Critical,Email,0.76,80%,Path B - RAG Response,420,3.3
+GE-090,How do I contact customer support (query 89)?,general_questions,Neutral,WhatsApp,0.78,80%,Path B - RAG Response,420,4.3
+GE-091,Can you provide order history for the past 2 years (query 90)?,general_questions,Neutral,Instagram,0.91,80%,Path B - RAG Response,420,4.3
+GE-092,Is there a student discount available (query 91)?,general_questions,Negative,Email,0.65,80%,Path B - RAG Response,420,3.8
+GE-093,Do you ship internationally (query 92)?,general_questions,Negative,Twitter,0.93,80%,Path B - RAG Response,420,3.8
+GE-094,What's your return policy (query 93)?,general_questions,Negative,Instagram,0.79,80%,Path B - RAG Response,420,3.8
+GE-095,How do I reset my password (query 94)?,general_questions,Neutral,Twitter,0.96,80%,Path B - RAG Response,420,4.3
+GE-096,Do you have a physical store location (query 95)?,general_questions,Neutral,Email,0.9,80%,Path B - RAG Response,420,4.3
+GE-097,What are your business hours (query 96)?,general_questions,Negative,Twitter,0.9,80%,Path B - RAG Response,420,3.8
+GE-098,How do I contact customer support (query 97)?,general_questions,Neutral,Instagram,0.76,80%,Path B - RAG Response,420,4.3
+GE-099,Can you provide order history for the past 2 years (query 98)?,general_questions,Neutral,Email,0.7,80%,Path B - RAG Response,420,4.3
+GE-100,Is there a student discount available (query 99)?,general_questions,Critical,WhatsApp,0.66,80%,Path B - RAG Response,420,3.3

@@ -1,0 +1,101 @@
+Query_ID,Query_Text,Category,Sentiment,Platform,Confidence,Expected_Automation_Rate,Expected_Resolution_Path,Expected_Response_Time_ms,Customer_Satisfaction_Score
+RE-001,I want a refund for my order,refund_requests,Neutral,Instagram,0.95,40%,Path C - Escalation,600,3.2
+RE-002,Can I return and get my money back (query 1)?,refund_requests,Critical,Chat,0.71,40%,Path C - Escalation,600,2.2
+RE-003,"This product is defective, I need a refund",refund_requests,Neutral,Instagram,0.83,40%,Path C - Escalation,600,3.2
+RE-004,"The item arrived damaged, please refund",refund_requests,Neutral,Twitter,0.78,40%,Path C - Escalation,600,3.2
+RE-005,"I changed my mind, can I get a refund (query 4)?",refund_requests,Neutral,Instagram,0.94,40%,Path C - Escalation,600,3.2
+RE-006,How do I process a return for a refund (query 5)?,refund_requests,Critical,Instagram,0.87,40%,Path C - Escalation,600,2.2
+RE-007,"I was charged twice, please refund one",refund_requests,Neutral,Chat,0.86,40%,Path C - Escalation,600,3.2
+RE-008,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Negative,Chat,0.88,40%,Path C - Escalation,600,2.7
+RE-009,I want a refund for my order,refund_requests,Neutral,Chat,0.8,40%,Path C - Escalation,600,3.2
+RE-010,Can I return and get my money back (query 9)?,refund_requests,Neutral,Instagram,0.89,40%,Path C - Escalation,600,3.2
+RE-011,"This product is defective, I need a refund",refund_requests,Negative,WhatsApp,0.82,40%,Path C - Escalation,600,2.7
+RE-012,"The item arrived damaged, please refund",refund_requests,Neutral,Instagram,0.86,40%,Path C - Escalation,600,3.2
+RE-013,"I changed my mind, can I get a refund (query 12)?",refund_requests,Neutral,Email,0.73,40%,Path C - Escalation,600,3.2
+RE-014,How do I process a return for a refund (query 13)?,refund_requests,Neutral,Chat,0.97,40%,Path C - Escalation,600,3.2
+RE-015,"I was charged twice, please refund one",refund_requests,Neutral,Chat,0.71,40%,Path C - Escalation,600,3.2
+RE-016,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Positive,WhatsApp,0.93,40%,Path C - Escalation,600,3.7
+RE-017,I want a refund for my order,refund_requests,Neutral,Twitter,0.87,40%,Path C - Escalation,600,3.2
+RE-018,Can I return and get my money back (query 17)?,refund_requests,Positive,Email,0.95,40%,Path C - Escalation,600,3.7
+RE-019,"This product is defective, I need a refund",refund_requests,Neutral,Email,0.81,40%,Path C - Escalation,600,3.2
+RE-020,"The item arrived damaged, please refund",refund_requests,Positive,Twitter,0.96,40%,Path C - Escalation,600,3.7
+RE-021,"I changed my mind, can I get a refund (query 20)?",refund_requests,Neutral,WhatsApp,0.74,40%,Path C - Escalation,600,3.2
+RE-022,How do I process a return for a refund (query 21)?,refund_requests,Neutral,Chat,0.84,40%,Path C - Escalation,600,3.2
+RE-023,"I was charged twice, please refund one",refund_requests,Negative,Chat,0.88,40%,Path C - Escalation,600,2.7
+RE-024,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Positive,Instagram,0.98,40%,Path C - Escalation,600,3.7
+RE-025,I want a refund for my order,refund_requests,Neutral,WhatsApp,0.86,40%,Path C - Escalation,600,3.2
+RE-026,Can I return and get my money back (query 25)?,refund_requests,Negative,Instagram,0.77,40%,Path C - Escalation,600,2.7
+RE-027,"This product is defective, I need a refund",refund_requests,Neutral,Twitter,0.82,40%,Path C - Escalation,600,3.2
+RE-028,"The item arrived damaged, please refund",refund_requests,Negative,WhatsApp,0.87,40%,Path C - Escalation,600,2.7
+RE-029,"I changed my mind, can I get a refund (query 28)?",refund_requests,Positive,Instagram,0.83,40%,Path C - Escalation,600,3.7
+RE-030,How do I process a return for a refund (query 29)?,refund_requests,Positive,Email,0.7,40%,Path C - Escalation,600,3.7
+RE-031,"I was charged twice, please refund one",refund_requests,Neutral,Instagram,0.94,40%,Path C - Escalation,600,3.2
+RE-032,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Negative,Twitter,0.69,40%,Path C - Escalation,600,2.7
+RE-033,I want a refund for my order,refund_requests,Negative,Email,0.74,40%,Path C - Escalation,600,2.7
+RE-034,Can I return and get my money back (query 33)?,refund_requests,Neutral,WhatsApp,0.87,40%,Path C - Escalation,600,3.2
+RE-035,"This product is defective, I need a refund",refund_requests,Neutral,Twitter,0.86,40%,Path C - Escalation,600,3.2
+RE-036,"The item arrived damaged, please refund",refund_requests,Negative,Chat,0.78,40%,Path C - Escalation,600,2.7
+RE-037,"I changed my mind, can I get a refund (query 36)?",refund_requests,Negative,Twitter,0.79,40%,Path C - Escalation,600,2.7
+RE-038,How do I process a return for a refund (query 37)?,refund_requests,Neutral,Chat,0.88,40%,Path C - Escalation,600,3.2
+RE-039,"I was charged twice, please refund one",refund_requests,Neutral,Instagram,0.75,40%,Path C - Escalation,600,3.2
+RE-040,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Critical,Twitter,0.86,40%,Path C - Escalation,600,2.2
+RE-041,I want a refund for my order,refund_requests,Neutral,WhatsApp,0.89,40%,Path C - Escalation,600,3.2
+RE-042,Can I return and get my money back (query 41)?,refund_requests,Neutral,Chat,0.76,40%,Path C - Escalation,600,3.2
+RE-043,"This product is defective, I need a refund",refund_requests,Neutral,Chat,0.86,40%,Path C - Escalation,600,3.2
+RE-044,"The item arrived damaged, please refund",refund_requests,Neutral,Chat,0.92,40%,Path C - Escalation,600,3.2
+RE-045,"I changed my mind, can I get a refund (query 44)?",refund_requests,Neutral,Email,0.95,40%,Path C - Escalation,600,3.2
+RE-046,How do I process a return for a refund (query 45)?,refund_requests,Neutral,Twitter,0.82,40%,Path C - Escalation,600,3.2
+RE-047,"I was charged twice, please refund one",refund_requests,Negative,WhatsApp,0.66,40%,Path C - Escalation,600,2.7
+RE-048,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Negative,Instagram,0.85,40%,Path C - Escalation,600,2.7
+RE-049,I want a refund for my order,refund_requests,Neutral,Chat,0.74,40%,Path C - Escalation,600,3.2
+RE-050,Can I return and get my money back (query 49)?,refund_requests,Negative,Instagram,0.92,40%,Path C - Escalation,600,2.7
+RE-051,"This product is defective, I need a refund",refund_requests,Positive,Instagram,0.77,40%,Path C - Escalation,600,3.7
+RE-052,"The item arrived damaged, please refund",refund_requests,Positive,Email,0.8,40%,Path C - Escalation,600,3.7
+RE-053,"I changed my mind, can I get a refund (query 52)?",refund_requests,Positive,Twitter,0.73,40%,Path C - Escalation,600,3.7
+RE-054,How do I process a return for a refund (query 53)?,refund_requests,Neutral,Twitter,0.93,40%,Path C - Escalation,600,3.2
+RE-055,"I was charged twice, please refund one",refund_requests,Positive,Chat,0.8,40%,Path C - Escalation,600,3.7
+RE-056,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Positive,WhatsApp,0.77,40%,Path C - Escalation,600,3.7
+RE-057,I want a refund for my order,refund_requests,Neutral,WhatsApp,0.93,40%,Path C - Escalation,600,3.2
+RE-058,Can I return and get my money back (query 57)?,refund_requests,Neutral,WhatsApp,0.79,40%,Path C - Escalation,600,3.2
+RE-059,"This product is defective, I need a refund",refund_requests,Negative,Chat,0.69,40%,Path C - Escalation,600,2.7
+RE-060,"The item arrived damaged, please refund",refund_requests,Neutral,Email,0.85,40%,Path C - Escalation,600,3.2
+RE-061,"I changed my mind, can I get a refund (query 60)?",refund_requests,Neutral,Instagram,0.75,40%,Path C - Escalation,600,3.2
+RE-062,How do I process a return for a refund (query 61)?,refund_requests,Negative,Instagram,0.73,40%,Path C - Escalation,600,2.7
+RE-063,"I was charged twice, please refund one",refund_requests,Neutral,Chat,0.77,40%,Path C - Escalation,600,3.2
+RE-064,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Neutral,WhatsApp,0.77,40%,Path C - Escalation,600,3.2
+RE-065,I want a refund for my order,refund_requests,Neutral,Instagram,0.87,40%,Path C - Escalation,600,3.2
+RE-066,Can I return and get my money back (query 65)?,refund_requests,Neutral,Email,0.8,40%,Path C - Escalation,600,3.2
+RE-067,"This product is defective, I need a refund",refund_requests,Neutral,Chat,0.81,40%,Path C - Escalation,600,3.2
+RE-068,"The item arrived damaged, please refund",refund_requests,Neutral,Chat,0.85,40%,Path C - Escalation,600,3.2
+RE-069,"I changed my mind, can I get a refund (query 68)?",refund_requests,Neutral,WhatsApp,0.74,40%,Path C - Escalation,600,3.2
+RE-070,How do I process a return for a refund (query 69)?,refund_requests,Neutral,Instagram,0.86,40%,Path C - Escalation,600,3.2
+RE-071,"I was charged twice, please refund one",refund_requests,Neutral,Email,0.86,40%,Path C - Escalation,600,3.2
+RE-072,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Neutral,WhatsApp,0.82,40%,Path C - Escalation,600,3.2
+RE-073,I want a refund for my order,refund_requests,Critical,WhatsApp,0.89,40%,Path C - Escalation,600,2.2
+RE-074,Can I return and get my money back (query 73)?,refund_requests,Neutral,WhatsApp,0.91,40%,Path C - Escalation,600,3.2
+RE-075,"This product is defective, I need a refund",refund_requests,Neutral,WhatsApp,0.86,40%,Path C - Escalation,600,3.2
+RE-076,"The item arrived damaged, please refund",refund_requests,Neutral,Twitter,0.96,40%,Path C - Escalation,600,3.2
+RE-077,"I changed my mind, can I get a refund (query 76)?",refund_requests,Positive,Email,0.85,40%,Path C - Escalation,600,3.7
+RE-078,How do I process a return for a refund (query 77)?,refund_requests,Critical,Email,0.74,40%,Path C - Escalation,600,2.2
+RE-079,"I was charged twice, please refund one",refund_requests,Negative,Email,0.87,40%,Path C - Escalation,600,2.7
+RE-080,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Positive,Instagram,0.78,40%,Path C - Escalation,600,3.7
+RE-081,I want a refund for my order,refund_requests,Neutral,Instagram,0.75,40%,Path C - Escalation,600,3.2
+RE-082,Can I return and get my money back (query 81)?,refund_requests,Neutral,WhatsApp,0.75,40%,Path C - Escalation,600,3.2
+RE-083,"This product is defective, I need a refund",refund_requests,Negative,WhatsApp,0.82,40%,Path C - Escalation,600,2.7
+RE-084,"The item arrived damaged, please refund",refund_requests,Critical,Instagram,0.87,40%,Path C - Escalation,600,2.2
+RE-085,"I changed my mind, can I get a refund (query 84)?",refund_requests,Positive,Email,0.81,40%,Path C - Escalation,600,3.7
+RE-086,How do I process a return for a refund (query 85)?,refund_requests,Neutral,Chat,0.94,40%,Path C - Escalation,600,3.2
+RE-087,"I was charged twice, please refund one",refund_requests,Negative,Chat,0.74,40%,Path C - Escalation,600,2.7
+RE-088,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Critical,WhatsApp,0.98,40%,Path C - Escalation,600,2.2
+RE-089,I want a refund for my order,refund_requests,Positive,Chat,0.77,40%,Path C - Escalation,600,3.7
+RE-090,Can I return and get my money back (query 89)?,refund_requests,Negative,WhatsApp,0.79,40%,Path C - Escalation,600,2.7
+RE-091,"This product is defective, I need a refund",refund_requests,Neutral,Chat,0.8,40%,Path C - Escalation,600,3.2
+RE-092,"The item arrived damaged, please refund",refund_requests,Positive,WhatsApp,0.79,40%,Path C - Escalation,600,3.7
+RE-093,"I changed my mind, can I get a refund (query 92)?",refund_requests,Neutral,Twitter,0.71,40%,Path C - Escalation,600,3.2
+RE-094,How do I process a return for a refund (query 93)?,refund_requests,Neutral,Chat,0.7,40%,Path C - Escalation,600,3.2
+RE-095,"I was charged twice, please refund one",refund_requests,Neutral,Instagram,0.74,40%,Path C - Escalation,600,3.2
+RE-096,"The order is 2 weeks late, I want a refund or replacement NOW!",refund_requests,Neutral,Chat,0.81,40%,Path C - Escalation,600,3.2
+RE-097,I want a refund for my order,refund_requests,Positive,WhatsApp,0.79,40%,Path C - Escalation,600,3.7
+RE-098,Can I return and get my money back (query 97)?,refund_requests,Negative,Twitter,0.76,40%,Path C - Escalation,600,2.7
+RE-099,"This product is defective, I need a refund",refund_requests,Negative,Email,0.82,40%,Path C - Escalation,600,2.7
+RE-100,"The item arrived damaged, please refund",refund_requests,Critical,Email,0.77,40%,Path C - Escalation,600,2.2

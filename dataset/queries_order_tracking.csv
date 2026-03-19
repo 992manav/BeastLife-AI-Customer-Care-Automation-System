@@ -1,0 +1,101 @@
+Query_ID,Query_Text,Category,Sentiment,Platform,Confidence,Expected_Automation_Rate,Expected_Resolution_Path,Expected_Response_Time_ms,Customer_Satisfaction_Score
+OR-001,Can you track my order #ORD-98765?,order_tracking,Negative,Email,0.78,95%,Path A - API Resolution,210,4.0
+OR-002,Where's my package (query 1)? Order ORD-45321,order_tracking,Critical,Twitter,0.73,95%,Path A - API Resolution,210,3.5
+OR-003,How do I check my order status (query 2)?,order_tracking,Neutral,WhatsApp,0.92,95%,Path A - API Resolution,210,4.5
+OR-004,What's the status of order #ORD-56789 (query 3)?,order_tracking,Positive,Twitter,0.78,95%,Path A - API Resolution,210,5.0
+OR-005,When will my fitness equipment arrive (query 4)?,order_tracking,Positive,Twitter,0.98,95%,Path A - API Resolution,210,5.0
+OR-006,Is my order ORD-99111 still on schedule (query 5)?,order_tracking,Negative,WhatsApp,0.77,95%,Path A - API Resolution,210,4.0
+OR-007,Can you rush my order delivery (query 6)?,order_tracking,Neutral,Email,0.89,95%,Path A - API Resolution,210,4.5
+OR-008,I need to know my order status ASAP!,order_tracking,Neutral,Twitter,0.98,95%,Path A - API Resolution,210,4.5
+OR-009,Can you track my order #ORD-98765 (query 8)?,order_tracking,Neutral,Twitter,0.97,95%,Path A - API Resolution,210,4.5
+OR-010,Where's my package (query 9)? Order ORD-45321,order_tracking,Critical,Email,0.92,95%,Path A - API Resolution,210,3.5
+OR-011,How do I check my order status (query 10)?,order_tracking,Negative,Instagram,0.68,95%,Path A - API Resolution,210,4.0
+OR-012,What's the status of order #ORD-56789 (query 11)?,order_tracking,Positive,Twitter,0.92,95%,Path A - API Resolution,210,5.0
+OR-013,When will my fitness equipment arrive (query 12)?,order_tracking,Critical,WhatsApp,0.89,95%,Path A - API Resolution,210,3.5
+OR-014,Is my order ORD-99111 still on schedule (query 13)?,order_tracking,Neutral,Twitter,0.84,95%,Path A - API Resolution,210,4.5
+OR-015,Can you rush my order delivery (query 14)?,order_tracking,Neutral,Instagram,0.92,95%,Path A - API Resolution,210,4.5
+OR-016,I need to know my order status ASAP!,order_tracking,Neutral,Instagram,0.92,95%,Path A - API Resolution,210,4.5
+OR-017,Can you track my order #ORD-98765 (query 16)?,order_tracking,Neutral,Twitter,0.75,95%,Path A - API Resolution,210,4.5
+OR-018,Where's my package (query 17)? Order ORD-45321,order_tracking,Neutral,Chat,0.86,95%,Path A - API Resolution,210,4.5
+OR-019,How do I check my order status (query 18)?,order_tracking,Negative,Twitter,0.85,95%,Path A - API Resolution,210,4.0
+OR-020,What's the status of order #ORD-56789 (query 19)?,order_tracking,Negative,Instagram,0.77,95%,Path A - API Resolution,210,4.0
+OR-021,When will my fitness equipment arrive (query 20)?,order_tracking,Negative,Twitter,0.66,95%,Path A - API Resolution,210,4.0
+OR-022,Is my order ORD-99111 still on schedule (query 21)?,order_tracking,Neutral,Email,0.95,95%,Path A - API Resolution,210,4.5
+OR-023,Can you rush my order delivery (query 22)?,order_tracking,Positive,Email,0.95,95%,Path A - API Resolution,210,5.0
+OR-024,I need to know my order status ASAP!,order_tracking,Negative,Chat,0.96,95%,Path A - API Resolution,210,4.0
+OR-025,Can you track my order #ORD-98765 (query 24)?,order_tracking,Neutral,Email,0.71,95%,Path A - API Resolution,210,4.5
+OR-026,Where's my package (query 25)? Order ORD-45321,order_tracking,Neutral,Chat,0.88,95%,Path A - API Resolution,210,4.5
+OR-027,How do I check my order status (query 26)?,order_tracking,Neutral,Instagram,0.92,95%,Path A - API Resolution,210,4.5
+OR-028,What's the status of order #ORD-56789 (query 27)?,order_tracking,Positive,Email,0.87,95%,Path A - API Resolution,210,5.0
+OR-029,When will my fitness equipment arrive (query 28)?,order_tracking,Neutral,WhatsApp,0.97,95%,Path A - API Resolution,210,4.5
+OR-030,Is my order ORD-99111 still on schedule (query 29)?,order_tracking,Neutral,Twitter,0.83,95%,Path A - API Resolution,210,4.5
+OR-031,Can you rush my order delivery (query 30)?,order_tracking,Neutral,Twitter,0.79,95%,Path A - API Resolution,210,4.5
+OR-032,I need to know my order status ASAP!,order_tracking,Positive,Chat,0.73,95%,Path A - API Resolution,210,5.0
+OR-033,Can you track my order #ORD-98765 (query 32)?,order_tracking,Neutral,Twitter,0.84,95%,Path A - API Resolution,210,4.5
+OR-034,Where's my package (query 33)? Order ORD-45321,order_tracking,Neutral,Chat,0.82,95%,Path A - API Resolution,210,4.5
+OR-035,How do I check my order status (query 34)?,order_tracking,Neutral,Email,0.74,95%,Path A - API Resolution,210,4.5
+OR-036,What's the status of order #ORD-56789 (query 35)?,order_tracking,Positive,WhatsApp,0.83,95%,Path A - API Resolution,210,5.0
+OR-037,When will my fitness equipment arrive (query 36)?,order_tracking,Neutral,Twitter,0.9,95%,Path A - API Resolution,210,4.5
+OR-038,Is my order ORD-99111 still on schedule (query 37)?,order_tracking,Negative,Email,0.97,95%,Path A - API Resolution,210,4.0
+OR-039,Can you rush my order delivery (query 38)?,order_tracking,Neutral,Email,0.87,95%,Path A - API Resolution,210,4.5
+OR-040,I need to know my order status ASAP!,order_tracking,Critical,Email,0.94,95%,Path A - API Resolution,210,3.5
+OR-041,Can you track my order #ORD-98765 (query 40)?,order_tracking,Positive,Chat,0.93,95%,Path A - API Resolution,210,5.0
+OR-042,Where's my package (query 41)? Order ORD-45321,order_tracking,Critical,WhatsApp,0.81,95%,Path A - API Resolution,210,3.5
+OR-043,How do I check my order status (query 42)?,order_tracking,Negative,Instagram,0.65,95%,Path A - API Resolution,210,4.0
+OR-044,What's the status of order #ORD-56789 (query 43)?,order_tracking,Negative,Email,0.74,95%,Path A - API Resolution,210,4.0
+OR-045,When will my fitness equipment arrive (query 44)?,order_tracking,Neutral,Instagram,0.95,95%,Path A - API Resolution,210,4.5
+OR-046,Is my order ORD-99111 still on schedule (query 45)?,order_tracking,Positive,Email,0.89,95%,Path A - API Resolution,210,5.0
+OR-047,Can you rush my order delivery (query 46)?,order_tracking,Neutral,Twitter,0.86,95%,Path A - API Resolution,210,4.5
+OR-048,I need to know my order status ASAP!,order_tracking,Negative,Chat,0.91,95%,Path A - API Resolution,210,4.0
+OR-049,Can you track my order #ORD-98765 (query 48)?,order_tracking,Neutral,Chat,0.81,95%,Path A - API Resolution,210,4.5
+OR-050,Where's my package (query 49)? Order ORD-45321,order_tracking,Positive,Email,0.95,95%,Path A - API Resolution,210,5.0
+OR-051,How do I check my order status (query 50)?,order_tracking,Critical,Email,0.79,95%,Path A - API Resolution,210,3.5
+OR-052,What's the status of order #ORD-56789 (query 51)?,order_tracking,Neutral,Instagram,0.94,95%,Path A - API Resolution,210,4.5
+OR-053,When will my fitness equipment arrive (query 52)?,order_tracking,Neutral,WhatsApp,0.75,95%,Path A - API Resolution,210,4.5
+OR-054,Is my order ORD-99111 still on schedule (query 53)?,order_tracking,Positive,Email,0.82,95%,Path A - API Resolution,210,5.0
+OR-055,Can you rush my order delivery (query 54)?,order_tracking,Critical,Twitter,0.81,95%,Path A - API Resolution,210,3.5
+OR-056,I need to know my order status ASAP!,order_tracking,Neutral,Twitter,0.73,95%,Path A - API Resolution,210,4.5
+OR-057,Can you track my order #ORD-98765 (query 56)?,order_tracking,Neutral,Instagram,0.89,95%,Path A - API Resolution,210,4.5
+OR-058,Where's my package (query 57)? Order ORD-45321,order_tracking,Negative,Instagram,0.89,95%,Path A - API Resolution,210,4.0
+OR-059,How do I check my order status (query 58)?,order_tracking,Neutral,Chat,0.97,95%,Path A - API Resolution,210,4.5
+OR-060,What's the status of order #ORD-56789 (query 59)?,order_tracking,Critical,Email,0.77,95%,Path A - API Resolution,210,3.5
+OR-061,When will my fitness equipment arrive (query 60)?,order_tracking,Neutral,Twitter,0.81,95%,Path A - API Resolution,210,4.5
+OR-062,Is my order ORD-99111 still on schedule (query 61)?,order_tracking,Neutral,Chat,0.8,95%,Path A - API Resolution,210,4.5
+OR-063,Can you rush my order delivery (query 62)?,order_tracking,Neutral,Email,0.89,95%,Path A - API Resolution,210,4.5
+OR-064,I need to know my order status ASAP!,order_tracking,Neutral,Instagram,0.94,95%,Path A - API Resolution,210,4.5
+OR-065,Can you track my order #ORD-98765 (query 64)?,order_tracking,Neutral,WhatsApp,0.95,95%,Path A - API Resolution,210,4.5
+OR-066,Where's my package (query 65)? Order ORD-45321,order_tracking,Negative,Chat,0.84,95%,Path A - API Resolution,210,4.0
+OR-067,How do I check my order status (query 66)?,order_tracking,Critical,Chat,0.79,95%,Path A - API Resolution,210,3.5
+OR-068,What's the status of order #ORD-56789 (query 67)?,order_tracking,Neutral,Email,0.81,95%,Path A - API Resolution,210,4.5
+OR-069,When will my fitness equipment arrive (query 68)?,order_tracking,Neutral,Twitter,0.95,95%,Path A - API Resolution,210,4.5
+OR-070,Is my order ORD-99111 still on schedule (query 69)?,order_tracking,Negative,Chat,0.73,95%,Path A - API Resolution,210,4.0
+OR-071,Can you rush my order delivery (query 70)?,order_tracking,Neutral,WhatsApp,0.82,95%,Path A - API Resolution,210,4.5
+OR-072,I need to know my order status ASAP!,order_tracking,Neutral,Twitter,0.78,95%,Path A - API Resolution,210,4.5
+OR-073,Can you track my order #ORD-98765 (query 72)?,order_tracking,Negative,Chat,0.96,95%,Path A - API Resolution,210,4.0
+OR-074,Where's my package (query 73)? Order ORD-45321,order_tracking,Neutral,WhatsApp,0.82,95%,Path A - API Resolution,210,4.5
+OR-075,How do I check my order status (query 74)?,order_tracking,Neutral,WhatsApp,0.81,95%,Path A - API Resolution,210,4.5
+OR-076,What's the status of order #ORD-56789 (query 75)?,order_tracking,Critical,Email,0.8,95%,Path A - API Resolution,210,3.5
+OR-077,When will my fitness equipment arrive (query 76)?,order_tracking,Neutral,Twitter,0.9,95%,Path A - API Resolution,210,4.5
+OR-078,Is my order ORD-99111 still on schedule (query 77)?,order_tracking,Positive,Twitter,0.86,95%,Path A - API Resolution,210,5.0
+OR-079,Can you rush my order delivery (query 78)?,order_tracking,Neutral,WhatsApp,0.8,95%,Path A - API Resolution,210,4.5
+OR-080,I need to know my order status ASAP!,order_tracking,Negative,WhatsApp,0.96,95%,Path A - API Resolution,210,4.0
+OR-081,Can you track my order #ORD-98765 (query 80)?,order_tracking,Negative,Email,0.7,95%,Path A - API Resolution,210,4.0
+OR-082,Where's my package (query 81)? Order ORD-45321,order_tracking,Neutral,WhatsApp,0.72,95%,Path A - API Resolution,210,4.5
+OR-083,How do I check my order status (query 82)?,order_tracking,Negative,Chat,0.75,95%,Path A - API Resolution,210,4.0
+OR-084,What's the status of order #ORD-56789 (query 83)?,order_tracking,Neutral,Twitter,0.89,95%,Path A - API Resolution,210,4.5
+OR-085,When will my fitness equipment arrive (query 84)?,order_tracking,Neutral,Instagram,0.7,95%,Path A - API Resolution,210,4.5
+OR-086,Is my order ORD-99111 still on schedule (query 85)?,order_tracking,Neutral,Instagram,0.83,95%,Path A - API Resolution,210,4.5
+OR-087,Can you rush my order delivery (query 86)?,order_tracking,Neutral,Twitter,0.76,95%,Path A - API Resolution,210,4.5
+OR-088,I need to know my order status ASAP!,order_tracking,Negative,WhatsApp,0.69,95%,Path A - API Resolution,210,4.0
+OR-089,Can you track my order #ORD-98765 (query 88)?,order_tracking,Neutral,Chat,0.96,95%,Path A - API Resolution,210,4.5
+OR-090,Where's my package (query 89)? Order ORD-45321,order_tracking,Negative,Instagram,0.72,95%,Path A - API Resolution,210,4.0
+OR-091,How do I check my order status (query 90)?,order_tracking,Negative,Chat,0.71,95%,Path A - API Resolution,210,4.0
+OR-092,What's the status of order #ORD-56789 (query 91)?,order_tracking,Neutral,WhatsApp,0.96,95%,Path A - API Resolution,210,4.5
+OR-093,When will my fitness equipment arrive (query 92)?,order_tracking,Negative,Instagram,0.72,95%,Path A - API Resolution,210,4.0
+OR-094,Is my order ORD-99111 still on schedule (query 93)?,order_tracking,Negative,Email,0.78,95%,Path A - API Resolution,210,4.0
+OR-095,Can you rush my order delivery (query 94)?,order_tracking,Neutral,WhatsApp,0.83,95%,Path A - API Resolution,210,4.5
+OR-096,I need to know my order status ASAP!,order_tracking,Negative,Email,0.74,95%,Path A - API Resolution,210,4.0
+OR-097,Can you track my order #ORD-98765 (query 96)?,order_tracking,Positive,WhatsApp,0.85,95%,Path A - API Resolution,210,5.0
+OR-098,Where's my package (query 97)? Order ORD-45321,order_tracking,Neutral,Chat,0.97,95%,Path A - API Resolution,210,4.5
+OR-099,How do I check my order status (query 98)?,order_tracking,Critical,Chat,0.96,95%,Path A - API Resolution,210,3.5
+OR-100,What's the status of order #ORD-56789 (query 99)?,order_tracking,Neutral,Chat,0.94,95%,Path A - API Resolution,210,4.5
