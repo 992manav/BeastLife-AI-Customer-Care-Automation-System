@@ -2,7 +2,7 @@
 
 **Submission Date**: March 19, 2026  
 **Challenge**: Beastlife AI Automation & Customer Intelligence Challenge  
-**Candidate Email**: 23ucs639@lnmiit.ac.in
+**Candidate Email**: manavjob992@gmail.com
 
 ---
 
@@ -464,7 +464,7 @@ python main.py batch-test SAMPLE_QUERIES.md
 
 ## 📞 Support & Questions
 
-**Contact**: 23ucs639@lnmiit.ac.in
+**Contact**: manavjob992@gmail.com
 
 **Files for Different Audiences**:
 
@@ -493,5 +493,5 @@ python main.py batch-test SAMPLE_QUERIES.md
 ---
 
 **Last Updated**: March 19, 2026  
-**Candidate**: 23ucs639@lnmiit.ac.in  
+**Candidate**: manavjob992@gmail.com  
 **Status**: ✅ SUBMISSION COMPLETE

@@ -443,7 +443,7 @@ The system demonstrates:
 
 ---
 
-**Candidate Email**: 23ucs639@lnmiit.ac.in  
+**Candidate Email**: manavjob992@gmail.com  
 **Submission Date**: March 19, 2026  
 **Challenge**: Beastlife AI Automation & Customer Intelligence Challenge
 

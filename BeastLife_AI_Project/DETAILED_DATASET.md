@@ -1002,5 +1002,5 @@ Each of 100 queries includes:
 
 **Dataset Created**: March 19, 2026  
 **For**: BeastLife AI Automation & Customer Intelligence Challenge  
-**By**: 23ucs639@lnmiit.ac.in  
+**By**: manavjob992@gmail.com  
 **Status**: ✅ COMPLETE & READY FOR USE

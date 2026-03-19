@@ -2,7 +2,7 @@
 
 **Date**: March 19, 2026  
 **Challenge**: Beastlife AI Automation & Customer Intelligence Challenge  
-**Candidate**: 23ucs639@lnmiit.ac.in  
+**Candidate**: manavjob992@gmail.com  
 **Status**: ✅ **SUBMISSION READY FOR EVALUATION**
 
 ---
@@ -341,7 +341,7 @@ Your submission **fully addresses the Beastlife AI Automation & Customer Intelli
 ---
 
 **Last Updated**: March 19, 2026  
-**Candidate**: 23ucs639@lnmiit.ac.in  
+**Candidate**: manavjob992@gmail.com  
 **Challenge**: Beastlife AI Automation & Customer Intelligence Challenge
 
-**Next Step**: Submit to challenge@beastlife.com with link to this repository.
+**Next Step**: Submit to manavjob992@gmail.com with link to this repository.

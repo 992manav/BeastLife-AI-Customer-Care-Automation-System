@@ -112,7 +112,7 @@ class RAGSystem:
             },
             {
                 "id": "doc_6",
-                "content": "Refund policy: Full refunds available within 30 days of purchase. After 30 days, we cannot process refunds. Contact support at support@beastlife.com for assistance.",
+                "content": "Refund policy: Full refunds available within 30 days of purchase. After 30 days, we cannot process refunds. Contact support at manavjob992@gmail.com for assistance.",
                 "metadata": {"category": "refunds", "source": "policy"}
             },
             {
@@ -122,7 +122,7 @@ class RAGSystem:
             },
             {
                 "id": "doc_8",
-                "content": "Customer support team available Monday-Friday 9AM-6PM EST. Email: support@beastlife.com, Phone: 1-800-BEASTLIFE, Chat: Available on website.",
+                "content": "Customer support team available Monday-Friday 9AM-6PM EST. Email: manavjob992@gmail.com, Phone: 1-800-BEASTLIFE, Chat: Available on website.",
                 "metadata": {"category": "contact", "source": "support"}
             },
         ]
