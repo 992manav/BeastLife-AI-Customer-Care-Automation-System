@@ -21,6 +21,9 @@ This system directly addresses all requirements of the Beastlife AI Challenge:
 | **Sample dataset**                  | 60+ example queries covering all categories                                     | ✅     |
 | **Scale with higher volume**        | Async/horizontal scaling for 1000+ concurrent queries                           | ✅     |
 
+![complex_query_test_1774299303893](https://github.com/user-attachments/assets/eeaaf34a-b6c8-44d8-bb38-aee1295d3d7e)
+
+
 **📋 See [SUBMISSION_CHECKLIST.md](SUBMISSION_CHECKLIST.md) for complete requirement verification.**
 <img width="1860" height="964" alt="image" src="https://github.com/user-attachments/assets/d818dfc7-0bd5-48f3-a2e2-5a5dc736a2db" />
 
